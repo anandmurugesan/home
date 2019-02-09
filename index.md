@@ -19,7 +19,8 @@ Here is a link to my [CV](amurugesan2019.pdf)
 
 **Fields of Interest**
 
-Development  | Public Economics | Experimental | Behavioral Economics 
+Development  | Public Economics
+Experimental | Behavioral Economics 
 
 ### Forthcoming/Submitted/Working Papers 
 Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ Robert Innes, under revision)
