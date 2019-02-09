@@ -1,9 +1,14 @@
 Anand Murugesan   
-*Assistant Professor of Economics*\
-[School of Public Policy](https://people.ceu.edu/anand_murugesan)\
-[Central European University, Budapest](https://www.ceu.edu/)\
-Oktober 6 u. 7, Room 237\
-Phone: +36 1 327 3000 x 2054\
+*Assistant Professor of Economics*
+
+[School of Public Policy](https://people.ceu.edu/anand_murugesan)
+
+[Central European University, Budapest](https://www.ceu.edu/)
+
+Oktober 6 u. 7, Room 237
+
+Phone: +36 1 327 3000 x 2054
+
 [email: murugesana@spp.ceu.edu](murugesana@spp.ceu.edu)
 
 Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
@@ -43,10 +48,14 @@ Frisvold, George and Anand Murugesan (2013), "Use of Weather Information for Agr
 
 Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," International Journal of Ecological Economics and Statistics, Winter 2008, Vol. 10, 91-99.
 
-**Links to recent collaborators**\
- [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)\
- [Christophe Heintz](https://people.ceu.edu/christophe_heintz)\
- [Robert Innes](https://robinnes.weebly.com/)\
+**Links to recent collaborators**
+
+ [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
+ 
+ [Christophe Heintz](https://people.ceu.edu/christophe_heintz)
+ 
+ [Robert Innes](https://robinnes.weebly.com/)
+ 
  [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
 
@@ -54,24 +63,30 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 ## Teaching
 
-**Central European University, Budapest**\
-[Economic Analysis for Public Policy II, Winter 2019](https://courses.ceu.edu/courses/economic-analysis-public-policy-ii-0)\
-[Institutions, Culture and Behavior, Winter 2019](https://courses.ceu.edu/courses/institutions-culture-and-development)\
-[Cognitive Science and Policy Making (co-taught with Christophe Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)\
+**Central European University, Budapest**
 
-**Past courses**\
-*Central European University, Budapest*\
-Economic Analysis for Public Policy I, Fall 2017\
-Cognitive Science and Policy Making (co-taught with Christophe Heintz), Fall 2017\
-Poverty, Health and Development, Winter 2016 and Spring 2017\
-Economic Analysis (co-taught with Michael Dorsch), Fall 2015 and Winter 2017\
-Consumer and Producer Behavior, Winter 2017\
-Quantitative Methods (co-taught with Alexis Diamond), Fall 2016\
-Institutions, Culture and Economic Development, Winter 2016\
+[Economic Analysis for Public Policy II, Winter 2019](https://courses.ceu.edu/courses/economic-analysis-public-policy-ii-0)
 
-*University of California, Merced*\
-Statistical Inference, Spring 2015\
-Intermediate Microeconomic Theory, Summer 2014\
+[Institutions, Culture and Behavior, Winter 2019](https://courses.ceu.edu/courses/institutions-culture-and-development)
+
+[Cognitive Science and Policy Making (co-taught with Christophe Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)
+
+**Past courses**
+
+*Central European University, Budapest*
+
+Economic Analysis for Public Policy I, Fall 2017
+
+Cognitive Science and Policy Making (co-taught with Christophe Heintz), Fall 2017
+Poverty, Health and Development, Winter 2016 and Spring 2017
+Economic Analysis (co-taught with Michael Dorsch), Fall 2015 and Winter 2017
+Consumer and Producer Behavior, Winter 2017
+Quantitative Methods (co-taught with Alexis Diamond), Fall 2016
+Institutions, Culture and Economic Development, Winter 2016
+
+*University of California, Merced*
+Statistical Inference, Spring 2015
+Intermediate Microeconomic Theory, Summer 2014
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
 “The most exciting phrase in science isn’t ‘Eureka!’, but ‘That’s funny…’”  - attributed to Isaac Asimov
