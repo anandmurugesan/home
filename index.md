@@ -67,7 +67,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 [Institutions, Culture and Behavior, Winter 2019](https://courses.ceu.edu/courses/institutions-culture-and-development)
 
-[Cognitive Science and Policy Making (co-taught w/ Christophe Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)
+[Cognitive Science and Policy Making (co-taught w/ C. Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)
 
 **Past courses**
 
@@ -80,9 +80,9 @@ Consumer and Producer Behavior, Winter 2017<br/>
 Quantitative Methods (co-taught w/ Alexis Diamond), Fall 2016<br/>
 Institutions, Culture and Economic Development, Winter 2016
 
-*University of California, Merced*\
-Statistical Inference, Spring 2015\
-Intermediate Microeconomic Theory, Summer 2014\
+*University of California, Merced*<br/>
+Statistical Inference, Spring 2015<br/>
+Intermediate Microeconomic Theory, Summer 2014<br/>
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
 *“The most exciting phrase in science isn’t ‘Eureka!’, but ‘That’s funny…’”*  - attributed to Isaac Asimov
