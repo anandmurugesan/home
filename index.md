@@ -55,9 +55,9 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
- [Christophe Heintz](https://people.ceu.edu/christophe_heintz)
- [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
- [Robert Innes](https://robinnes.weebly.com/)
+ [Christophe Heintz](https://people.ceu.edu/christophe_heintz)\
+ [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)\
+ [Robert Innes](https://robinnes.weebly.com/)\
  [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
@@ -74,20 +74,18 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 **Past courses**
 
-*Central European University, Budapest*
-
-Economic Analysis for Public Policy I, Fall 2017
-
-Cognitive Science and Policy Making (co-taught with Christophe Heintz), Fall 2017
-Poverty, Health and Development, Winter 2016 and Spring 2017
-Economic Analysis (co-taught with Michael Dorsch), Fall 2015 and Winter 2017
-Consumer and Producer Behavior, Winter 2017
-Quantitative Methods (co-taught with Alexis Diamond), Fall 2016
+*Central European University, Budapest*\
+Economic Analysis for Public Policy I, Fall 2017\
+Cognitive Science and Policy Making (co-taught with Christophe Heintz), Fall 2017\
+Poverty, Health and Development, Winter 2016 and Spring 2017\
+Economic Analysis (co-taught with Michael Dorsch), Fall 2015 and Winter 2017\
+Consumer and Producer Behavior, Winter 2017\
+Quantitative Methods (co-taught with Alexis Diamond), Fall 2016\
 Institutions, Culture and Economic Development, Winter 2016
 
-*University of California, Merced*
-Statistical Inference, Spring 2015
-Intermediate Microeconomic Theory, Summer 2014
+*University of California, Merced*\
+Statistical Inference, Spring 2015\
+Intermediate Microeconomic Theory, Summer 2014\
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
 *“The most exciting phrase in science isn’t ‘Eureka!’, but ‘That’s funny…’”*  - attributed to Isaac Asimov
