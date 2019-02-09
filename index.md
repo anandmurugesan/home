@@ -1,5 +1,6 @@
 Anand Murugesan   
 *Assistant Professor of Economics*
+
 [School of Public Policy](https://people.ceu.edu/anand_murugesan)
 [Central European University, Budapest](https://www.ceu.edu/)
 Oktober 6 u. 7, Room 237
