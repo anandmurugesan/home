@@ -89,7 +89,7 @@ Statistical Inference, Spring 2015
 Intermediate Microeconomic Theory, Summer 2014
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
-“The most exciting phrase in science isn’t ‘Eureka!’, but ‘That’s funny…’”  - attributed to Isaac Asimov
+*“The most exciting phrase in science isn’t ‘Eureka!’, but ‘That’s funny…’”*  - attributed to Isaac Asimov
 
 
 
