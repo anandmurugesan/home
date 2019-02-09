@@ -73,7 +73,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 *Central European University, Budapest*<br/>
 Economic Analysis for Public Policy I, Fall 2017<br/>
-Cognitive Science and Policy Making (co-taught w/ Christophe Heintz), Fall 2017<br/>
+Cognitive Science and Policy Making (co-taught w/ C. Heintz), Fall 2017<br/>
 Poverty, Health and Development, Winter 2016 and Spring 2017<br/>
 Economic Analysis (co-taught w/ Michael Dorsch), Fall 2015 and Winter 2017<br/>
 Consumer and Producer Behavior, Winter 2017<br/>
