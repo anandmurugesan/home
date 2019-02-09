@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
-title: Anand Murugesan's homepage
+title: Anand Murugesan
 description: You will find my research, teaching and other updates here.
 logo: /am2016.png
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [55493687]
 
