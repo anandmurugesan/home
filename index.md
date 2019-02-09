@@ -13,7 +13,7 @@ Phone: +36 1 327 3000 x 2054
 
 Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
-Here is a link to my [CV](cv2019.pdf)
+Here is a link to my [CV](/CV_December2018_AMurugesan.pdf)
 
 ## Research 
 
