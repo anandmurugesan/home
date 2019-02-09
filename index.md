@@ -1,7 +1,10 @@
 Anand Murugesan   
 *Assistant Professor of Economics*
+
 [School of Public Policy](https://people.ceu.edu/anand_murugesan)
+
 [Central European University, Budapest](https://www.ceu.edu/)
+
 Oktober 6 u. 7, Room 237
 Phone: +36 1 327 3000 x 2054
 [email: murugesana@spp.ceu.edu](murugesana@spp.ceu.edu)
