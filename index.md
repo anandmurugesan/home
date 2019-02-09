@@ -41,7 +41,7 @@ Cash for Votes (w/ Jean-Robert Tyran)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
-Economic, Ecological and Political Dynamics of Industrial Siting (w/ Team)
+Economic, Ecological and Political Dynamics of Industrial Siting (w/ team)
 
 The Unintended Effects of Cattle Slaughter Ban in India
 
@@ -54,14 +54,11 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 **Links to recent collaborators**
 
- [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
- 
- [Christophe Heintz](https://people.ceu.edu/christophe_heintz)
- 
- [Robert Innes](https://robinnes.weebly.com/)
- 
- [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
+ [Christophe Heintz](https://people.ceu.edu/christophe_heintz)
+ [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+ [Robert Innes](https://robinnes.weebly.com/)
+ [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
