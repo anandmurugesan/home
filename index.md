@@ -67,17 +67,17 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 [Institutions, Culture and Behavior, Winter 2019](https://courses.ceu.edu/courses/institutions-culture-and-development)
 
-[Cognitive Science and Policy Making (co-taught with Christophe Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)
+[Cognitive Science and Policy Making (co-taught w/ Christophe Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)
 
 **Past courses**
 
 *Central European University, Budapest*<br/>
 Economic Analysis for Public Policy I, Fall 2017<br/>
-Cognitive Science and Policy Making (co-taught with Christophe Heintz), Fall 2017<br/>
+Cognitive Science and Policy Making (co-taught w/ Christophe Heintz), Fall 2017<br/>
 Poverty, Health and Development, Winter 2016 and Spring 2017<br/>
-Economic Analysis (co-taught with Michael Dorsch), Fall 2015 and Winter 2017<br/>
+Economic Analysis (co-taught w/ Michael Dorsch), Fall 2015 and Winter 2017<br/>
 Consumer and Producer Behavior, Winter 2017<br/>
-Quantitative Methods (co-taught with Alexis Diamond), Fall 2016<br/>
+Quantitative Methods (co-taught w/ Alexis Diamond), Fall 2016<br/>
 Institutions, Culture and Economic Development, Winter 2016
 
 *University of California, Merced*\
