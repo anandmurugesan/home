@@ -1,19 +1,15 @@
 Anand Murugesan   
-*Assistant Professor of Economics*
-
-[School of Public Policy](https://people.ceu.edu/anand_murugesan)
-
-[Central European University, Budapest](https://www.ceu.edu/)
-
-Oktober 6 u. 7, Room 237
-
-Phone: +36 1 327 3000 x 2054
-
+*Assistant Professor of Economics*\
+[School of Public Policy](https://people.ceu.edu/anand_murugesan)\
+[Central European University, Budapest](https://www.ceu.edu/)\
+Oktober 6 u. 7, Room 237\
+Phone: +36 1 327 3000 x 2054\
 [email: murugesana@spp.ceu.edu](murugesana@spp.ceu.edu)
 
 Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
 ## Research 
+
 **Fields of Interest**
 Development  | Public Economics
 Experimental | Behavioral Economics
@@ -47,7 +43,7 @@ Frisvold, George and Anand Murugesan (2013), "Use of Weather Information for Agr
 
 Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," International Journal of Ecological Economics and Statistics, Winter 2008, Vol. 10, 91-99.
 
-**Links to recent collaborators** 
+**Links to recent collaborators**\
  [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)\
  [Christophe Heintz](https://people.ceu.edu/christophe_heintz)\
  [Robert Innes](https://robinnes.weebly.com/)\
