@@ -12,6 +12,8 @@ Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
 Here is a link to my [CV](cvfeb2019.pdf)
 
+---
+
 ## Research 
 
 **Fields of Interest**
@@ -57,8 +59,10 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
  [Robert Innes](https://robinnes.weebly.com/);
  [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
+
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
+---
 ## Teaching
 
 **Central European University, Budapest**
