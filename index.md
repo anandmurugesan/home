@@ -54,12 +54,10 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
- [Christophe Heintz](https://people.ceu.edu/christophe_heintz)| [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) | [Robert Innes](https://robinnes.weebly.com/) | [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
-
-
-*"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
+ [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) | [Robert Innes](https://robinnes.weebly.com/) | [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 ---
+
 ## Teaching
 
 **Central European University, Budapest**
@@ -86,7 +84,8 @@ Statistical Inference, Spring 2015<br/>
 Intermediate Microeconomic Theory, Summer 2014<br/>
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
-*“The most exciting phrase in science isn’t ‘Eureka!’, but ‘That’s funny…’”*  - attributed to Isaac Asimov
+---
+*"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
 
 
