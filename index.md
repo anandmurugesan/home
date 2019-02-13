@@ -56,7 +56,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
  [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) | [Robert Innes](https://robinnes.weebly.com/) | [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
----
+
 
 ## Teaching
 
