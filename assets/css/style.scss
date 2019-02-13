@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-.page {
-  width: calc(100% - #{$right-sidebar-width-narrow});
-}
+        @media #{$large} {
+        @include grid(12,9);
+        }
+        @media #{$x-large} {
+            @include grid(12,8);
+        }
