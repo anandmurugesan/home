@@ -31,7 +31,7 @@ Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health E
 
 Testing Rules, Behavior and  HIV Transmission (currently revising)
 
-Electoral Clientelism and Vote Buying  in Oxford Research Encyclopedia of Political Decision Making (forthcoming)
+Electoral Clientelism and Vote Buying  in Oxford Research Encyclopedia of Political Decision Making 
 
 ### Current Projects
 Cash for Votes (w/ Jean-Robert Tyran)
