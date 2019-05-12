@@ -23,15 +23,15 @@ Development  | Public Economics
 Experimental | Behavioral Economics 
 
 ### Forthcoming/Submitted/Working Papers 
-Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ Robert Innes, under revision)
+Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ Robert Innes, revising)
 
 The Impact of Network Goods on Health: Evidence from India (w/ Vikram Dayal and Tauhidur Rahman, under review)
 
 Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India (w/ S. Das, V. Dayal and R. Uma, under review)
 
-Testing Rules, Behavior and  HIV Transmission (currently revising)
+Testing Rules, Behavior and  HIV Transmission (revising)
 
-Electoral Clientelism and Vote Buying  in Oxford Research Encyclopedia of Political Decision Making (under review)
+Electoral Clientelism and Vote Buying  in Oxford Research Encyclopedia of Political Decision Making (revise and resubmit)
 
 ### Current Projects
 Cash for Votes (w/ Jean-Robert Tyran)
