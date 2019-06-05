@@ -40,8 +40,6 @@ Cash for Votes (w/ Jean-Robert Tyran)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
-Economic, Ecological and Political Dynamics of Industrial Siting (w/ team)
-
 The Unintended Effects of Cattle Slaughter Ban in India (w/ Jitendra Singh)
 
 [Just Data](https://www.ceu.edu/project/just-data) (w/ team)
