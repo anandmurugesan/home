@@ -42,7 +42,7 @@ Cash for Votes (w/ Jean-Robert Tyran)
 
 Economic, Ecological and Political Dynamics of Industrial Siting (w/ team)
 
-The Unintended Effects of Cattle Slaughter Ban in India
+The Unintended Effects of Cattle Slaughter Ban in India (w/ Jitendra Singh)
 
 [Just Data](https://www.ceu.edu/project/just-data) (w/ team)
 
