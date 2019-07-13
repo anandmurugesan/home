@@ -34,7 +34,7 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 Electoral Clientelism and Vote Buying  in Oxford Research Encyclopedia of Political Decision Making (revise and resubmit)
 
 ### Current Projects
-Cash for Votes (w/ Jean-Robert Tyran)
+Democracy For Sale (w/ Jean-Robert Tyran)
 
 [(Why) Do People Give More for Local Public Goods?](https://sozialmarie.org/index.php/sk/projects/7826) [(w/ Tiziana Centofanti)](https://people.ceu.edu/tiziana_centofanti)
 
@@ -60,22 +60,24 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 **Central European University, Budapest**
 
-[Economic Analysis for Public Policy II, Winter 2019](https://courses.ceu.edu/courses/economic-analysis-public-policy-ii-0)
+[Economic Analysis for Public Policy, Fall 2019](https://courses.ceu.edu/courses/2019-2020/economic-analysis-public-policy)
 
-[Institutions, Culture and Behavior, Winter 2019](https://courses.ceu.edu/courses/institutions-culture-and-development)
+**Central European University, Vienna**
 
-[Cognitive Science and Policy Making (co-taught w/ C. Heintz), Winter 2019](https://courses.ceu.edu/courses/cognitive-science-and-policy-making)
+Data and Development, Winter 2020
+Institutions, Culture and Development, Winter 2020
 
 **Past courses**
 
 *Central European University, Budapest*<br/>
+Economic Analysis for Public Policy II, Winter 2019<br/>
 Economic Analysis for Public Policy I, Fall 2017<br/>
-Cognitive Science and Policy Making (co-taught w/ C. Heintz), Fall 2017<br/>
+Cognitive Science and Policy Making (co-taught w/ C. Heintz), Fall 2017 and Winter 2019<br/>
 Poverty, Health and Development, Winter 2016 and Spring 2017<br/>
 Economic Analysis (co-taught w/ Michael Dorsch), Fall 2015 and Winter 2017<br/>
 Consumer and Producer Behavior, Winter 2017<br/>
 Quantitative Methods (co-taught w/ Alexis Diamond), Fall 2016<br/>
-Institutions, Culture and Economic Development, Winter 2016
+Institutions, Culture and Economic Development, Winter 2016 and 2019
 
 *University of California, Merced*<br/>
 Statistical Inference, Spring 2015<br/>
