@@ -27,7 +27,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ Rob
 
 Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India (w/ S. Das, V. Dayal and R. Uma, *revise & resubmit* Environment and Development Economics)
 
-Electoral Clientelism and Vote Buying  (*revise and resubmit* Oxford Research Encyclopedia of Politics)
+Electoral Clientelism and Vote Buying  (*revise & resubmit* Oxford Research Encyclopedia of Politics)
 
 The Impact of Network Goods on Health: Evidence from India (w/ Vikram Dayal and Tauhidur Rahman, under review)
 
