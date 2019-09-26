@@ -65,8 +65,8 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 **Central European University, Vienna**
 
-Data and Development, Winter 2020<br/>
-Institutions, Culture and Development, Winter 2020
+[Data and Development, Winter 2020](https://courses.ceu.edu/courses/2019-2020/data-and-development) <br/>
+[Institutions, Culture and Development, Winter 2020](https://courses.ceu.edu/courses/2019-2020/institutional-and-behavioral-economics)
 
 **Past courses**
 
