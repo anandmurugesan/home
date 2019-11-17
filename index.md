@@ -37,7 +37,7 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 ### Current Projects
 Democracy For Sale (w/ Jean-Robert Tyran)
 
-Greening the Margin: The Effect of Leadership and Participation on the Generation of Environmental Public Goods (w/ Tiziana Centofanti)
+Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ Tiziana Centofanti)
 
 The Effects of Cow-Related Violence in India (w/ Jitendra Singh)
 
