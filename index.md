@@ -37,7 +37,7 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 ### Current Projects
 Democracy For Sale (w/ Jean-Robert Tyran)
 
-[Greening the Margin: The Effect of Leadership and Participation on the Generation of Environmental Public Goods](https://sozialmarie.org/index.php/sk/projects/7826) [(w/ Tiziana Centofanti)](https://people.ceu.edu/tiziana_centofanti)
+Greening the Margin: The Effect of Leadership and Participation on the Generation of Environmental Public Goods [(w/ Tiziana Centofanti)](https://people.ceu.edu/tiziana_centofanti)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
