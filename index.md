@@ -39,9 +39,9 @@ Democracy For Sale (w/ Jean-Robert Tyran)
 
 Greening the Margin: The Effect of Leadership and Participation on the Generation of Environmental Public Goods (w/ Tiziana Centofanti)
 
-[Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
+The Effects of Cow-Related Violence in India (w/ Jitendra Singh)
 
-The Unintended Effects of Cattle Slaughter Ban in India (w/ Jitendra Singh)
+[Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
 [Just Data](https://www.ceu.edu/project/just-data) (w/ team)
 
