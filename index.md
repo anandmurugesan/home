@@ -3,8 +3,10 @@ Anand Murugesan
 
 [School of Public Policy](https://people.ceu.edu/anand_murugesan)<br/>
 [Central European University, Budapest](https://www.ceu.edu/)<br/>
-Oktober 6 u. 7, Room 237<br/>
 Phone: +36 1 327 3000 x 2054
+
+B-1112, Quellenstrasse 51, Quellenstraße 51, 1100 Wien
+[Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 
 [email: murugesana@spp.ceu.edu](murugesana@spp.ceu.edu)
 
