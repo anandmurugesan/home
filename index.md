@@ -59,18 +59,16 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 ## Teaching
 
-**Central European University, Budapest**
-
-[Economic Analysis for Public Policy, Fall 2019](https://courses.ceu.edu/courses/2019-2020/economic-analysis-public-policy)
-
 **Central European University, Vienna**
 
 [Data and Development, Winter 2020](https://courses.ceu.edu/courses/2019-2020/data-and-development) <br/>
 [Institutions, Culture and Development, Winter 2020](https://courses.ceu.edu/courses/2019-2020/institutional-and-behavioral-economics)
 
+
 **Past courses**
 
 *Central European University, Budapest*<br/>
+Economic Analysis for Public Policy, Fall 2019<br/>
 Economic Analysis for Public Policy II, Winter 2019<br/>
 Economic Analysis for Public Policy I, Fall 2017<br/>
 Cognitive Science and Policy Making (co-taught w/ C. Heintz), Fall 2017 and Winter 2019<br/>
