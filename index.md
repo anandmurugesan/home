@@ -39,7 +39,7 @@ Democracy For Sale (w/ Jean-Robert Tyran)
 
 Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ Tiziana Centofanti)
 
-The Effects of Cow-Related Violence in India (w/ Jitendra Singh)
+The Effects of Cow-Related Lynching in India (w/ Jitendra Singh)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
