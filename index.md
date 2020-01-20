@@ -5,7 +5,7 @@ Anand Murugesan
 [Central European University, Budapest](https://www.ceu.edu/)<br/>
 Phone: +36 1 327 3000 x 2054
 
-B-1112, Quellenstraße 51, 1100 Wien <br/>
+B-112, Quellenstraße 51, 1100 Wien <br/>
 [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 
 [email: murugesana@spp.ceu.edu](murugesana@spp.ceu.edu)
@@ -64,7 +64,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Central European University, Vienna**
 
 [Data and Development, Winter 2020](https://courses.ceu.edu/courses/2019-2020/data-and-development) <br/>
-[Institutions, Culture and Development, Winter 2020](https://courses.ceu.edu/courses/2019-2020/institutional-and-behavioral-economics)
+[Institutional and Behavioral Economics, Winter 2020](https://courses.ceu.edu/courses/2019-2020/institutional-and-behavioral-economics)
 
 
 **Past courses**
