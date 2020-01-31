@@ -85,6 +85,11 @@ Statistical Inference, Spring 2015<br/>
 Intermediate Microeconomic Theory, Summer 2014<br/>
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
+
+## Other links
+
+My brother's recent paper on [the effect of angular momentum in spiral galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687)
+
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
