@@ -88,7 +88,7 @@ Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
 ## Other links
 
-My brother's recent paper on [the effect of angular momentum in spiral galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687)
+My brother's recent paper on [the effect of angular momentum in spiral galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687) <br/>
 Some pictures of field-work on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery)
 
 ---
