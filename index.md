@@ -49,9 +49,9 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 ### Current Projects
 Democracy For Sale (w/ Jean-Robert Tyran)
 
-Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ Tiziana Centofanti)
-
 Holy Cow! The Effects of Cow-Related Lynching in India (w/ Jitendra Singh)
+
+Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ Tiziana Centofanti)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
