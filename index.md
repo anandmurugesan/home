@@ -57,10 +57,13 @@ Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods 
 
 [Just Data](https://www.ceu.edu/project/just-data) (w/ team)
 
-### Other Publications
+### Other publications and contributions
+
 Frisvold, George and Anand Murugesan (2013), "Use of Weather Information for Agricultural Decision Making," Weather, Climate and Society, 5, January Issue, 55-69.
 
 Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," International Journal of Ecological Economics and Statistics, Winter 2008, Vol. 10, 91-99.
+
+[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0) (contributed to this JRC report as the lead author of the economics team)
 
 **Links to recent collaborators**
 
