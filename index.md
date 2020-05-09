@@ -47,7 +47,7 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 
 
 ### Current Projects
-Democracy For Sale (w/ Jean-Robert Tyran)
+Democracy For Sale (w/ J-R. Tyran)
 
 Holy Cow! The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
