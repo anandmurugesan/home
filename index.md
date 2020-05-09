@@ -35,13 +35,13 @@ Development  | Public Economics
 Experimental | Behavioral Economics 
 
 ### Forthcoming/Submitted/Working Papers 
-[Markets For Children: International Adoptions, IVF, and U.S. Foster Care](https://www.dropbox.com/s/3p4u3r70itjke4c/AdoptionDraft_Murugesan.pdf?dl=0) (w/ Robert Innes, revising)
+[Markets For Children: International Adoptions, IVF, and U.S. Foster Care](https://www.dropbox.com/s/3p4u3r70itjke4c/AdoptionDraft_Murugesan.pdf?dl=0) (w/ R. Innes, revising)
 
 [Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/36ciiet27snl7tc/TotalAirPollutionModel_Dec2019.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, *revise & resubmit* Environment and Development Economics)
 
 Electoral Clientelism and Vote Buying  (*forthcoming* Oxford Research Encyclopedia of Political Decision Making)
 
-The Impact of Network Goods on Health: Evidence from India (w/ Vikram Dayal and Tauhidur Rahman, under review)
+The Impact of Network Goods on Health: Evidence from India (w/ V. Dayal and T. Rahman, under review)
 
 Testing Rules, Behavior and  HIV Transmission (revising)
 
@@ -49,9 +49,9 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 ### Current Projects
 Democracy For Sale (w/ Jean-Robert Tyran)
 
-Holy Cow! The Effects of Cow-Related Lynching in India (w/ Jitendra Singh)
+Holy Cow! The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
-Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ Tiziana Centofanti)
+Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ T. Centofanti)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
