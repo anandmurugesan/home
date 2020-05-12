@@ -49,9 +49,9 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 ### Current Projects
 Democracy For Sale (w/ J-R. Tyran)
 
-Holy Cow! The Effects of Cow-Related Lynching in India (w/ J. Singh)
+*Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
-Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods (w/ T. Centofanti)
+Leaders and participation on giving for local public goods: Experimental evidence from communities in EasternEurope (w/ T. Centofanti)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
