@@ -51,7 +51,7 @@ Democracy For Sale (w/ J-R. Tyran)
 
 *Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
-Leaders and participation on giving for local public goods: Experimental evidence from communities in EasternEurope (w/ T. Centofanti)
+Leaders and participation on giving for local public goods: Experimental evidence from Eastern Europe (w/ T. Centofanti)
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
