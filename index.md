@@ -55,6 +55,8 @@ Greening the Margin: Lab-in-the-Field Experiments on Environmental Public Goods 
 
 [Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
+*Demystifying causal inference*: ingredients of a recipe (w/ V. Dayal)
+
 [Just Data](https://www.ceu.edu/project/just-data) (w/ team)
 
 ### Other publications and contributions
