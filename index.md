@@ -57,8 +57,6 @@ Leaders and participation on giving for local public goods: Experimental evidenc
 
 *Demystifying causal inference*: ingredients of a recipe (w/ V. Dayal)
 
-[Just Data](https://www.ceu.edu/project/just-data) (w/ team)
-
 ### Other publications and contributions
 
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0) (2019, contributed to this JRC report as the lead author of the economics team)
