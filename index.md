@@ -47,15 +47,16 @@ Testing Rules, Behavior and  HIV Transmission (revising)
 
 
 ### Current Projects
+
 Democracy For Sale (w/ J-R. Tyran)
 
 *Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
-Leaders and citizen participation for the environment: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
-
-[Beliefs fostering dishonest behavior: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
+*Leaders and citizen participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
 
 *Demystifying causal inference*: ingredients of a recipe (w/ V. Dayal)
+
+[*Beliefs fostering dishonest behavior*: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
 ### Other publications and contributions
 
