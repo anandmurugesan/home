@@ -41,9 +41,7 @@ Experimental | Behavioral Economics
 
 Electoral Clientelism and Vote Buying  (*forthcoming* Oxford Research Encyclopedia of Political Decision Making)
 
-The Impact of Network Goods on Health: Evidence from India (w/ V. Dayal and T. Rahman, under review)
-
-Testing Rules, Behavior and  HIV Transmission (revising)
+[*Demystifying causal inference*: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal)
 
 
 ### Current Projects
@@ -54,7 +52,9 @@ Democracy For Sale (w/ J-R. Tyran)
 
 *Leaders and citizen participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
 
-*Demystifying causal inference*: ingredients of a recipe (w/ V. Dayal)
+The Impact of Network Goods on Health: Evidence from India (w/ V. Dayal and T. Rahman)
+
+Testing Rules, Behavior and  HIV Transmission (revising)
 
 [*Beliefs fostering dishonest behavior*: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
