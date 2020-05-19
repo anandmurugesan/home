@@ -50,7 +50,7 @@ Democracy For Sale (w/ J-R. Tyran)
 
 *Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
-*Leaders and citizen participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
+*Leader and citizens participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
 
 The Impact of Network Goods on Health: Evidence from India (w/ V. Dayal and T. Rahman)
 
@@ -69,7 +69,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
- [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) | [Robert Innes](https://robinnes.weebly.com/) | [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti)
+ [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) | [Robert Innes](https://robinnes.weebly.com/) | [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3)
 
 
 
