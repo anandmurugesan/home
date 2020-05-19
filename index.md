@@ -69,7 +69,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
- [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) | [Robert Innes](https://robinnes.weebly.com/) | [Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3)
+[Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Robert Innes](https://robinnes.weebly.com/) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
 
 
 
