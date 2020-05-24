@@ -52,7 +52,7 @@ Democracy For Sale (w/ J-R. Tyran)
 
 *Leader and citizens participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
 
-The Impact of Network Goods on Health: Evidence from India (w/ V. Dayal and T. Rahman)
+*Drain on your health*: Sanitation externalities from dirty drains (w/ V. Dayal and T. Rahman)
 
 Testing Rules, Behavior and  HIV Transmission (revising)
 
