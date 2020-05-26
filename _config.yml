@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 title: Anand Murugesan
 description: research, teaching & other updates here.
-logo: /am2020tiny.png
+logo: /am2020tiny.png{
+  width: 70%;
+  border: none;
+  background: none;
+}
 google_analytics: [UA-55493687-2] 
 
