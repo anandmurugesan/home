@@ -99,6 +99,13 @@ Statistical Inference, Spring 2015<br/>
 Intermediate Microeconomic Theory, Summer 2014<br/>
 Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
+## Bio
+
+PhD, University of Maryland, College Park
+MA, Jawaharlal Nehru University, New Delhi
+B.Com., Bangalore University (St. Joseph's College)
+
+Born 1980, Indian citizenship
 
 ## Other links
 
