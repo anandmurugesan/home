@@ -101,9 +101,9 @@ Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
 ## Bio
 
-PhD, University of Maryland, College Park
-MA, Jawaharlal Nehru University, New Delhi
-B.Com., Bangalore University (St. Joseph's College)
+PhD, University of Maryland, College Park<br/>
+MA, Jawaharlal Nehru University, New Delhi<br/>
+B.Com., Bangalore University (St. Joseph's College)<br/>
 
 Born 1980, Indian citizenship
 
