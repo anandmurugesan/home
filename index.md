@@ -35,9 +35,9 @@ Development  | Public Economics
 Experimental | Behavioral Economics 
 
 ### Forthcoming/Submitted/Working Papers 
-[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, *revise & resubmit* Environment and Development Economics)
+[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, Environment and Development Economics, *revise & resubmit*)
 
-Electoral Clientelism and Vote Buying  (*forthcoming* Oxford Research Encyclopedia of Political Decision Making)
+Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Political Decision Making, *forthcoming* )
 
 [*Drain on your health*: Sanitation externalities from dirty drains](https://www.dropbox.com/s/sx2xqi8eugpq4vd/DrainsHealth_India_ODS.pdf?dl=0) (w/ V. Dayal and T. Rahman, *submitted*)
 
