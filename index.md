@@ -37,7 +37,7 @@ Experimental | Behavioral Economics
 ### Forthcoming/Submitted/Working Papers 
 [Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, Environment and Development Economics, *revise & resubmit*)
 
-Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Political Decision Making, *forthcoming* )
+Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Political Decision Making, *forthcoming*)
 
 [*Drain on your health*: Sanitation externalities from dirty drains](https://www.dropbox.com/s/sx2xqi8eugpq4vd/DrainsHealth_India_ODS.pdf?dl=0) (w/ V. Dayal and T. Rahman, *submitted*)
 
@@ -54,7 +54,7 @@ Democracy For Sale (w/ J-R. Tyran)
 
 *Leader and citizens participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
 
-Testing Rules, Behavior and  HIV Transmission (revising)
+Testing Rules, Behavior and  HIV Transmission
 
 [*Beliefs fostering dishonest behavior*: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
