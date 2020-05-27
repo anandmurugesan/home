@@ -39,7 +39,7 @@ Experimental | Behavioral Economics
 
 Electoral Clientelism and Vote Buying  (*forthcoming* Oxford Research Encyclopedia of Political Decision Making)
 
-[*Drain on your health*: Sanitation externalities from dirty drains](https://www.dropbox.com/s/sx2xqi8eugpq4vd/DrainsHealth_India_ODS.pdf?dl=0) (w/ V. Dayal and T. Rahman)
+[*Drain on your health*: Sanitation externalities from dirty drains](https://www.dropbox.com/s/sx2xqi8eugpq4vd/DrainsHealth_India_ODS.pdf?dl=0) (w/ V. Dayal and T. Rahman, *submitted*)
 
 [*Demystifying causal inference*: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal)
 
