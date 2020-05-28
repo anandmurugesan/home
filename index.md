@@ -18,7 +18,7 @@ Phone: +36 1 327 3000 x 2054
 B-112, Quellenstraße 51, 1100 Wien <br/>
 [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 
-[email: murugesana@spp.ceu.edu](murugesana@spp.ceu.edu)
+[email: murugesana@spp.ceu.edu](murugesana@ceu.edu)
 
 Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
