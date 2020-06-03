@@ -39,6 +39,8 @@ Experimental | Behavioral Economics
 
 Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Political Decision Making, *forthcoming*)
 
+*Leader and citizens participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti, *submitted*)
+
 [*Drain on your health*: Sanitation externalities from dirty drains](https://www.dropbox.com/s/sx2xqi8eugpq4vd/DrainsHealth_India_ODS.pdf?dl=0) (w/ V. Dayal and T. Rahman, *submitted*)
 
 [*Demystifying causal inference*: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
@@ -52,7 +54,6 @@ Democracy For Sale (w/ J-R. Tyran)
 
 *Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
 
-*Leader and citizens participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti)
 
 Testing Rules, Behavior and  HIV Transmission
 
