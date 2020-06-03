@@ -39,13 +39,13 @@ Experimental | Behavioral Economics
 
 Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Political Decision Making, *forthcoming*)
 
-*Leader and citizens participation for the environment*: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti, *submitted*)
+Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti, *submitted*)
 
 [*Drain on your health*: Sanitation externalities from dirty drains](https://www.dropbox.com/s/sx2xqi8eugpq4vd/DrainsHealth_India_ODS.pdf?dl=0) (w/ V. Dayal and T. Rahman, *submitted*)
 
-[*Demystifying causal inference*: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
+[Demystifying causal inference: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
 
-[*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care](https://www.dropbox.com/s/3p4u3r70itjke4c/AdoptionDraft_Murugesan.pdf?dl=0) (w/ R. Innes, *revising*)
+[Markets For Children: International Adoptions, IVF, and U.S. Foster Care](https://www.dropbox.com/s/3p4u3r70itjke4c/AdoptionDraft_Murugesan.pdf?dl=0) (w/ R. Innes, *revising*)
 
 
 ### Current Projects
