@@ -43,17 +43,15 @@ Leader and citizens participation for the environment: Experimental evidence fro
 
 *Drain on your health*: Sanitation externalities from dirty drains (w/ V. Dayal and T. Rahman, *submitted*)
 
+Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *revising*)
+
 [Demystifying causal inference: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
-
-[Markets For Children: International Adoptions, IVF, and U.S. Foster Care](https://www.dropbox.com/s/3p4u3r70itjke4c/AdoptionDraft_Murugesan.pdf?dl=0) (w/ R. Innes, *revising*)
-
 
 ### Current Projects
 
 Democracy For Sale (w/ J-R. Tyran)
 
 *Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
-
 
 Testing Rules, Behavior and  HIV Transmission
 
@@ -106,7 +104,7 @@ PhD, University of Maryland, College Park<br/>
 MA, Jawaharlal Nehru University, New Delhi<br/>
 B.Com., Bangalore University (St. Joseph's College)<br/>
 
-Born 1980, Indian citizenship
+Born December 1980, Indian citizenship
 
 ## Other links
 
