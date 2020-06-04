@@ -104,7 +104,7 @@ PhD, University of Maryland, College Park<br/>
 MA, Jawaharlal Nehru University, New Delhi<br/>
 B.Com., Bangalore University (St. Joseph's College)<br/>
 
-Born December 1980, Indian citizenship
+Born 1980, Indian citizenship
 
 ## Other links
 
