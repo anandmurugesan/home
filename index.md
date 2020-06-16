@@ -41,7 +41,7 @@ Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Politica
 
 Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti, *submitted*)
 
-*Drain on your health*: Sanitation externalities from dirty drains (w/ V. Dayal and T. Rahman, *submitted*)
+*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India (w/ V. Dayal and T. Rahman, *submitted*)
 
 Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *revising*)
 
