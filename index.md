@@ -49,11 +49,15 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 ### Current Projects
 
-Democracy For Sale (w/ J-R. Tyran)
+Democracy for sale (w/ J-R. Tyran)
 
-*Holy Cow!* The Effects of Cow-Related Lynching in India (w/ J. Singh)
+*Holy Cow!* The effects of cow-related lynchings in India (w/ J. Singh)
 
-Testing Rules, Behavior and  HIV Transmission
+*Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
+
+History, institutions and compliance (w/ M. Dorsch)
+
+Testing rules, behavior and  disease transmission
 
 [*Beliefs fostering dishonest behavior*: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
 
