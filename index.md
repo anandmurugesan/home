@@ -55,7 +55,7 @@ Democracy for sale (w/ J-R. Tyran)
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
-History, institutions and compliance (w/ M. Dorsch)
+History, trust in institutions and behavior (w/ M. Dorsch)
 
 Testing rules, behavior and  disease transmission
 
