@@ -22,7 +22,7 @@ B-112, Quellenstraße 51, 1100 Wien <br/>
 
 Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
-Here is a link to my [CV](https://www.dropbox.com/s/x922mougkmof3kb/CV_March2020_AMurugesan.pdf?dl=0)
+Here is a link to my [CV](https://www.dropbox.com/s/hjo1k5r4qtrcgom/cv_june2020_amurugesan.pdf?dl=0)
 
 ---
 
