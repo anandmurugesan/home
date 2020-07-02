@@ -115,6 +115,7 @@ Born 1980, Indian citizenship
 ## Other links
 
 My brother's work on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687) and; recent work examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies <br/>
+
 Some pictures of field-work on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery)
 
 ---
