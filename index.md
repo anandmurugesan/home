@@ -37,11 +37,11 @@ Experimental | Behavioral Economics
 ### Forthcoming/Submitted/Working Papers 
 Electoral Clientelism and Vote Buying  (Oxford Research Encyclopedia of Political Decision Making, *forthcoming*)
 
-Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India (w/ S. Das, V. Dayal and R. Uma, Environment and Development Economics, *revised & resubmitted*)
+[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, Environment and Development Economics, *revised & resubmitted*)
 
-*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India (w/ V. Dayal and T. Rahman, *under review*)
+[*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) (w/ V. Dayal and T. Rahman, *under review*)
 
-Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe (w/ T. Centofanti, *submitted*)
+[Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/fujgp3pixvvgujg/LeaderParticipationEnvExp.pdf?dl=0) (w/ T. Centofanti, *submitted*)
 
 Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *revising*)
 
