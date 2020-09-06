@@ -59,10 +59,6 @@ History, trust in institutions and behavior (w/ M. Dorsch)
 
 Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
-Testing rules, behavior and  disease transmission
-
-[*Beliefs fostering dishonest behavior*: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
-
 ### Other publications and contributions
 
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0) (2019, contributed to this JRC report as the lead author of the economics team)
