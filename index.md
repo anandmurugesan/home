@@ -51,11 +51,11 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 Democracy for sale (w/ J-R. Tyran)
 
-*Holy Cow!* The effects of cow-related lynchings in India (w/ J. Singh)
+*Holy Cow!* The effects of cow-related lynchings in India (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
-History, trust in institutions and behavior (w/ M. Dorsch)
+History, trust in institutions and behavior (w/ [M. Dorsch]((https://sites.google.com/view/dorsch/home))
 
 Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
@@ -70,7 +70,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
-[Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Robert Innes](https://robinnes.weebly.com/) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
+[Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Robert Innes](https://robinnes.weebly.com/) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
 
 
 
