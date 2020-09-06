@@ -57,6 +57,8 @@ Democracy for sale (w/ J-R. Tyran)
 
 History, trust in institutions and behavior (w/ M. Dorsch)
 
+Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
+
 Testing rules, behavior and  disease transmission
 
 [*Beliefs fostering dishonest behavior*: Combining ethnographic and experimental evidence](https://www.ceu.edu/iti/projects/BFD) (w/ team)
