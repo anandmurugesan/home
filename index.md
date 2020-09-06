@@ -55,7 +55,7 @@ Democracy for sale (w/ J-R. Tyran)
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
-History, trust in institutions and behavior (w/ [M. Dorsch]((https://sites.google.com/view/dorsch/home))
+History, trust in institutions and behavior (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
 Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
