@@ -12,11 +12,11 @@ Anand Murugesan
 *Assistant Professor of Economics*
 
 [School of Public Policy](https://people.ceu.edu/anand_murugesan)<br/>
-[Central European University, Budapest](https://www.ceu.edu/)<br/>
+
+[Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
+B-112, Quellenstraße 51, 1100 Wien <br/>
 Phone: +36 1 327 3000 x 2054
 
-B-112, Quellenstraße 51, 1100 Wien <br/>
-[Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 
 [email: murugesana@ceu.edu](murugesana@ceu.edu)
 
