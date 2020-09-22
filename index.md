@@ -78,7 +78,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 **Central European University, Vienna**
 
-[Economic Analysis for Public Policy](https://courses.ceu.edu/courses/2019-2020/economic-analysis-public-policy) (w/ M. Dorsch), Fall 2020 <br/>
+[Economic Analysis for Public Policy](https://courses.ceu.edu/courses/2019-2020/economic-analysis-public-policy) (w/ L. Bokros & M. Dorsch), Fall 2020 <br/>
 [Data 1: Statistics for Executives](https://economics.ceu.edu/emba/curriculum/coursedescriptions) (w/ A. Reguly), Summer 2020 
 
 **Past courses**
