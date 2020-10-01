@@ -34,7 +34,7 @@ Development  | Public Economics
 Experimental | Behavioral Economics 
 
 ### Forthcoming/Submitted/Working Papers 
-[Electoral Clientelism and Vote Buying](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334)  (Oxford Research Encyclopedia of Politics, September 2020)
+[Electoral clientelism and vote buying](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334)  (Oxford Research Encyclopedia of Politics, September 2020)
 
 [Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, Environment and Development Economics, *revised & resubmitted*)
 
