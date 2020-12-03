@@ -40,7 +40,7 @@ Experimental | Behavioral Economics
 
 [*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) (w/ V. Dayal and T. Rahman, *under review*)
 
-[Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/fujgp3pixvvgujg/LeaderParticipationEnvExp.pdf?dl=0) (w/ T. Centofanti, *under review*)
+[Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/fujgp3pixvvgujg/LeaderParticipationEnvExp.pdf?dl=0) (w/ T. Centofanti, *r&r, Journal of Behavioral and Experimental Economics*)
 
 Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *revising*)
 
