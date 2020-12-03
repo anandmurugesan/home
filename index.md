@@ -36,11 +36,11 @@ Experimental | Behavioral Economics
 ### Forthcoming/Submitted/Working Papers 
 [Electoral clientelism and vote buying](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334)  (Oxford Research Encyclopedia of Politics, September 2020)
 
-[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, Environment and Development Economics, *2nd r & r*)
+[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/guyrf4brcp539ig/airpollute_ede.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, *Environment and Development Economics, 2nd r & resubmitted*)
 
 [*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) (w/ V. Dayal and T. Rahman, *under review*)
 
-[Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/fujgp3pixvvgujg/LeaderParticipationEnvExp.pdf?dl=0) (w/ T. Centofanti, *r&r, Journal of Behavioral and Experimental Economics*)
+[Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/fujgp3pixvvgujg/LeaderParticipationEnvExp.pdf?dl=0) (w/ T. Centofanti, *Journal of Behavioral and Experimental Economics, r & r*)
 
 Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *revising*)
 
