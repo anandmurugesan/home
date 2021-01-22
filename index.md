@@ -78,8 +78,8 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Central European University, Vienna** (Winter 2021)
 
 [Data and Development](https://courses.ceu.edu/courses/2020-2021/data-and-development) <br/>
-[Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2020-2021/institutional-and-behavioral-economics) <br/>
-[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2020-2021/impact-evaluation-policy-applications-r) 
+[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2020-2021/impact-evaluation-policy-applications-r)  <br/>
+[Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2020-2021/institutional-and-behavioral-economics)
 
 
 **Past courses**
