@@ -85,10 +85,10 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Past courses**
 
 *Central European University, Vienna*<br/>
-[Economic Analysis for Public Policy] (w/ L. Bokros & M. Dorsch), Fall 2020 <br/>
-[Data 1: Statistics for Executives] (w/ A. Reguly), Summer 2020 <br/>
-[Data and Development, Winter 2020] <br/>
-[Institutional and Behavioral Economics, Winter 2020]
+Economic Analysis for Public Policy (w/ L. Bokros & M. Dorsch), Fall 2020 <br/>
+Data 1: Statistics for Executives (w/ A. Reguly), Summer 2020 <br/>
+Data and Development, Winter 2020 <br/>
+Institutional and Behavioral Economics, Winter 2020
 
 *Central European University, Budapest*<br/>
 Economic Analysis for Public Policy (w/ C. Brown & M. Dorsch), Fall 2019<br/>
@@ -100,11 +100,6 @@ Economic Analysis (w/ M. Dorsch), Fall 2015 and Winter 2017<br/>
 Consumer and Producer Behavior, Winter 2017<br/>
 Quantitative Methods (w/ A. Diamond), Fall 2016<br/>
 Institutions, Culture and Economic Development, Winter 2016 and 2019
-
-*University of California, Merced*<br/>
-Statistical Inference, Spring 2015<br/>
-Intermediate Microeconomic Theory, Summer 2014<br/>
-Econometrics Lab, Fall 2013 & 2014, Spring 2014 & 2015
 
 ## Bio
 
