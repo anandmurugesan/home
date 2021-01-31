@@ -48,7 +48,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 ### Current Projects
 
-Democracy for sale (w/ J-R. Tyran)
+Democracy for sale (w/ [J-R. Tyran]((https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
 *Holy Cow!* The effects of cow-related lynchings in India (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
@@ -69,7 +69,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
-[Tiziana Centofanti](https://people.ceu.edu/tiziana_centofanti) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Robert Innes](https://robinnes.weebly.com/) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
+[Dana Andersen](http://danacandersen.weebly.com/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
 
 
 
