@@ -48,7 +48,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 ### Current Projects
 
-Democracy for sale (w/ [J-R. Tyran]((https://homepage.univie.ac.at/jean-robert.tyran/index.html))
+Democracy for sale (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
 *Holy Cow!* The effects of cow-related lynchings in India (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
