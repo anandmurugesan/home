@@ -50,7 +50,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 Democracy for sale (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
-*Holy Cow!* Religious violence, informal markets and the rural economy (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
+*Holy Cow!* Religious violence, informal markets and the Indian economy (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
