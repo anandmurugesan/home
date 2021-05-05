@@ -36,7 +36,7 @@ Experimental | Behavioral Economics
 ### Forthcoming/Submitted/Working Papers 
 [Electoral clientelism and vote buying](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334)  (Oxford Research Encyclopedia of Politics, September 2020)
 
-[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/d0coujfjfjvt9rg/airpollute_ede_r4_24April2021.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, *Environment and Development Economics, conditionally accepted*)
+[Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.dropbox.com/s/d0coujfjfjvt9rg/airpollute_ede_r4_24April2021.pdf?dl=0) (w/ S. Das, V. Dayal and R. Uma, *Environment and Development Economics, accepted*)
 
 [Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/p79trnxo0rhwz6l/LeaderParticipationEnvironment_JBEE_May2021.pdf?dl=0) (w/ T. Centofanti, *Journal of Behavioral and Experimental Economics, r & r*)
 
