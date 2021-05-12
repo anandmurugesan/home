@@ -52,9 +52,9 @@ Democracy for sale (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.ty
 
 *Holy Cow!* Religious violence, informal markets and the Indian economy (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
-*Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
+The long shadow of imperial rule on compliance behavior (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
-History, trust in institutions and behavior (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
+*Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
 Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
