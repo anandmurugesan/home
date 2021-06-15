@@ -82,25 +82,6 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 [Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2020-2021/institutional-and-behavioral-economics)
 
 
-**Past courses**
-
-*Central European University, Vienna*<br/>
-Economic Analysis for Public Policy (w/ L. Bokros & M. Dorsch), Fall 2020 <br/>
-Data 1: Statistics for Executives (w/ A. Reguly), Summer 2020 <br/>
-Data and Development, Winter 2020 <br/>
-Institutional and Behavioral Economics, Winter 2020
-
-*Central European University, Budapest*<br/>
-Economic Analysis for Public Policy (w/ C. Brown & M. Dorsch), Fall 2019<br/>
-Economic Analysis for Public Policy II, Winter 2019<br/>
-Economic Analysis for Public Policy I, Fall 2017<br/>
-Cognitive Science & Policy Making (w/ C. Heintz), Fall 2017 and Winter 2019<br/>
-Poverty, Health and Development, Winter 2016 and Spring 2017<br/>
-Economic Analysis (w/ M. Dorsch), Fall 2015 and Winter 2017<br/>
-Consumer and Producer Behavior, Winter 2017<br/>
-Quantitative Methods (w/ A. Diamond), Fall 2016<br/>
-Institutions, Culture and Economic Development, Winter 2016 and 2019
-
 ## Bio
 
 PhD, University of Maryland, College Park<br/>
