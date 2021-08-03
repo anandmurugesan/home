@@ -70,7 +70,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 **Links to recent collaborators**
 
 
-[Dana Andersen](http://danacandersen.weebly.com/) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
+[Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
 
 
 
