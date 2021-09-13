@@ -50,7 +50,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 ### Current Projects
 
-Democracy for sale (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
+Cash-for-votes (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
 *Holy Cow!* Religious violence, informal markets and the Indian economy (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
