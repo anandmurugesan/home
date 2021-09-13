@@ -44,7 +44,7 @@ Experimental | Behavioral Economics
 
 [*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) (w/ V. Dayal and T. Rahman, *under review*)
 
-Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *revising*)
+Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, [(link to previous version)](https://robinnes.weebly.com/uploads/2/9/4/1/29410831/adoptiondraft3_17_16.pdf), *under revision*)
 
 [Demystifying causal inference: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
 
