@@ -68,8 +68,12 @@ Frisvold, George and Anand Murugesan (2013), "[Use of Weather Information for Ag
 
 Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," International Journal of Ecological Economics and Statistics, Winter 2008, Vol. 10, 91-99.
 
-**Links to recent collaborators**
+### Upcoming presentations 
 
+[Delhi Political Economy Workshop Series, Summer 2021](https://sites.google.com/view/delhipoliticaleconomyworkshop/home?authuser=0)
+
+
+**Links to recent collaborators**
 
 [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
 
