@@ -72,6 +72,8 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 [Delhi Political Economy Workshop Series, Summer 2021](https://sites.google.com/view/delhipoliticaleconomyworkshop/home?authuser=0)
 
+ASSA 2022 Virtual Annual Meeting
+
 
 **Links to recent collaborators**
 
