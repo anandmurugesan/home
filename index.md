@@ -60,7 +60,7 @@ The long shadow of imperial rule on compliance behavior (w/ [M. Dorsch](https://
 
 Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
-Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany, with Geidel, T. *(under review)*
+Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany (w/ Geidel, T., *under review*)
 
 ### Other publications and contributions
 
