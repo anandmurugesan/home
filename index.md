@@ -60,6 +60,8 @@ The long shadow of imperial rule on compliance behavior (w/ [M. Dorsch](https://
 
 Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
+Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany, with Geidel, T. *(under review)*
+
 ### Other publications and contributions
 
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0) (2019, contributed to this JRC report as the lead author of the economics team)
