@@ -76,7 +76,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 ASSA 2022 Virtual Annual Meeting (January 2022)
 
-University of Arizona, (April 2022)
+University of Arizona (April 2022)
 
 
 #### Links to recent collaborators
