@@ -54,7 +54,7 @@ Cash-for-votes (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/
 
 *Holy Cow!* Religious violence, informal markets and the Indian economy (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
-The long shadow of imperial rule on compliance behavior (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
+Public goods, trust and tax compliance in the shadow of empire (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
