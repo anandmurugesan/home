@@ -18,7 +18,7 @@ Phone: +43.1.25230.2054
 Twitter: @tapasiva
 
 
-[email: murugesana@ceu.edu](murugesana@ceu.edu)
+email: <murugesana@ceu.edu>
 
 Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
