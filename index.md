@@ -58,7 +58,7 @@ Public goods, trust and tax compliance in the shadow of the Habsburg empire (w/ 
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
-Impact of the US opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
+Impact of the American opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
 
 Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany (w/ Geidel, T., *under review*)
 
