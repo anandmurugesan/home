@@ -41,13 +41,19 @@ Experimental | Behavioral Economics
 
 [Electoral clientelism and vote buying](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334)  (*Oxford Research Encyclopedia of Politics*, 2020)
 
-### Work-in-Progess 
+### Working papers
 
 [Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/p79trnxo0rhwz6l/LeaderParticipationEnvironment_JBEE_May2021.pdf?dl=0) (w/ T. Centofanti, *Journal of Behavioral and Experimental Economics, r & r*)
 
 [*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) (w/ V. Dayal and T. Rahman, *under review*)
 
 Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. Innes, *under revision* [[link to previous version]](https://robinnes.weebly.com/uploads/2/9/4/1/29410831/adoptiondraft3_17_16.pdf))
+
+[Demystifying causal inference: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
+
+Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany (w/ Geidel, T., *under review*)
+
+### Current projects 
 
 Cash-for-votes (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
@@ -58,10 +64,6 @@ Public goods, trust and tax compliance in the shadow of the Habsburg empire (w/ 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
 Impact of the American opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
-
-[Demystifying causal inference: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
-
-Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany (w/ Geidel, T., *under review*)
 
 ### Other publications and contributions
 
@@ -83,7 +85,6 @@ University of Arizona (April 2022)
 #### Links to recent collaborators
 
 [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
-
 
 
 ## Teaching
