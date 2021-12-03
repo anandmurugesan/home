@@ -63,6 +63,8 @@ Cash-for-votes (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/
 
 Public goods, trust and tax compliance in the shadow of the Habsburg empire (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
+Demystifying causal inference: Public Policy Application with r (w/ V. Dayal, Springer Book, *under review*)
+
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
 Impact of the American opioid crisis on children (w/ [D. Andersen](http://danacandersen.weebly.com/))
