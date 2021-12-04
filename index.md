@@ -59,7 +59,7 @@ Incentives for consumption and the return of single-use-bottles: Empirical study
 
 Cash-for-votes (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
-*Holy Cow!* Religious violence, informal markets and the Indian economy (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
+[*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0) (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
 Public goods, trust and tax compliance in the shadow of the Habsburg empire (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
