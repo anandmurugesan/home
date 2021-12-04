@@ -57,11 +57,11 @@ Incentives for consumption and the return of single-use-bottles: Empirical study
 
 ### Current projects 
 
-Cash-for-votes (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
+[Cash-for-votes](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0) (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
 [*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0) (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
-Public goods, trust and tax compliance in the shadow of the Habsburg empire (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
+[Public goods, trust and tax compliance in the shadow of the Habsburg empire](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
 Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer Book, *under review*)
 
