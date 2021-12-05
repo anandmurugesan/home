@@ -32,7 +32,7 @@ Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesa
 
 Development  | Public Economics
 
-Experimental | Behavioral Economics 
+ Environment | Experimental Economics 
 
 ### Published/Forthcoming papers
 
