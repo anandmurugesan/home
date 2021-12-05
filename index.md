@@ -53,7 +53,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 [Demystifying causal inference: ingredients of a recipe](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) (w/ V. Dayal, *IEG working paper*)
 
-Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany (w/ Geidel, T., *under review*)
+[Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) (w/ Geidel, T., *under review*)
 
 ### Current projects 
 
