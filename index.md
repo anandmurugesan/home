@@ -79,7 +79,7 @@ Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of
 
 [Delhi Political Economy Workshop Series, Summer 2021](https://sites.google.com/view/delhipoliticaleconomyworkshop/home?authuser=0)
 
-[Indian Society for Ecological Economics, online](https://ecoinsee.org/conferences/) (Discussant, December 15 - 17, 2021)
+[Indian Society for Ecological Economics, online](https://ecoinsee.org/conferences/) (Discussant, 16 December 2021)
 
 ASSA 2022 Virtual Annual Meeting (January 2022)
 
