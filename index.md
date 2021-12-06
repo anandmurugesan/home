@@ -63,7 +63,7 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 [Public goods, trust and tax compliance in the shadow of the Habsburg empire](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
 
-Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer Book, *under review*)
+[Book] Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer, *under review*)
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
@@ -99,11 +99,11 @@ University of Arizona (April 2022)
 
 **Winter 2022**
 
-[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r) [Syllabus](https://www.dropbox.com/s/e5h2e03itxdjvi8/Impact_Evaluation_Syllabus_W22.pdf?dl=0)
+[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r) [(Syllabus)](https://www.dropbox.com/s/e5h2e03itxdjvi8/Impact_Evaluation_Syllabus_W22.pdf?dl=0)
 
-[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2021-2022/advanced-impact-evaluation) [Syllabus](https://www.dropbox.com/s/ylk2rgyqn9t8qyx/Advanced_Impact_Evaluation_Syllabus_W22.pdf?dl=0)
+[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2021-2022/advanced-impact-evaluation) [(Syllabus)](https://www.dropbox.com/s/ylk2rgyqn9t8qyx/Advanced_Impact_Evaluation_Syllabus_W22.pdf?dl=0)
 
-[Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2021-2022/institutional-and-behavioral-economics) [Syllabus](https://www.dropbox.com/s/ynz14pxjeocmpvn/Syllabus_IBE_Winter2022.pdf?dl=0)
+[Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2021-2022/institutional-and-behavioral-economics) [(Syllabus)](https://www.dropbox.com/s/ynz14pxjeocmpvn/Syllabus_IBE_Winter2022.pdf?dl=0)
 
 <!---[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r)--->
 
