@@ -99,11 +99,11 @@ University of Arizona (April 2022)
 
 **Winter 2022**
 
-[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r)
+[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r) [Syllabus](https://www.dropbox.com/s/e5h2e03itxdjvi8/Impact_Evaluation_Syllabus_W22.pdf?dl=0)
 
-[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2021-2022/advanced-impact-evaluation)
+[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2021-2022/advanced-impact-evaluation) [Syllabus](https://www.dropbox.com/s/ylk2rgyqn9t8qyx/Advanced_Impact_Evaluation_Syllabus_W22.pdf?dl=0)
 
-[Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2021-2022/institutional-and-behavioral-economics)
+[Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2021-2022/institutional-and-behavioral-economics) [Syllabus](https://www.dropbox.com/s/ynz14pxjeocmpvn/Syllabus_IBE_Winter2022.pdf?dl=0)
 
 <!---[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r)--->
 
