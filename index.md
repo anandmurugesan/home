@@ -59,11 +59,11 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 
 [Cash-for-votes](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0) (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
 
+[Book] Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer Nature)
+
 [*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0) (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
 [Public goods, trust and tax compliance in the shadow of the Habsburg empire](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) (w/ [M. Dorsch](https://sites.google.com/view/dorsch/home))
-
-[Book] Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer, *under review*)
 
 *Let them play games!* Using coordination games to elicit beliefs (w/ M. Chokkalingam, C. Heintz and M. Karabegovic)
 
