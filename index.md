@@ -34,7 +34,7 @@ Development  | Public Economics
 
  Environment | Experimental Economics 
 
-### Published/Forthcoming papers
+### Publications 
 
 [Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India](https://www.doi.org/10.1017/S1355770X21000152) (w/ S. Das, V. Dayal and R. Uma, *Environment and Development Economics, forthcoming*)
 ([Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0))
