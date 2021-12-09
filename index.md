@@ -71,7 +71,7 @@ Impact of the American opioid crisis on children (w/ [D. Andersen](http://danaca
 
 ### Other publications and contributions
 
-[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0) (2019, contributed to this JRC report as the lead author of the economics team)
+[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0) (2019, Lead author of the Economics team contribution)
 
 Murugesan, Anand, Vikram Dayal, and Saurabh Chugh (2008), "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," *International Journal of Ecological Economics and Statistics*, Winter 2008, Vol. 10, 91-99.
 
