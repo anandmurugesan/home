@@ -88,7 +88,7 @@ University of Arizona (Invited, April 2022)
 
 #### Links to recent collaborators
 
-[Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
+[Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html) 
 
 
 ## Teaching
