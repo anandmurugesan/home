@@ -43,6 +43,10 @@ Development  | Public Economics
 
 Frisvold, George and Anand Murugesan (2013), "[Use of Weather Information for Agricultural Decision Making](https://doi.org/10.1175/WCAS-D-12-00022.1)," *Weather, Climate and Society*, 5, January Issue, 55-69.
 
+### Book 
+
+Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer) [ongoing]
+
 ### Working papers
 
 [Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe](https://www.dropbox.com/s/p79trnxo0rhwz6l/LeaderParticipationEnvironment_JBEE_May2021.pdf?dl=0) (w/ T. Centofanti, *Journal of Behavioral and Experimental Economics, r & r*)
@@ -58,8 +62,6 @@ Markets For Children: International Adoptions, IVF, and U.S. Foster Care (w/ R. 
 ### Current projects 
 
 [Cash-for-votes](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0) (w/ [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html))
-
-[Book] Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer)
 
 [*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0) (w/ [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150))
 
