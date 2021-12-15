@@ -45,7 +45,7 @@ Frisvold, George and Anand Murugesan (2013), "[Use of Weather Information for Ag
 
 ### Book 
 
-Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer) [ongoing]
+Demystifying causal inference: Public Policy Applications with R (w/ V. Dayal, Springer) [expected 2022]
 
 ### Working papers
 
