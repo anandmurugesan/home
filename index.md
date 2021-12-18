@@ -73,7 +73,7 @@ Development  | Public Economics
 
 ### Other publications and contributions
 
-[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0), lead author of (the economics team report with Barjaková, M. and Vlassopoulos, M.)(https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00), 2019
+[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0), lead author of [the economics team report with Barjaková, M. and Vlassopoulos, M.](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00), 2019
 
 "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," with Dayal, V. and Chugh, S., *International Journal of Ecological Economics and Statistics*, Vol. 10, 91-99, 2008
 
