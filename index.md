@@ -36,46 +36,46 @@ Development  | Public Economics
 
 ### Publications 
 
-["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with S. Das, V. Dayal and R. Uma, *Environment and Development Economics*, 2021
+["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal and Uma Rajarathnam, *Environment and Development Economics*, 2021
 ([Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0))
 
 ["Electoral clientelism and vote buying,"](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
 
-["Use of Weather Information for Agricultural Decision Making,"](https://doi.org/10.1175/WCAS-D-12-00022.1) with Frisvold, G, *Weather, Climate and Society*, 5, January Issue, 55-69, 2013.
+["Use of Weather Information for Agricultural Decision Making,"](https://doi.org/10.1175/WCAS-D-12-00022.1) with George Frisvold, *Weather, Climate and Society*, 5, January Issue, 55-69, 2013.
 
 ### Book 
 
-*Demystifying causal inference*: Public Policy Applications with R, with V. Dayal, Springer [forthcoming Fall 2022]
+*Demystifying causal inference*: Public Policy Applications with R, with Vikram Dayal, Springer [forthcoming Fall 2022]
 
 ### Working papers
 
-["Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe,"](https://www.dropbox.com/s/p79trnxo0rhwz6l/LeaderParticipationEnvironment_JBEE_May2021.pdf?dl=0) with T. Centofanti, *Journal of Behavioral and Experimental Economics, r & r*
+["Leader and citizens participation for the environment: Experimental evidence from communities in Eastern Europe,"](https://www.dropbox.com/s/p79trnxo0rhwz6l/LeaderParticipationEnvironment_JBEE_May2021.pdf?dl=0) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics, r & r*
 
-["*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India,"](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) with V. Dayal and T. Rahman, *under review*
+["*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India,"](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) with Vikram Dayal and Tauhidur Rahman, *under review*
 
-"Markets For Children: International Adoptions, IVF, and U.S. Foster Care," with R. Innes, *under revision* [[link to previous version]](https://robinnes.weebly.com/uploads/2/9/4/1/29410831/adoptiondraft3_17_16.pdf))
+"Markets For Children: International Adoptions, IVF, and U.S. Foster Care," with Robert Innes, *under revision* [[link to previous version]](https://robinnes.weebly.com/uploads/2/9/4/1/29410831/adoptiondraft3_17_16.pdf))
 
-["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with V. Dayal, *IEG working paper*
+["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
-["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Geidel, T., *under review*
+["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Teresa Geidel, *under review*
 
 ### Current projects 
 
-["Cash-for-votes,"](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0) with [J-R. Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+["Cash-for-votes,"](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0) with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
-[*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [J. Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
+[*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
 
-["Public goods, trust and tax compliance in the shadow of the Habsburg empire,"](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) with [M. Dorsch](https://sites.google.com/view/dorsch/home)
+["Public goods, trust and tax compliance in the shadow of the Habsburg empire,"](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
-"*Let them play games!* Using coordination games to elicit beliefs," with M. Chokkalingam, C. Heintz and M. Karabegovic
+"*Let them play games!* Using coordination games to elicit beliefs," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
 
-"Impact of the American opioid crisis on children," with [D. Andersen](http://danacandersen.weebly.com/)
+"Impact of the American opioid crisis on children," with [Dana Andersen](http://danacandersen.weebly.com/)
 
 ### Other publications and contributions
 
-[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0), lead author of [the economics team report with Barjaková, M. and Vlassopoulos, M.](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00), 2019
+[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://www.dropbox.com/s/mfnlj9fru34czms/Understanding-our-political-nature_JRCReport_2019.pdf?dl=0), lead author of [the economics team report with Martina Barjaková and Michael Vlassopoulos](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00), 2019
 
-"An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," with Dayal, V. and Chugh, S., *International Journal of Ecological Economics and Statistics*, Vol. 10, 91-99, 2008
+"An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," with Vikram Dayal and Saurabh Chugh, *International Journal of Ecological Economics and Statistics*, Vol. 10, 91-99, 2008
 
 #### Recent and upcoming presentations
 
