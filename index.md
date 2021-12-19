@@ -67,7 +67,7 @@ Development  | Public Economics
 
 ["Public goods, trust and tax compliance in the shadow of the Habsburg empire,"](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
-"*Let them play games!* Using coordination games to elicit beliefs," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
+"*Let them play games!* Using coordination games to elicit cultural beliefs," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
 
 "Impact of the American opioid crisis on children," with [Dana Andersen](http://danacandersen.weebly.com/)
 
