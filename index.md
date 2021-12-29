@@ -64,6 +64,7 @@ Development  | Public Economics
 ["Cash-for-votes,"](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0) with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
 [*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
+  - [Poster presented at ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
 
 ["Public goods, trust and tax compliance in the shadow of the Habsburg empire,"](https://www.dropbox.com/s/f8n32tc689vwcbi/LongShadowHabsburgsCompliance_Abstract.pdf?dl=0) with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
