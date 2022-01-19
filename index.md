@@ -81,11 +81,9 @@ Development  | Public Economics
 
 #### Recent and upcoming presentations
 
-[Delhi Political Economy Workshop Series, Summer 2021](https://sites.google.com/view/delhipoliticaleconomyworkshop/home?authuser=0)
+[ASSA 2022 Virtual Annual Meeting](https://www.aeaweb.org/conference/) (January 7- 9, 2022)
 
-[Indian Society for Ecological Economics](https://ecoinsee.org/conferences/) (Online discussant, 16 Dec. '21)
-
-[ASSA 2022 Virtual Annual Meeting](https://www.aeaweb.org/conference/) (January 2022)
+[European Public Choice Society, 2022](https://epcs2022.com/) (April 11 - 14, 2022)
 
 University of Arizona (Invited, April 2022)
 
