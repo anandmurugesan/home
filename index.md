@@ -85,8 +85,7 @@ Development  | Public Economics
 
 [European Public Choice Society, 2022](https://epcs2022.com/) (April 11 - 14, 2022)
 
-University of Arizona (Invited, May 2022)
-
+[Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29th - July 3rd, 2022)
 
 #### Links to recent collaborators
 
