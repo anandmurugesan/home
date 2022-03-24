@@ -57,7 +57,7 @@ Development  | Public Economics
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
-["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Teresa Geidel, *under review*
+["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Teresa Geidel
 
 ### Current projects 
 
@@ -109,7 +109,7 @@ Development  | Public Economics
 [Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2021-2022/institutional-and-behavioral-economics) [(Syllabus)](https://www.dropbox.com/s/ynz14pxjeocmpvn/Syllabus_IBE_Winter2022.pdf?dl=0)
 
 <!---[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r)--->
-
+**Fall 2022** (on research leave)
 
 ## Bio
 
