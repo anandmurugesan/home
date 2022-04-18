@@ -24,6 +24,8 @@ Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates)
 
 Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesan_latest.pdf?dl=0)
 
+**I am on research leave in Fall 2022 and Spring 2023** 
+
 ---
 
 ## Research 
