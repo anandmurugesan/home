@@ -98,9 +98,7 @@ Development  | Public Economics
 
 ### Central European University, Vienna 
 
-**Summer 2022** 
-
-[ECPR Virtual Summer School](https://ecpr.eu/Events/Event/PanelDetails/12289)
+**Fall 2022** (on research leave)
 
 **Winter 2022**
 
@@ -111,7 +109,6 @@ Development  | Public Economics
 [Institutional and Behavioral Economics](https://courses.ceu.edu/courses/2021-2022/institutional-and-behavioral-economics) [(Syllabus)](https://www.dropbox.com/s/ynz14pxjeocmpvn/Syllabus_IBE_Winter2022.pdf?dl=0)
 
 <!---[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2021-2022/impact-evaluation-policy-applications-r)--->
-**Fall 2022** (on research leave)
 
 ## Bio
 
