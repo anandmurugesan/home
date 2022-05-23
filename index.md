@@ -98,9 +98,9 @@ Development  | Public Economics
 
 ### Central European University, Vienna 
 
-**Fall 2021** 
+**Summer 2022** 
 
-[Economic Analysis for Public Policy I](https://courses.ceu.edu/courses/2021-2022/economic-analysis-public-policy) 
+ECPR Summer School 
 
 **Winter 2022**
 
