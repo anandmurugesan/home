@@ -51,7 +51,7 @@ Development  | Public Economics
 
 ### Working papers
 
-["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.dropbox.com/s/p79trnxo0rhwz6l/LeaderParticipationEnvironment_JBEE_May2021.pdf?dl=0) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics, 2nd revise & resubmit*
+["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.dropbox.com/s/xyv7pwmp61pu6or/RR2_LeadPartEnv_JBEE_R2_5Apr2022.pdf?dl=0) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics, 2nd revise & resubmit*
 
 ["*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India,"](https://www.dropbox.com/s/ar125scq5r223zx/DrainHealth_SanExt_India_Jun2020.pdf?dl=0) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics, revise and resubmit*
 
