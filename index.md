@@ -100,7 +100,7 @@ Development  | Public Economics
 
 **Summer 2022** 
 
-ECPR Summer School 
+[ECPR Virtual Summer School](https://ecpr.eu/Events/Event/PanelDetails/12289)
 
 **Winter 2022**
 
