@@ -93,8 +93,8 @@ Development  | Public Economics
 
 #### Links to recent collaborators
 
- [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)  | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) 
-
+ [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
+[Christophe Heintz](https://people.ceu.edu/christophe_heintz) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)  
 
 ## Teaching
 
