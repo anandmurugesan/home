@@ -89,6 +89,8 @@ Development  | Public Economics
 
 [Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29th - July 3rd, 2022)
 
+[2022 European ESA Conference](https://www.esabologna2022.com/) (August 31st - September 3rd, 2022)
+
 #### Links to recent collaborators
 
  [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)  | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | [Vikram Dayal](http://iegindia.org/staffmembers/faculty/detail/3551/3) 
