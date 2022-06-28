@@ -37,7 +37,7 @@ Development  | Public Economics
  Environment | Experimental Economics 
 
 ### Publications 
-["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.dropbox.com/s/xyv7pwmp61pu6or/RR2_LeadPartEnv_JBEE_R2_5Apr2022.pdf?dl=0) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics, *conditional acceptance*
+["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.dropbox.com/s/xyv7pwmp61pu6or/RR2_LeadPartEnv_JBEE_R2_5Apr2022.pdf?dl=0) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics, conditional acceptance*
 
 ["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal and Uma Rajarathnam, *Environment and Development Economics*, 2021
 ([Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0))
