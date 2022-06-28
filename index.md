@@ -88,6 +88,8 @@ Development  | Public Economics
 
 [Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29th - July 3rd, 2022)
 
+[Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4th, 2022)
+
 [2022 European ESA Conference](https://www.esabologna2022.com/) (August 31st - September 3rd, 2022)
 
 #### Links to recent collaborators
