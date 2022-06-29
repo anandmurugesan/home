@@ -86,11 +86,11 @@ Development  | Public Economics
 
 [European Public Choice Society, 2022](https://epcs2022.com/) (April 11 - 14, 2022)
 
-[Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29th - July 3rd, 2022)
+[Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29 - July 3, 2022)
 
-[Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4th, 2022)
+[Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4, 2022)
 
-[2022 European ESA Conference](https://www.esabologna2022.com/) (August 31st - September 3rd, 2022)
+[2022 European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
 
 #### Links to recent collaborators
 
