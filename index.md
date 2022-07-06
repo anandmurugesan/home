@@ -54,7 +54,7 @@ Development  | Public Economics
 
 ["*Drain on your health*: Sanitation externalities from dirty drains in Uttarakhand, India,"](https://www.dropbox.com/s/4dc3f7thvwve1oz/DrainHealth_SanExt_DayalMurugesanRahman_May2022.pdf?dl=0) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics, revise and resubmit*
 
-"*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care," with Robert Innes, *under revision* [[Working paper](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0)]
+["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes, *under revision*
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
