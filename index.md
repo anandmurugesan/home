@@ -39,7 +39,7 @@ Development  | Public Economics
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
-["*Drain on your health*: Sanitation externalities from dirty drains in India,"](https://www.dropbox.com/s/4dc3f7thvwve1oz/DrainHealth_SanExt_DayalMurugesanRahman_May2022.pdf?dl=0) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics, accepted*
+["*Drain on your health*: Sanitation externalities from dirty drains in India,"](https://www.dropbox.com/s/r4zzwnfxigy7zjn/DrainOnYourHealth_RDE_Final_21July2022.pdf?dl=0) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics, accepted*
 
 ["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal and Uma Rajarathnam, *Environment and Development Economics*, 2021
 [Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0)
