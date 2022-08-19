@@ -56,14 +56,16 @@ Development  | Public Economics
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes, *under revision*
 
+["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/ivnnhatdwxfe68v/CashForVotes_MurugesanTyran_ElgarPublicChoice_2022_Abstract.pdf?dl=0) with Jean-Robert Tyran
+
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
 ["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Teresa Geidel
 
+
 ### Current projects 
 
 *Democracy for Sale* with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
-  - ["Cash-for-votes," for Elgar Encyclopedia of Public Choice](https://www.dropbox.com/s/kv4ld662wqxwnoi/Cash-for-votes_Murugesan_Tyran_EdwardElgar.pdf?dl=0)
 
 [*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
