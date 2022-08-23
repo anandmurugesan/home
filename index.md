@@ -20,7 +20,7 @@ Twitter: @tapasiva
 
 email: <murugesana@ceu.edu>
 
-Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates) and [Democracy Institute, Budapest](https://democracyinstitute.ceu.edu/research/inequalities)
+Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates) and [Democracy Institute](https://democracyinstitute.ceu.edu/research/inequalities)
 
 Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesan_latest.pdf?dl=0)
 
