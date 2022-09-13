@@ -84,7 +84,7 @@ Development  | Public Economics
 
 #### Recent and upcoming presentations
 
-[ASSA 2022 Virtual Annual Meeting](https://www.aeaweb.org/conference/) (January 7- 9, 2022)
+[ASSA 2022 Virtual Annual Meeting](https://www.aeaweb.org/conference/) (January 7 - 9, 2022)
 
 [European Public Choice Society, 2022](https://epcs2022.com/) (April 11 - 14, 2022)
 
@@ -93,6 +93,8 @@ Development  | Public Economics
 [Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4, 2022)
 
 [2022 European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
+
+Wirtschafts Universität Wien research seminar (October 11, 2022)
 
 #### Links to recent collaborators
 
