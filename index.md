@@ -84,13 +84,11 @@ Development  | Public Economics
 
 #### Recent and upcoming presentations
 
-[ASSA 2022 Virtual Annual Meeting](https://www.aeaweb.org/conference/) (January 7 - 9, 2022)
-
-[European Public Choice Society, 2022](https://epcs2022.com/) (April 11 - 14, 2022)
-
 [Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29 - July 3, 2022)
 
 [Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4, 2022)
+
+[European Consortium for Political Research](https://ecpg.ecpr.eu/Events/Event/PanelDetails/12289) (July 25 - 29, 2022; short online course)
 
 [2022 European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
 
