@@ -96,7 +96,7 @@ Development  | Public Economics
 
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/research/inequalities) research seminar (September 26, 2022)
 
-[Wirtschafts Universität Wien research seminar](https://www.wu.ac.at/) (October 11, 2022)
+[Wirtschafts Universität Wien](https://www.wu.ac.at/) research seminar (October 11, 2022)
 
 #### Links to recent collaborators
 
