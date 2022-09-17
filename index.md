@@ -94,6 +94,8 @@ Development  | Public Economics
 
 [2022 European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
 
+[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/research/inequalities) research seminar (September 26, 2022)
+
 [Wirtschafts Universität Wien research seminar](https://www.wu.ac.at/) (October 11, 2022)
 
 #### Links to recent collaborators
