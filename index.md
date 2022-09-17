@@ -88,7 +88,7 @@ Development  | Public Economics
 
 [Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4, 2022)
 
-[European Consortium for Political Research](https://ecpg.ecpr.eu/Events/Event/PanelDetails/12289) (July 25 - 29, 2022; short online course)
+[European Consortium for Political Research](https://ecpg.ecpr.eu/Events/Event/PanelDetails/12289) (July 25 - 29, 2022; short course)
 
 [2022 European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
 
