@@ -96,6 +96,8 @@ Development  | Public Economics
 
 [Wirtschafts Universität Wien](https://www.wu.ac.at/en/ims/news/seminar-series/) seminar series (October 11, 2022)
 
+[Università Bocconi](http://www.igier.unibocconi.it/) (short research stay, November 14 - 18, 2022)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
