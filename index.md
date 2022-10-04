@@ -82,7 +82,7 @@ Development  | Public Economics
 
 "An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," with Vikram Dayal and Saurabh Chugh, *International Journal of Ecological Economics and Statistics*, Vol. 10, 91-99, 2008
 
-#### Recent and upcoming presentations
+#### Recent and upcoming presentations / research visits
 
 [Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29 - July 3, 2022)
 
