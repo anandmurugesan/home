@@ -63,7 +63,7 @@ Development  | Public Economics
 
 ### Book 
 
-*Demystifying causal inference*: Public Policy Applications with R, with Vikram Dayal, Springer [forthcoming Fall 2022]
+*Demystifying causal inference*: Public Policy Applications with R, with Vikram Dayal, Springer [forthcoming Winter 2023]
 
 ### Working papers
 
