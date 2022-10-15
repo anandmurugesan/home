@@ -130,12 +130,9 @@ Born 1980, Bangalore, Indian citizenship
 
 My brother's work on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687) and; recent work examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies <br/>
 
-Some pictures of field-work on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery)
+Some pictures of field-work on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is a sketch of a bestselling book which my daughter recommended I read and I recommend you do. [It's a short read, I promise.](https://www.charliemackesy.com/). 
 
-<img src="theboythemule.png" width="100" height="100" />
-
-
-<img src="theboythemule.png" alt="Here is a book my daughter recommended I read and I recommend you read" style="width:80px; height:80px"/>
+<img src="theboythemule.png" width="200" height="200" />
 
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
