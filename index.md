@@ -133,7 +133,7 @@ My brother's work on [the effect of angular momentum in the formation of galaxie
 Some pictures of field-work on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery)
 
 
-![Here is a book my daughter recommended I read and I recommend you read](theboy.png){width=3%,height:1.5px}
+![Here is a book my daughter recommended I read and I recommend you read](theboythemule.png){ width=10%,height:5px }
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
