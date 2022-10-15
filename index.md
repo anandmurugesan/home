@@ -132,6 +132,9 @@ My brother's work on [the effect of angular momentum in the formation of galaxie
 
 Some pictures of field-work on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery)
 
+<img src="theboythemule.png" width="100" height="100" />
+
+
 <img src="theboythemule.png" alt="Here is a book my daughter recommended I read and I recommend you read" style="width:80px; height:80px"/>
 
 ---
