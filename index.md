@@ -136,11 +136,11 @@ Some pictures of fieldwork on our [Greening the Margin project](https://tizianac
 <img src="theboythemule.png" width="150" height="200" />
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
+  <div style="float: left; margin-right 1em; width="150" height="200"">
     <img src="theboythemule.png" alt="">
   </div>
   <div>
-     <div style="float: right; margin-right 1em;">
+     <div style="float: right; margin-left 1em; width="150" height="200"">
     <img src="theboythemule.png" alt="">
 
   </div>
