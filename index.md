@@ -98,6 +98,8 @@ Development  | Public Economics
 
 [Università Bocconi](http://www.igier.unibocconi.it/) (short research stay, November 14 - 18, 2022)
 
+[Center for Development Studies, India](https://cds.edu/#m-10-2022) (December 1 - 14, 2022)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
