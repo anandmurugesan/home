@@ -131,7 +131,7 @@ Born 1980, Bangalore, Indian citizenship
 
 My brother's work on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687) and; recent work examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. <br/>
 
-Some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is a sketch of a bestselling book my daughter recommended I read and I recommend you do. [It's a short read, I promise.](https://www.charliemackesy.com/); and a dated picture of seed sowing using a traditional plough on my parents farm in Tamil Nadu. 
+Some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is a sketch of a bestselling book my daughter recommended I read and I recommend you do; [it's a short read.](https://www.charliemackesy.com/). And a dated picture of seed sowing using a traditional plough technique on my parents farm in Tamil Nadu, India. 
 
 <img src="theboythemule.png" width="150" height="200" /> <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="300" height="200" />
 ---
