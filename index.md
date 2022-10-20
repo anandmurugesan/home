@@ -134,18 +134,7 @@ My brother's work on [the effect of angular momentum in the formation of galaxie
 Some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is a sketch of a bestselling book my daughter recommended I read and I recommend you do. [It's a short read, I promise.](https://www.charliemackesy.com/)
 
 <img src="theboythemule.png" width="150" height="200" />
-
-<div style="clear: both;">
-  <div style="float: left; width="150" height="200"">
-    <img src="theboythemule.png" alt="">
-  </div>
-  <div>
-     <div style="float: right; width="150" height="200"">
-    <img src="theboythemule.png" alt="">
-
-  </div>
-</div>
-
+<img src="theboythemule.png" width="150" height="200" />
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
