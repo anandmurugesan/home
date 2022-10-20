@@ -51,11 +51,11 @@ Development  | Public Economics
 "Impact of the American opioid crisis on children," with [Dana Andersen](http://danacandersen.weebly.com/)
 
 ### Publications 
-["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
+["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
-["*Drain on your health*: Sanitation externalities from dirty drains in India,"](https://onlinelibrary.wiley.com/doi/10.1111/rode.12924) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics, forthcoming* [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2c3kzy4v93/3)
+["*Drain on your health*: Sanitation externalities from dirty drains in India,"](https://onlinelibrary.wiley.com/doi/10.1111/rode.12924) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics,* November 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2c3kzy4v93/3)
 
-["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal and Uma Rajarathnam, *Environment and Development Economics*, 2021
+["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal and Uma Rajarathnam, *Environment and Development Economics*, June 2021
 [Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0)
 
 ["Electoral clientelism and vote buying,"](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
