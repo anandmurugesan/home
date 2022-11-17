@@ -47,8 +47,8 @@ Development  | Public Economics
 
 ["*Reap what you sow:* Tax morale and compliance in the shadow of an empire,"](https://www.dropbox.com/s/lpsdeqjx4uvhybo/ReapWhatYouSow_TaxMoraleCompliance_DorschMurugesan_WU_11Oct22.pdf?dl=0) with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
-"[*Let them play games!](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0)," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
- >  The sticky self and the icky other! Using coordination games to elicit self-image signals (with C. Heintz and M. Karabegovic)
+"[Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0)," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
+ >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals (with C. Heintz and M. Karabegovic)
 
  >  One-to-one with Krupka & Weber: Comparing the response variance between the many-to-one and one-to-one elicitation (with C. Heintz)
 
