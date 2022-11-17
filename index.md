@@ -20,13 +20,13 @@ Twitter: @tapasiva
 
 email: <murugesana@ceu.edu>
 
-Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/affiliates) and [Democracy Institute](https://democracyinstitute.ceu.edu/research/inequalities)
+Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/) and [Democracy Institute](https://democracyinstitute.ceu.edu/research/inequalities)
 
 Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
 
 Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesan_latest.pdf?dl=0)
 
-**I am on research leave in Fall 2022 and Spring 2023.** I am a Senior Fellow at the [IAS Vienna (Behavioral economics group)](https://www.ihs.ac.at/people/arnand-murugesan/) and a research affiliate at the [Democracy Institute, Budapest](https://democracyinstitute.ceu.edu/research/inequalities) during this time.  
+**I am on research leave in Fall 2022 and Spring 2023.** I am a Senior Fellow at the [IAS Vienna (Behavioral economics group)](https://www.ihs.ac.at/) and a research affiliate at the [Democracy Institute, Budapest](https://democracyinstitute.ceu.edu/research/inequalities) during this time.  
 
 ---
 
@@ -100,7 +100,7 @@ Development  | Public Economics
 
 [Wirtschafts Universität Wien](https://www.wu.ac.at/en/ims/news/seminar-series/) seminar series (October 11, 2022)
 
-[Università Bocconi](http://www.igier.unibocconi.it/) (short research stay, November 14 - 18, 2022)
+[Università Bocconi](http://www.igier.unibocconi.it/) (November 14 - 18, 2022)
 
 [Center for Development Studies, India](https://cds.edu/#m-10-2022) (December 4 - 14, 2022)
 
