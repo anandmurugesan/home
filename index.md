@@ -113,7 +113,7 @@ Development  | Public Economics
 
 ### Central European University, Vienna 
 
-**Fall 2022** (on research leave)
+**Fall 2022 and Spring 2023** (on research leave)
 
 **Winter 2023**
 
