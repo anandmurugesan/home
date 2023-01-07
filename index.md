@@ -88,13 +88,7 @@ Development  | Public Economics
 
 #### Recent and upcoming presentations / research visits
 
-[Western Economic Association Conference](https://weai.org/conferences/view/12/97th-Annual-Conference) (June 29 - July 3, 2022)
-
-[Institute of Advanced Studies research seminar](https://www.ihs.ac.at/) (July 4, 2022)
-
-[European Consortium for Political Research](https://ecpg.ecpr.eu/Events/Event/PanelDetails/12289) (July 25 - 29, 2022; short course)
-
-[2022 European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
+[European ESA Conference](https://www.esabologna2022.com/) (August 31 - September 3, 2022)
 
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/research/inequalities) research seminar (September 26, 2022)
 
@@ -103,6 +97,8 @@ Development  | Public Economics
 [Università Bocconi](http://www.igier.unibocconi.it/) (November 14 - 18, 2022)
 
 [Center for Development Studies, India](https://cds.edu/#m-10-2022) (December 4 - 14, 2022)
+
+[European Public Choice Society 2023](https://www.epcs2023.uni-hannover.de/en/) (March 22 - 25, 2023)
 
 #### Links to recent collaborators
 
