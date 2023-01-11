@@ -131,9 +131,12 @@ Born 1980, Bangalore, Indian citizenship
 
 My brother's work on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687) and; recent work examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. <br/>
 
-You can find some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read and I recommend you do; [it's a short read](https://www.charliemackesy.com/). And a dated picture of traditional seed sowing on my parents farm in Tamil Nadu, India. 
+You can find some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read and I recommend you do; [it's a short read](https://www.charliemackesy.com/). And a dated picture of traditional seed sowing on my parents farm in Tamil Nadu, India (on the left) and me breaking traditions (on the right).
 
-<img src="theboythemule.png" width="150" height="200" /> <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="300" height="200" />
+<img src="theboythemule.png" width="150" height="200" /> 
+
+<img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="300" height="200" /> <img src="till.jpeg" width="300" height="200" /> 
+
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
