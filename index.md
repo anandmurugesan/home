@@ -135,7 +135,7 @@ You can find some pictures of fieldwork on our [Greening the Margin project](htt
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
-<img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="300" height="200" /> <img src="till.jpeg" width="300" height="200" /> 
+<img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
