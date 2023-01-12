@@ -135,7 +135,7 @@ You can find some pictures of fieldwork on our [Greening the Margin project](htt
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
-And a dated picture of traditional seed sowing on my parents farm in Tamil Nadu, India (on the left) and me breaking traditions (on the right).
+And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (on the left) and me breaking traditions (on the right).
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
