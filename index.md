@@ -74,7 +74,7 @@ Development  | Public Economics
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes, *submitted*
 
-["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/ivnnhatdwxfe68v/CashForVotes_MurugesanTyran_ElgarPublicChoice_2022_Abstract.pdf?dl=0) with Jean-Robert Tyran, *revise & resubmit*
+["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran, *revise & resubmit*
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
