@@ -40,17 +40,17 @@ Development  | Public Economics
  
 ### Current projects 
 
-*Democracy for Sale* with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+Democracy for Sale, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
 [*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
 
-["*Reap what you sow:* Tax morale and compliance in the shadow of an empire,"](https://www.dropbox.com/s/lpsdeqjx4uvhybo/ReapWhatYouSow_TaxMoraleCompliance_DorschMurugesan_WU_11Oct22.pdf?dl=0) with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
+The (soft) power to tax: Compliance and Tax Morale as Imperial Legacy, with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
 "[Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0)," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
- >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals (with C. Heintz and M. Karabegovic)
+ >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals, with C. Heintz and M. Karabegovic
 
- >  One-to-one with Krupka & Weber: Comparing the response variance between the many-to-one and one-to-one elicitation (with C. Heintz)
+ >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method, with C. Heintz
 
 "Impact of the American opioid crisis on children," with [Dana Andersen](http://danacandersen.weebly.com/)
 
@@ -68,13 +68,13 @@ Development  | Public Economics
 
 ### Book 
 
-*Demystifying causal inference*: Public Policy Applications with R, with Vikram Dayal, Springer [forthcoming Winter 2023]
+*Demystifying causal inference*: Public Policy Applications with R, with Vikram Dayal, Springer [forthcoming Spring 2023]
 
 ### Working papers
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes, *submitted*
 
-["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran, *revise & resubmit*
+["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran, *revised & resubmitted*
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
