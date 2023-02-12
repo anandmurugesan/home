@@ -52,6 +52,8 @@ The (soft) power to tax: Compliance and Tax Morale as Imperial Legacy, with [Mic
 
  >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method, with C. Heintz
 
+Give or Take: Experimental examination of bribery vs. extortion (with R. Innes)
+
 "Impact of the American opioid crisis on children," with [Dana Andersen](http://danacandersen.weebly.com/)
 
 ### Publications 
@@ -74,7 +76,7 @@ The (soft) power to tax: Compliance and Tax Morale as Imperial Legacy, with [Mic
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes, *submitted*
 
-["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran, *revised & resubmitted*
+["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran, *forthcoming*
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
