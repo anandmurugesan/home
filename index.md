@@ -42,19 +42,19 @@ Development  | Public Economics
 
 Democracy for Sale, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
-[*Holy Cow!* Religious violence, informal markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
+[*Holy Cow!* Religious violence, markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
 
 The (soft) power to tax: Compliance and Tax Morale as Imperial Legacy, with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
-"[Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0)," with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
+[Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
  >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals, with C. Heintz and M. Karabegovic
 
  >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method, with C. Heintz
 
-Give or Take: Experimental examination of bribery vs. extortion (with R. Innes)
+Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
-"Impact of the American opioid crisis on children," with [Dana Andersen](http://danacandersen.weebly.com/)
+Impact of the American opioid crisis on children, with [Dana Andersen](http://danacandersen.weebly.com/)
 
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
