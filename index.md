@@ -40,12 +40,12 @@ Development  | Public Economics
  
 ### Current projects 
 
-Democracy for Sale, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
-
-[*Holy Cow!* Religious violence, markets and the Indian economy](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
-  - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
-
 The (soft) power to tax: Compliance and Tax Morale as Imperial Legacy, with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
+
+Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+
+[*Holy Cow!* Religious violence, markets and social costs](https://www.dropbox.com/s/exg8zrbatunvmfi/Holy_Cow_Abstract.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
+  - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
 
 [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
  >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals, with C. Heintz and M. Karabegovic
