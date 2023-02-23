@@ -102,6 +102,8 @@ Impact of the American opioid crisis on children, with [Dana Andersen](http://da
 
 [European Public Choice Society 2023](https://www.epcs2023.uni-hannover.de/en/) (March 22 - 25, 2023)
 
+[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 2nd - 6th, 2023)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
