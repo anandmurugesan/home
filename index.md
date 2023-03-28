@@ -74,7 +74,7 @@ Impact of the American opioid crisis on children, with [Dana Andersen](http://da
 
 ### Working papers
 
-["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes, *submitted*
+["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes
 
 ["Cash for votes,"  *Elgar Encyclopedia of Public Choice*](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran, *forthcoming*
 
@@ -119,7 +119,7 @@ Impact of the American opioid crisis on children, with [Dana Andersen](http://da
 
 [Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2022-2023/impact-evaluation-policy-applications-r) [(Syllabus)](https://www.dropbox.com/s/vrtn2yko4flsyij/Impact_Evaluation_Syllabus_Winter2023.pdf?dl=0)
 
-[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2022-2023/advanced-impact-evaluation) [(Syllabus)](https://www.dropbox.com/s/ncl8t4pttw9t0pc/AdvImpact_Evaluation_Syllabus_Winter2023.pdf?dl=0)
+[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2022-2023/advanced-impact-evaluation) [(Syllabus)](https://www.dropbox.com/s/ciwdb6tjgl6pmn2/AdvImpact_Evaluation_Syllabus_Winter2023.pdf?dl=0)
 
 [Economic Analysis for Public Policy II](https://courses.ceu.edu/courses/2022-2023/economic-analysis-public-policy) [(Syllabus)](https://www.dropbox.com/s/mi13lpjuuh0d9hy/Economic_Analysis_Syllabus_2023.pdf?dl=0)
 
