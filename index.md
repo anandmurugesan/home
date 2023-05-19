@@ -54,6 +54,8 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
+Impact of the US opioid crisis on children, with Dana Andersen
+
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
@@ -102,7 +104,11 @@ Give or Take: Experimental examination of bribery vs. extortion, with [Robert In
 
 [Institute of Advanced Studies](https://www.ihs.ac.at/ru/behavioral-economics/) (May 3, 2023)
 
+[Vienna Applied Microeconomic Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023)
+
 [Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 2nd - 6th, 2023)
+
+[Stanford University](https://kingcenter.stanford.edu/) (July 2023)
 
 #### Links to recent collaborators
 
