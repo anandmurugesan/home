@@ -104,7 +104,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 [Institute of Advanced Studies](https://www.ihs.ac.at/ru/behavioral-economics/) (May 3, 2023)
 
-[Vienna Applied Microeconomic Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023)
+[Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023)
 
 [Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 2nd - 6th, 2023)
 
