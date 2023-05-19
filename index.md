@@ -108,8 +108,6 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 [Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 2nd - 6th, 2023)
 
-[]: # [Stanford University](https://kingcenter.stanford.edu/) (July 2023)
-
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
