@@ -54,7 +54,7 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
-Lot in my backyard! Empirical study of citizen efforts in local environmental restoration
+Lot in my backyard! Empirical study of citizen efforts in environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 Impact of the US opioid crisis on children, with Dana Andersen
 
