@@ -70,7 +70,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 ### Book 
 
-*Demystifying causal inference*: Public Policy Applications with R, with Vikram Dayal, Springer [forthcoming Spring 2023]
+*[Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/9789819939046), with Vikram Dayal, Springer [forthcoming Spring 2023]
 
 ### Working papers
 
