@@ -54,7 +54,7 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
-Lot in my backyard! Empirical study of citizen efforts in environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
+Yes, in my backyard! Empirical study of citizen efforts in environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 Impact of the US opioid crisis on children, with Dana Andersen
 
@@ -84,11 +84,10 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 ["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Teresa Geidel
 
-### Other publications and contributions
+### Other
 
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://knowledge4policy.ec.europa.eu/projects-activities/understanding-our-political-nature-how-put-knowledge-reason-heart-political_en), lead author of [the economics team report with Martina Barjaková and Michael Vlassopoulos](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00), 2019
 
-"An Empirical Study of Sanitation and Health in Rural Uttarakhand, India," with Vikram Dayal and Saurabh Chugh, *International Journal of Ecological Economics and Statistics*, Vol. 10, 91-99, 2008
 
 #### Recent and upcoming presentations / research visits
 
