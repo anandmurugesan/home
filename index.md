@@ -58,6 +58,10 @@ Yes, in my backyard! Empirical study of citizen efforts in environmental restora
 
 Impact of the US opioid crisis on children, with Dana Andersen
 
+### Book 
+
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/9789819939046), with Vikram Dayal, Springer [forthcoming Spring 2023]
+
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
@@ -69,10 +73,6 @@ Impact of the US opioid crisis on children, with Dana Andersen
 ["Electoral clientelism and vote buying,"](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
 
 ["Use of Weather Information for Agricultural Decision Making,"](https://doi.org/10.1175/WCAS-D-12-00022.1) with George Frisvold, *Weather, Climate and Society*, 5, January Issue, 55-69, 2013.
-
-### Book 
-
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/9789819939046), with Vikram Dayal, Springer [forthcoming Spring 2023]
 
 ### Working papers
 
