@@ -60,7 +60,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 ### Book 
 
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/9789819939046), with Vikram Dayal, Springer [forthcoming Spring 2023]
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/9789819939046), with Vikram Dayal, Springer (forthcoming [Fall 2023](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet))
 
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
