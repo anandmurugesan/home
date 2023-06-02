@@ -15,7 +15,7 @@ Anand Murugesan
 [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 C-403, Quellenstraße 51, 1100 Wien <br/>
 Phone: +43.1.25230.2054
-Twitter: @tapasiva
+Twitter: [@tapasiva](https://twitter.com/tapasiva)
 
 
 email: <murugesana@ceu.edu>
@@ -78,7 +78,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes (under review)
 
-[The puzzling practice of paying cash for votes](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran 
+[The puzzling practice of paying cash for votes](https://www.dropbox.com/s/h7x2msdr9n8uzzw/CashForVotes_MurugesanTyran.pdf?dl=0) with Jean-Robert Tyran (forthcoming)
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
@@ -117,6 +117,12 @@ Impact of the US opioid crisis on children, with Dana Andersen
 ## Teaching
 
 ### Central European University, Vienna 
+
+**Fall 2023** (upcoming)
+
+Economic Analysis for Public Policy I
+
+Impact Evaluation: Policy Applications with R 
 
 **Fall 2022 and Spring 2023** (on research leave)
 
