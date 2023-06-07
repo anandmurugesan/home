@@ -120,9 +120,9 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 **Fall 2023** (upcoming)
 
-Economic Analysis for Public Policy I
+[Microeconomics, Behavior and Public Policy](https://courses.ceu.edu/courses/2023-2024/microeconomics-behavior-and-public-policy)
 
-Impact Evaluation: Policy Applications with R 
+[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2023-2024/impact-evaluation-policy-applications-r)
 
 **Fall 2022 and Spring 2023** (on research leave)
 
