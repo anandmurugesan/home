@@ -36,7 +36,7 @@ Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesa
 
 Development  | Public Economics
 
- Environment | Experimental Economics 
+Political behavior | Experimental Economics 
  
 ### Current projects 
 
