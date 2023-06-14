@@ -103,7 +103,9 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 [Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023)
 
-[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 2nd - 6th, 2023)
+[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3rd - 7th, 2023)
+
+[Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
 
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023)
 
