@@ -103,7 +103,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 [Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023)
 
-[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3rd - 7th, 2023)
+[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023)
 
 [Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
 
@@ -154,7 +154,7 @@ And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
-My brother's work on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687) and; recent work examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in a part of the world where, in theory, water flowing down the drain would spin in the opposite direction of the drains in my hemisphere... ;) <br/>
+My brother worked on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother resides in a part of the world where, in theory, the direction of water flowing down the drain is expected to spin in the opposite direction compared to the drains in my hemisphere... ;) <br/>
 
 
 ---
