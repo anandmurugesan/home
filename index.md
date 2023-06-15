@@ -154,7 +154,7 @@ And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
-My brother worked on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother resides in a part of the world where, in theory, the direction of water flowing down the drain is expected to spin in the opposite direction compared to the drains in my hemisphere... ;) <br/>
+My brother worked on [the effect of angular momentum in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in the part of the world where, in theory, the water flowing down the drain is expected to spin in the opposite direction compared to the drains in parts I am in... ;) <br/>
 
 
 ---
