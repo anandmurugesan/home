@@ -123,15 +123,10 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 [Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2023-2024/impact-evaluation-policy-applications-r)
 
-**Fall 2022 and Spring 2023** (on research leave)
+**Winter 2024**
 
-**Winter 2023**
+[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2023-2024/advanced-impact-evaluation)
 
-[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2022-2023/impact-evaluation-policy-applications-r) [(Syllabus)](https://www.dropbox.com/s/vrtn2yko4flsyij/Impact_Evaluation_Syllabus_Winter2023.pdf?dl=0)
-
-[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2022-2023/advanced-impact-evaluation) [(Syllabus)](https://www.dropbox.com/s/ciwdb6tjgl6pmn2/AdvImpact_Evaluation_Syllabus_Winter2023.pdf?dl=0)
-
-[Economic Analysis for Public Policy II](https://courses.ceu.edu/courses/2022-2023/economic-analysis-public-policy) [(Syllabus)](https://www.dropbox.com/s/mi13lpjuuh0d9hy/Economic_Analysis_Syllabus_2023.pdf?dl=0)
 
 ## Bio
 
