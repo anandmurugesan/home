@@ -82,8 +82,6 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
 
-["Incentives for consumption and the return of single-use-bottles: Empirical study of the deposit return system in Germany,"](https://www.dropbox.com/s/ydvs102asgt8oii/SingleUsePlastic_Abstract.pdf?dl=0) with Teresa Geidel
-
 ### Other
 
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://knowledge4policy.ec.europa.eu/projects-activities/understanding-our-political-nature-how-put-knowledge-reason-heart-political_en), lead author of [the economics team report](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00) with [Martina Barjaková](https://www.researchgate.net/profile/Martina-Barjakova-2) and [Michael Vlassopoulos](https://sites.google.com/view/michael-vlassopoulos/home), 2019
@@ -108,7 +106,6 @@ Impact of the US opioid crisis on children, with Dana Andersen
 [Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
 
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023)
-
 
 
 #### Links to recent collaborators
