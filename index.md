@@ -26,8 +26,6 @@ Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https:/
 
 Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesan_latest.pdf?dl=0)
 
-**I am on research leave in Fall 2022 and Spring 2023.** I am a Senior Fellow at the [IAS Vienna (Behavioral economics group)](https://www.ihs.ac.at/) and a research affiliate at the [Democracy Institute, Budapest](https://democracyinstitute.ceu.edu/research/inequalities) during this time.  
-
 ---
 
 ## Research 
@@ -36,7 +34,7 @@ Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesa
 
 Development  | Public Economics
 
-Political behavior | Experimental Economics 
+Political Behavior | Experimental Economics 
  
 ### Current projects 
 
@@ -54,9 +52,9 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
-Yes, in my backyard! Empirical study of citizen efforts for environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
+Yes, in my backyard! An empirical study of citizen efforts for environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
-Impact of the US opioid crisis on children, with Dana Andersen
+Impact of the US opioid crisis on Children, with Dana Andersen
 
 ### Book 
 
@@ -87,7 +85,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://knowledge4policy.ec.europa.eu/projects-activities/understanding-our-political-nature-how-put-knowledge-reason-heart-political_en), lead author of [the economics team report](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00) with [Martina Barjaková](https://www.researchgate.net/profile/Martina-Barjakova-2) and [Michael Vlassopoulos](https://sites.google.com/view/michael-vlassopoulos/home), 2019
 
 
-#### Recent and upcoming presentations / research visits
+#### Recent and upcoming presentations/research visits
 
 [Wirtschafts Universität Wien](https://www.wu.ac.at/en/ims/news/seminar-series/) seminar series (October 11, 2022)
 
@@ -119,7 +117,7 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 **Fall 2023** (upcoming)
 
-[Microeconomics, Behavior and Public Policy](https://courses.ceu.edu/courses/2023-2024/microeconomics-behavior-and-public-policy)
+[Microeconomics, Behavior, and Public Policy](https://courses.ceu.edu/courses/2023-2024/microeconomics-behavior-and-public-policy)
 
 [Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2023-2024/impact-evaluation-policy-applications-r)
 
@@ -132,13 +130,13 @@ Impact of the US opioid crisis on children, with Dana Andersen
 
 PhD, University of Maryland, College Park<br/>
 MA, Jawaharlal Nehru University, New Delhi<br/>
-B.Com., Bangalore University (St. Joseph's College)<br/>
+BCom, Bangalore University (St. Joseph's College)<br/>
 
 Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
-You can find some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
+You can find some pictures of fieldwork on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
