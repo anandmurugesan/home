@@ -9,7 +9,7 @@
 </script>
 
 Anand Murugesan   
-*Assistant Professor of Economics*
+*Associate Professor of Economics*
 
 [Department of Public Policy](https://people.ceu.edu/anand_murugesan)<br/>
 [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
