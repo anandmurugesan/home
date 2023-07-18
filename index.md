@@ -137,9 +137,17 @@ BCom, Bangalore University (St. Joseph's College)<br/>
 
 Born 1980, Bangalore, Indian citizenship
 
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="twitter-timeline" href="https://twitter.com/tapasiva">Tweets by tapasiva </a>
+
+<!-- Your Twitter Embed Code
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/tapasiva/status/1234567890123456789"></a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
 
 ## Various and sundry
 
