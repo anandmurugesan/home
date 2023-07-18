@@ -91,8 +91,6 @@ Impact of the US opioid crisis on Children, with Dana Andersen
 
 [Università Bocconi](http://www.igier.unibocconi.it/) (November 14 - 18, 2022)
 
-[Center for Development Studies, India](https://cds.edu/#m-10-2022) (December 4 - 14, 2022)
-
 [European Public Choice Society 2023](https://www.epcs2023.uni-hannover.de/en/) (March 22 - 25, 2023)
 
 [Institute of Advanced Studies](https://www.ihs.ac.at/ru/behavioral-economics/) (May 3, 2023)
@@ -102,6 +100,12 @@ Impact of the US opioid crisis on Children, with Dana Andersen
 [Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023)
 
 [Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
+
+[Center for Development Studies, India](https://cds.edu/#m-10-2022) (August 4, 2023)
+
+[Delhi School of Economics, India](http://econdse.org/cde-seminars/) (August 31, 2023)
+
+[Indian Statistical Institute, Delhi](https://www.isid.ac.in/) (September 1, 2023)
 
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023)
 
