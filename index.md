@@ -4,7 +4,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-162382665-1');
 </script>
 
@@ -137,6 +136,10 @@ MA, Jawaharlal Nehru University, New Delhi<br/>
 BCom, Bangalore University (St. Joseph's College)<br/>
 
 Born 1980, Bangalore, Indian citizenship
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" href="https://twitter.com/tapasiva">Tweets by tapasiva </a>
 
 ## Various and sundry
 
