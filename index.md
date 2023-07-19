@@ -137,38 +137,51 @@ BCom, Bangalore University (St. Joseph's College)<br/>
 
 Born 1980, Bangalore, Indian citizenship
 
-<!-- Your Twitter Embed Code
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Various and sundry
 
-<a class="twitter-timeline" href="https://twitter.com/tapasiva">Tweets by tapasiva </a>
--->
-<!-- Twitter Widget Script -->
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- Section to display the latest tweet -->
+<div id="tweet-section"></div>
 
 <!-- JavaScript to fetch and display the latest tweet -->
 <script>
   // Function to fetch the latest tweet
   function fetchLatestTweet() {
-    var twitterWidget = document.createElement('a');
-    twitterWidget.setAttribute('class', 'twitter-timeline');
-    twitterWidget.setAttribute('data-width', '400');
-    twitterWidget.setAttribute('data-height', '400');
-    twitterWidget.setAttribute('href', 'https://twitter.com/tapasiva');
-    twitterWidget.innerText = 'Tweets by tapasiva';
+    // Twitter API credentials
+    const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry'; // Replace with your Twitter Bearer Token
 
-    // Append the Twitter widget to the appropriate section of your website
-    var tweetSection = document.getElementById('tweet-section');
-    tweetSection.appendChild(twitterWidget);
+    // Fetch the latest tweet using the Twitter API
+    fetch('https://api.twitter.com/2/users/by/username/tapasiva', {
+      headers: {
+        'Authorization': `Bearer ${bearerToken}`
+      }
+    })
+    .then(response => response.json())
+    .then(data => {
+      // Get the latest tweet
+      const latestTweet = data.data[0].latest_tweet;
+
+      // Create a new anchor element with the tweet text
+      const tweetElement = document.createElement('a');
+      tweetElement.setAttribute('class', 'twitter-timeline');
+      tweetElement.setAttribute('data-width', '400');
+      tweetElement.setAttribute('data-height', '400');
+      tweetElement.setAttribute('href', `https://twitter.com/tapasiva/status/${latestTweet.id}`);
+      tweetElement.innerText = latestTweet.text;
+
+      // Append the tweet element to the tweet section
+      const tweetSection = document.getElementById('tweet-section');
+      tweetSection.appendChild(tweetElement);
+    })
+    .catch(error => {
+      console.error('Error fetching the latest tweet:', error);
+    });
   }
 
   // Call the fetchLatestTweet function when the page is loaded
   document.addEventListener('DOMContentLoaded', fetchLatestTweet);
 </script>
 
-<!-- Section to display the latest tweet -->
-<div id="tweet-section"></div>
-
-## Various and sundry
 
 You can find fieldwork pictures on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
 
