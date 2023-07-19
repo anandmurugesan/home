@@ -183,6 +183,8 @@ Born 1980, Bangalore, Indian citizenship
 </script>
 
 
+
+
 You can find fieldwork pictures on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
 
 <img src="theboythemule.png" width="150" height="200" /> 
