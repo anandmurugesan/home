@@ -139,7 +139,6 @@ Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
-
 <!-- Section to display the latest tweet -->
 <div id="tweet-section"></div>
 
@@ -147,8 +146,8 @@ Born 1980, Bangalore, Indian citizenship
 <script>
   // Function to fetch the latest tweet
   function fetchLatestTweet() {
-    // Twitter API credentials
-    const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry'; // Replace with your Twitter Bearer Token
+    // Replace 'YOUR_BEARER_TOKEN' with your actual Twitter Bearer Token
+    const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry';
 
     // Fetch the latest tweet using the Twitter API
     fetch('https://api.twitter.com/2/users/by/username/tapasiva', {
@@ -181,7 +180,6 @@ Born 1980, Bangalore, Indian citizenship
   // Call the fetchLatestTweet function when the page is loaded
   document.addEventListener('DOMContentLoaded', fetchLatestTweet);
 </script>
-
 
 
 
