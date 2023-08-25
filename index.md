@@ -19,7 +19,7 @@ Twitter: [@tapasiva](https://twitter.com/tapasiva)
 
 email: <murugesana@ceu.edu>
 
-Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/) and [Democracy Institute](https://democracyinstitute.ceu.edu/research/inequalities)
+Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/) and [Democracy Institute](https://democracyinstitute.ceu.edu/research/de-and-re-democratization-drd)
 
 Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
 
