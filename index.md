@@ -53,7 +53,7 @@ Give or Take: Experimental examination of bribery vs. extortion, with [Robert In
 
 Yes, in my backyard! An empirical study of citizen efforts for environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
-Impact of the US opioid crisis on Children, with Dana Andersen
+<!-- Impact of the US opioid crisis on Children, with Dana Andersen -->
 
 ### Book 
 
@@ -86,7 +86,7 @@ Impact of the US opioid crisis on Children, with Dana Andersen
 
 #### Recent and upcoming presentations/research visits
 
-[Wirtschafts Universität Wien](https://www.wu.ac.at/en/ims/news/seminar-series/) seminar series (October 11, 2022)
+<!-- [Wirtschafts Universität Wien](https://www.wu.ac.at/en/ims/news/seminar-series/) seminar series (October 11, 2022)
 
 [Università Bocconi](http://www.igier.unibocconi.it/) (November 14 - 18, 2022)
 
@@ -94,9 +94,9 @@ Impact of the US opioid crisis on Children, with Dana Andersen
 
 [Institute of Advanced Studies](https://www.ihs.ac.at/ru/behavioral-economics/) (May 3, 2023)
 
-[Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023)
+[Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023) -->
 
-[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023)
+[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023) 
 
 [Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
 
