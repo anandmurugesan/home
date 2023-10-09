@@ -120,13 +120,13 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 ### Central European University, Vienna 
 
-**Fall 2023** (upcoming)
+**Fall 2023** 
 
 [Microeconomics, Behavior, and Public Policy](https://courses.ceu.edu/courses/2023-2024/microeconomics-behavior-and-public-policy)
 
 [Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2023-2024/impact-evaluation-policy-applications-r)
 
-**Winter 2024**
+**Winter 2024** (upcoming)
 
 [Advanced Impact Evaluation](https://courses.ceu.edu/courses/2023-2024/advanced-impact-evaluation)
 
