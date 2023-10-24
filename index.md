@@ -112,6 +112,7 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023)
 
+[Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2023/index.html) (18 - 20 December, 2023)
 
 #### Links to recent collaborators
 
