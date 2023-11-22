@@ -114,6 +114,8 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2023/index.html) (18 - 20 December, 2023)
 
+Econ CAKE talk, University of Utah (February 23, 2024)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
