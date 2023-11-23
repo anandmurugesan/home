@@ -28,7 +28,7 @@ Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesa
 ---
 ## News
 
-[<span style="color:black; font-weight:bold;">Workshop on "Uncovering the Historical Mechanisms of Persistence"</span>](https://dpp.ceu.edu/workshop-historical-persistence)
+[<span style="color:#000080; font-weight:bold;">Workshop on "Uncovering the Historical Mechanisms of Persistence"</span>](https://dpp.ceu.edu/workshop-historical-persistence)
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:black; font-weight:bold;">(New release on Amazon!)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
@@ -116,6 +116,8 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 [Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023)
 
 [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2023/index.html) (18 - 20 December, 2023)
+
+[Workshop on "Uncovering the Historical Mechanisms of Persistence](https://dpp.ceu.edu/workshop-historical-persistence) (18 - 19 January, 2024)
 
 Econ CAKE talk, University of Utah (February 23, 2024)
 
