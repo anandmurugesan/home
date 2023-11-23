@@ -26,6 +26,9 @@ Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https:/
 Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesan_latest.pdf?dl=0)
 
 ---
+## News
+
+[<span style="color:black; font-weight:bold;">Workshop on "Uncovering the Historical Mechanisms of Persistence"</span>](https://dpp.ceu.edu/workshop-historical-persistence)
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:black; font-weight:bold;">(New release on Amazon!)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
