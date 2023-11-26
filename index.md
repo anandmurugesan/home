@@ -47,6 +47,7 @@ Political Behavior | Experimental Economics
 [The (soft) power to tax: Compliance and Tax Morale as Imperial Legacy](https://www.dropbox.com/scl/fi/35pvgugppauv2tz58scls/PowerToTax_DorschMurugesan_15September2023_Abstract.pdf?rlkey=rhhwxkb8f87gy0ray8sd8qzpg&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
 Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+  - Voters' Dilemma: A political discontinuity approach, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and Jean-Robert Tyran 
 
 [Conflicts, markets, and social costs](https://www.dropbox.com/s/p10td03nyxct88z/Holy_Cow_EPCS_Abstract_2023.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
