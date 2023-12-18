@@ -23,7 +23,7 @@ Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/) and [Democr
 
 Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
 
-Here is a link to my [CV](https://www.dropbox.com/s/t2p7hos9ii79tfo/CV_AMurugesan_latest.pdf?dl=0)
+Here is a link to my [CV](https://www.dropbox.com/scl/fi/aqr3op7a1bett64gasnzb/CV_AMurugesan_latest.pdf?rlkey=y7ibkpwhfc6eixur3esw4tr6e&dl=0)
 
 ---
 ## News
