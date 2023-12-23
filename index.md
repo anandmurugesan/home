@@ -57,7 +57,7 @@ Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.
 [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
  >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
 
- >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method, with C. Heintz
+ >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
