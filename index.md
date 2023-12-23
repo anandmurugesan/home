@@ -49,7 +49,7 @@ Political Behavior | Experimental Economics
 Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
   - Voters' Dilemma: A political discontinuity approach, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and Jean-Robert Tyran
 
-Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Andreas Nanz & Jean-Robert Tyran  [as part of the EU Horizon-funded call on Standing up for Democracies]
+Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Andreas Nanz & Jean-Robert Tyran  [as part of the EU Horizon-funded project on Standing up for Democracies]
 
 [Conflicts, markets, and social costs](https://www.dropbox.com/s/p10td03nyxct88z/Holy_Cow_EPCS_Abstract_2023.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
