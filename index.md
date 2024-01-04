@@ -154,6 +154,8 @@ Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
+For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palghat-Pollachi), conducting fieldwork. 
+
 <!-- Section to display the latest tweet -->
 <div id="tweet-section"></div>
 
