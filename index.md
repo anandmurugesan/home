@@ -156,6 +156,10 @@ Born 1980, Bangalore, Indian citizenship
 
 For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palghat-Pollachi), conducting fieldwork. 
 
+<img src="PoliticianInterview_Ramassery.jpeg" width="225" height="150" /> <img src="Idli_Ramassery.jpeg" width="225" height="150" /> 
+
+Interviewing a local Ramassery politician with Libin and stopping for the famed Ramassery idli with Sreenivasan ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
+
 <!-- Section to display the latest tweet -->
 <div id="tweet-section"></div>
 
