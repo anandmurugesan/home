@@ -91,7 +91,7 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 ### Other
 
-[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://knowledge4policy.ec.europa.eu/projects-activities/understanding-our-political-nature-how-put-knowledge-reason-heart-political_en), lead author of [the economics team report](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00) with [Martina Barjaková](https://www.researchgate.net/profile/Martina-Barjakova-2) and [Michael Vlassopoulos](https://sites.google.com/view/michael-vlassopoulos/home), 2019
+[Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://knowledge4policy.ec.europa.eu/projects-activities/understanding-our-political-nature-how-put-knowledge-reason-heart-political_en), author of [the economics team report](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00) with [Martina Barjaková](https://www.researchgate.net/profile/Martina-Barjakova-2) and [Michael Vlassopoulos](https://sites.google.com/view/michael-vlassopoulos/home), 2019
 
 
 #### Recent and upcoming presentations/research visits
