@@ -168,7 +168,7 @@ Interviewing a local politician with Libin and stopping for the famed Ramasseri 
 
 An impromptu discussion at a tea stall (with an insightful old friend of Sreenivasan Ji's father); the trusted Honda Unicorn got us  around. 
 
-<img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees" width="225" height="150" /> 
+<img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees.jpeg" width="225" height="150" /> 
 
 A delightful stop at the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door to the field office to buy handmade fabric (and made to fit by a local tailor) and taking a break with the views of Silent Valley (about 70 km from the field office). 
 
