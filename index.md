@@ -171,7 +171,7 @@ An impromptu discussion at a tea stall (with an insightful old friend of Sreeniv
 
 <img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees.jpeg" width="225" height="150" /> 
 
-A delightful stop at the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door to the field office to buy handmade fabric (and made to fit by a local tailor) and taking a break with the views of the Silent Valley (about 70 km from the field office). 
+An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door (we bought handmade fabric, made to fit by a local tailor) and taking in the moment with a view of the Silent Valley. 
 
 <!-- Section to display the latest tweet -->
 <div id="tweet-section"></div>
