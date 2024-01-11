@@ -104,9 +104,9 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [Institute of Advanced Studies](https://www.ihs.ac.at/ru/behavioral-economics/) (May 3, 2023)
 
-[Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023) -->
+[Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023) 
 
-[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023) 
+[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023) -->
 
 [Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
 
@@ -133,15 +133,16 @@ Econ CAKE talk, University of Utah (February 23, 2024)
 
 ### Central European University, Vienna 
 
+
+**Winter 2024** (upcoming)
+
+[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2023-2024/advanced-impact-evaluation)
+
 **Fall 2023** 
 
 [Microeconomics, Behavior, and Public Policy](https://courses.ceu.edu/courses/2023-2024/microeconomics-behavior-and-public-policy)
 
 [Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2023-2024/impact-evaluation-policy-applications-r)
-
-**Winter 2024** (upcoming)
-
-[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2023-2024/advanced-impact-evaluation)
 
 
 ## Bio
@@ -154,11 +155,11 @@ Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
-For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork. Some stills from the field: 
+For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork for the Valuing Democracy project. Some stills from the field: 
 
 <img src="Palakkad_Vengodi_Training.jpeg" width="225" height="150" /> <img src="Palakkad_Para_LunchPlace.jpeg" width="225" height="150" /> 
 
-Debriefing and training enumerators at the field office in Vengodi, Palakkad, and our go-to lunch spot (Sri Venkatesh Bhavan) at Para.
+Debriefing and training enumerators at the field office in Vengodi, Palakkad, and our go-to lunch spot (Hotel Venkatesh Bhavan, Para).
 
 <img src="PoliticianInterview_Ramassery.jpeg" width="225" height="150" /> <img src="Idli_Ramassery.jpeg" width="225" height="150" /> 
 
@@ -166,11 +167,11 @@ Interviewing a local politician with Libin and stopping for the famed Ramasseri 
 
 <img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Palakkad_Para_Bike.jpeg" width="225" height="150" /> 
 
-An impromptu discussion at a tea stall (with an insightful old friend of Sreenivasan Ji's father); the trusted Honda Unicorn got us  around. 
+An impromptu discussion at a tea stall (with an insightful old friend of Sreenivasan Ji's father). The trusted Honda got us around. 
 
 <img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees.jpeg" width="225" height="150" /> 
 
-A delightful stop at the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door to the field office to buy handmade fabric (and made to fit by a local tailor) and taking a break with the views of Silent Valley (about 70 km from the field office). 
+A delightful stop at the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door to the field office to buy handmade fabric (and made to fit by a local tailor) and taking a break with the views of the Silent Valley (about 70 km from the field office). 
 
 <!-- Section to display the latest tweet -->
 <div id="tweet-section"></div>
