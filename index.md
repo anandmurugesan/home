@@ -154,11 +154,23 @@ Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
-For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork. 
+For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork. Some stills from the field: 
+
+<img src="Palakkad_Vengodi_Training.jpeg" width="225" height="150" /> <img src="Palakkad_Para_LunchPlace.jpeg" width="225" height="150" /> 
+
+Debriefing and training enumerators at the field office in Vengodi, Palakkad, and our go-to lunch spot (Sri Venkatesh Bhavan) at Para.
 
 <img src="PoliticianInterview_Ramassery.jpeg" width="225" height="150" /> <img src="Idli_Ramassery.jpeg" width="225" height="150" /> 
 
-Interviewing a local politician with Libin and stopping for the famed Ramasseri idli with Sreenivasan Ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
+Interviewing a local politician with Libin; stopping for the famed Ramasseri idli with Sreenivasan Ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
+
+<img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Palakkad_Para_Bike.jpeg" width="225" height="150" /> 
+
+Impromptu discussion at a tea stall (with an insightful old friend of Sreenivasan Ji's father); the trusted Honda Unicorn getting us  around. 
+
+<img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_View" width="225" height="150" /> 
+
+A delightful stop at the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door to the field office to buy handmade fabric (and made to fit by a local tailor) and; taking in the view of Silent Valley (about 70 km from the field office). 
 
 <!-- Section to display the latest tweet -->
 <div id="tweet-section"></div>
