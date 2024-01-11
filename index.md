@@ -30,7 +30,7 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/aqr3op7a1bett64gasnzb/C
 
 [<span style="color:#000080; font-weight:bold;">Workshop on "Uncovering the Historical Mechanisms of Persistence"</span>](https://dpp.ceu.edu/workshop-historical-persistence)
 
-[*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:#006400; font-weight:bold;">(New release on Amazon!)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
+[*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:#006400; font-weight:bold;">(availabe on Amazon)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
 ---
 
@@ -155,7 +155,7 @@ Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
-For most of January and February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork for the Valuing Democracy project. Some stills from the field: 
+From December 2023 to February 2024, I'll be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork for the Valuing Democracy project. Some stills from the field: 
 
 <img src="Palakkad_Vengodi_Training.jpeg" width="225" height="150" /> <img src="Palakkad_Para_LunchPlace.jpeg" width="225" height="150" /> 
 
@@ -167,7 +167,7 @@ Interviewing a local politician with Libin and stopping for the famed Ramasseri 
 
 <img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Palakkad_Para_Bike.jpeg" width="225" height="150" /> 
 
-An impromptu discussion at a tea stall (with an insightful old friend of Sreenivasan Ji's father). The trusted Honda got us around. 
+An impromptu discussion at a tea stall (with the stall owner, an insightful old friend of Sreenivasan Ji's father). The trusted Honda got us around. 
 
 <img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees.jpeg" width="225" height="150" /> 
 
@@ -217,11 +217,11 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 
 
 
-You can find fieldwork pictures on our [Greening the Margin project](https://tizianacentofanti.wixsite.com/personalwebsite/gallery). Here is my sketch of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
+You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and my sketch (below) of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
-And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (on the left) and me breaking traditions (on the right).
+A dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (below, on the left) and me breaking traditions (on the right).
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
