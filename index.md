@@ -124,6 +124,8 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 Econ CAKE talk, University of Utah (February 23, 2024)
 
+European Public Choice Society Meeting (April 2 - 5, 2024)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
