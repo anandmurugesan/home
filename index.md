@@ -49,6 +49,8 @@ Political Behavior | Experimental Economics
 Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
   - Voters' Dilemma: A political discontinuity approach, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and Jean-Robert Tyran
 
+Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
+
 Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Andreas Nanz & Jean-Robert Tyran  [as part of the EU Horizon-funded project on Standing up for Democracies]
 
 [Conflicts, markets, and social costs](https://www.dropbox.com/s/p10td03nyxct88z/Holy_Cow_EPCS_Abstract_2023.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
@@ -58,8 +60,6 @@ Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.
  >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
 
  >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method
-
-Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
 Yes, in my backyard! An empirical study of citizen efforts for environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
@@ -87,7 +87,7 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [The puzzling practice of paying cash for votes](https://www.cesifo.org/DocDL/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, Elgar Encyclopedia of Public Choice)
 
-["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper*
+<!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
 
 ### Other
 
