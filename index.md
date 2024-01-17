@@ -122,7 +122,7 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [Workshop on "Uncovering the Historical Mechanisms of Persistence](https://dpp.ceu.edu/workshop-historical-persistence) (18 - 19 January, 2024)
 
-Econ CAKE talk, University of Utah (February 23, 2024)
+[Econ CAKE talk, University of Utah](https://economics.utah.edu/events/index.php?trumbaEmbed=view%3Devent%26eventid%3D171610971) (February 23, 2024)
 
 European Public Choice Society Meeting (April 2 - 5, 2024)
 
