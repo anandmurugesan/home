@@ -106,7 +106,7 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [Vienna Applied Micro Economics Workshop](https://viennappliedmicroeconomics.weebly.com/workshop.html) (June 19, 2023) 
 
-[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023) -->
+[Western Economic Association 2023](https://weai.org/conferences/view/13/98th-Annual-Conference) (July 3 - 7, 2023)
 
 [Stanford University](https://kingcenter.stanford.edu/) (July 10 - 12, 2023)
 
@@ -116,13 +116,15 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 [Indian Statistical Institute, Delhi](https://www.isid.ac.in/) (September 1, 2023)
 
-[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023)
+[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023) -->
 
 [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2023/index.html) (18 - 20 December, 2023)
 
 [Workshop on "Uncovering the Historical Mechanisms of Persistence](https://dpp.ceu.edu/workshop-historical-persistence) (18 - 19 January, 2024)
 
 [Econ CAKE talk, University of Utah](https://economics.utah.edu/events/index.php?trumbaEmbed=view%3Devent%26eventid%3D171610971) (February 23, 2024)
+
+EUBA Experiments in Development Workshop, Bratislava (March 21, 2024)
 
 European Public Choice Society Meeting (April 2 - 5, 2024)
 
