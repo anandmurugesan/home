@@ -169,7 +169,7 @@ Debriefing and training enumerators at the field office in Vengodi, Palakkad. Ou
 
 We interviewed scores of politicians: here is one with Libin and a stopover for the famed Ramasseri idli with Sreenivasan Ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
 
-<img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Palakkad_Para_Bike.jpeg" width="225" height="150" /> 
+<img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Pollachi_Thimmanguthu.png" width="225" height="150" /> 
 
 An impromptu discussion at a tea stall (with the stall owner, an insightful, white-bearded, old friend of Sreenivasan Ji's father) and the trusted Honda that got us around. 
 
