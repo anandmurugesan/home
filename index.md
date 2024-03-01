@@ -159,19 +159,19 @@ Born 1980, Bangalore, Indian citizenship
 
 ## Various and sundry
 
-From December 2023 to February 2024, I'll mostly be shuttling (actually, riding or pillion riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork for the Valuing Democracy project. Some stills from the field: 
+Between December 2023 and February 2024, I was shuttling (actually, riding or pillion-riding a motorbike) across the Tamil Nadu and Kerala border (Palakkad-Pollachi), conducting fieldwork for the Valuing Democracy project. Some stills from the field: 
 
 <img src="Palakkad_Vengodi_Training.jpeg" width="225" height="150" /> <img src="Palakkad_Para_LunchPlace.jpeg" width="225" height="150" /> 
 
-Debriefing and training enumerators at the field office in Vengodi, Palakkad. Our go-to lunch place is Hotel Venkatesh Bhavan, which uses a wood-fired stove for cooking and redolent of [Malgudi Days](https://www.youtube.com/watch?v=mIYA5qANs_A).
+Debriefing and training enumerators at the field office in Vengodi, Palakkad. Our go-to lunch place was Hotel Venkatesh Bhavan -- uses a wood-fired stove for cooking and redolent of [Malgudi Days](https://www.youtube.com/watch?v=mIYA5qANs_A).
 
 <img src="PoliticianInterview_Ramassery.jpeg" width="225" height="150" /> <img src="Idli_Ramassery.jpeg" width="225" height="150" /> 
 
-Interviewing a local politician with Libin and stopping for the famed Ramasseri idli with Sreenivasan Ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
+We interviewed scores of politicians: here is one with Libin and a stopover for the famed Ramasseri idli with Sreenivasan Ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
 
 <img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Palakkad_Para_Bike.jpeg" width="225" height="150" /> 
 
-An impromptu discussion at a tea stall (with the stall owner, an insightful, white-bearded, old friend of Sreenivasan Ji's father) and the trusted Honda that gets us around. 
+An impromptu discussion at a tea stall (with the stall owner, an insightful, white-bearded, old friend of Sreenivasan Ji's father) and the trusted Honda that got us around. 
 
 <img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees.jpeg" width="225" height="150" /> 
 
