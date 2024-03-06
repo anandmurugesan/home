@@ -67,7 +67,7 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 ### Book 
 
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer 
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [>2400 accesses since 1 Oct 2023]
 
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
