@@ -66,8 +66,20 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 <!-- Impact of the US opioid crisis on Children, with Dana Andersen -->
 
 ### Book 
+<script>
 
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [>2400 accesses since 1 Oct 2023]
+fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
+  .then(response => response.text())
+  .then(html => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    const accesses = doc.querySelector('p.c-article-metrics-bar__count').innerText.split(' ')[0];
+    document.getElementById('book-accesses').innerText = `Number of Accesses: ${accesses}`;
+  })
+  .catch(err => console.error('Failed to fetch page: ', err));
+</script>
+
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [<div id="book-accesses">Number of Accesses</div>]
 
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
