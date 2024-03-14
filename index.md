@@ -136,7 +136,7 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 
 [Econ CAKE talk, University of Utah](https://economics.utah.edu/events/index.php?trumbaEmbed=view%3Devent%26eventid%3D171610971) (February 23, 2024)
 
-EUBA Experiments in Development Workshop, Bratislava (March 21, 2024)
+Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March 21, 2024)
 
 European Public Choice Society Meeting (April 2 - 5, 2024)
 
