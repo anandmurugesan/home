@@ -138,7 +138,7 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 
 Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March 21, 2024)
 
-European Public Choice Society Meeting (April 2 - 5, 2024)
+[European Public Choice Society Meeting](https://www.wu.ac.at/epcs2024/) (April 2 - 5, 2024)
 
 #### Links to recent collaborators
 
