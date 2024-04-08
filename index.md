@@ -28,7 +28,7 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/aqr3op7a1bett64gasnzb/C
 ---
 ## News
 
-[Starting May 2024, I'll join Jean-Robert Tyran and the team at the University of Vienna to research "Emotions in Politics," funded by a Horizon Europe grant](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html)
+[Starting May 2024, I'll join Jean-Robert Tyran at the University of Vienna to research "Emotions in Politics," funded by a Horizon Europe grant](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html)
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:#006400; font-weight:bold;">(availabe on Amazon)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
@@ -47,7 +47,7 @@ Political Behavior | Experimental Economics
 [From Enlightenment to Cameralism: Compliance and Tax Morale as Imperial Legacy](https://www.dropbox.com/scl/fi/9n0m0nvi432pwrvb32f86/Dorsch_Murugesan_Habsburgs_Jan2024.pdf?rlkey=cu3v34zs43clr6emdpnzzf4rc&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
 Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
-  - Voters' Dilemma: A political discontinuity approach, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and Jean-Robert Tyran
+  - Voters' Dilemma, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and Jean-Robert Tyran
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
