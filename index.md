@@ -53,7 +53,7 @@ Give or Take: Experimental examination of bribery vs. extortion, with [Robert In
 
 Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Andreas Nanz & Jean-Robert Tyran 
 
-[Conflicts, markets, and social costs](https://www.dropbox.com/s/p10td03nyxct88z/Holy_Cow_EPCS_Abstract_2023.pdf?dl=0), with [Jitendra Singh](https://www.ashoka.edu.in/page/eco-phdstudents-150)
+[Conflicts, markets, and social costs](https://www.dropbox.com/s/p10td03nyxct88z/Holy_Cow_EPCS_Abstract_2023.pdf?dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
 
 [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
