@@ -23,7 +23,7 @@ Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/) and [Democr
 
 Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
 
-Here is a link to my [CV](https://www.dropbox.com/scl/fi/aqr3op7a1bett64gasnzb/CV_AMurugesan_latest.pdf?rlkey=y7ibkpwhfc6eixur3esw4tr6e&dl=0)
+Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/CV_AMurugesan_latest.pdf?rlkey=jbqvsiqfpeo6meja5vgqxxlt9&dl=0)
 
 ---
 ## News
@@ -59,7 +59,7 @@ Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.
 [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
  >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
 
- >  Comparing the response variance between the many-to-one and one-to-one norm elicitation method
+<!--   Comparing the response variance between the many-to-one and one-to-one norm elicitation method -->
 
 Yes, in my backyard! An empirical study of citizen efforts for environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
@@ -237,7 +237,7 @@ You can find fieldwork pictures on our [Greening the Margin project here](https:
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
-A dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (below, on the left) and me breaking traditions (on the right).
+Here is a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (below, on the left) and me breaking traditions (on the right).
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
