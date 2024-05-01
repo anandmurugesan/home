@@ -28,7 +28,7 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/C
 ---
 ## News
 
-[Starting May 2024, I'll join Jean-Robert Tyran at the University of Vienna to research "Emotions in Politics," funded by a Horizon Europe grant](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html)
+[Starting June 2024, I'll join Jean-Robert Tyran at the University of Vienna to research "Emotions in Politics," funded by a Horizon Europe grant](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html)
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:#006400; font-weight:bold;">(availabe on Amazon)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
