@@ -128,9 +128,9 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 
 [Indian Statistical Institute, Delhi](https://www.isid.ac.in/) (September 1, 2023)
 
-[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023) -->
+[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (October 2, 2023) 
 
-[Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2023/index.html) (18 - 20 December, 2023)
+[Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2023/index.html) (18 - 20 December, 2023) -->
 
 [Workshop on "Uncovering the Historical Mechanisms of Persistence](https://dpp.ceu.edu/workshop-historical-persistence) (18 - 19 January, 2024)
 
@@ -152,7 +152,7 @@ Sciences Po, Paris (October 28, 2024)
 ### Central European University, Vienna 
 
 
-**Winter 2024** (upcoming)
+**Winter 2024** 
 
 [Advanced Impact Evaluation](https://courses.ceu.edu/courses/2023-2024/advanced-impact-evaluation)
 
