@@ -140,6 +140,8 @@ Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March
 
 [European Public Choice Society Meeting](https://www.wu.ac.at/epcs2024/) (April 2 - 5, 2024)
 
+Sciences Po, Paris (October 28, 2024)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
