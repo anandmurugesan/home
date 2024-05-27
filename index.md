@@ -198,42 +198,68 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 <div id="tweet-section"></div>
 
 <!-- JavaScript to fetch and display the latest tweet -->
+
 <script>
-  // Function to fetch the latest tweet
-  function fetchLatestTweet() {
-    // Replace 'YOUR_BEARER_TOKEN' with your actual Twitter Bearer Token
-    const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry';
+function fetchLatestTweet() {
+  const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry';  // **Replace with your actual token**
+  const username = 'tapasiva';              // **Replace with the target username**
 
-    // Fetch the latest tweet using the Twitter API
-    fetch('https://api.twitter.com/2/users/by/username/tapasiva', {
+  fetch(`https://api.twitter.com/2/users/by/username/${username}?user.fields=pinned_tweet_id`, {
+    headers: {
+      'Authorization': `Bearer ${AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry}`
+    }
+  })
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`Twitter API Error: ${response.status} ${response.statusText}`);
+    }
+    return response.json();
+  })
+  .then(data => {
+    const userId = data.data.id;
+    const pinnedTweetId = data.data.pinned_tweet_id;
+
+    // Fetch the tweet details (including text)
+    return fetch(`https://api.twitter.com/2/tweets/${pinnedTweetId}?tweet.fields=text`, {
       headers: {
-        'Authorization': `Bearer ${bearerToken}`
+        'Authorization': `Bearer ${AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry}`
       }
-    })
-    .then(response => response.json())
-    .then(data => {
-      // Get the latest tweet
-      const latestTweet = data.data[0].latest_tweet;
-
-      // Create a new anchor element with the tweet text
-      const tweetElement = document.createElement('a');
-      tweetElement.setAttribute('class', 'twitter-timeline');
-      tweetElement.setAttribute('data-width', '400');
-      tweetElement.setAttribute('data-height', '400');
-      tweetElement.setAttribute('href', `https://twitter.com/tapasiva/status/${latestTweet.id}`);
-      tweetElement.innerText = latestTweet.text;
-
-      // Append the tweet element to the tweet section
-      const tweetSection = document.getElementById('tweet-section');
-      tweetSection.appendChild(tweetElement);
-    })
-    .catch(error => {
-      console.error('Error fetching the latest tweet:', error);
     });
-  }
+  })
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`Twitter API Error: ${response.status} ${response.statusText}`);
+    }
+    return response.json();
+  })
+  .then(tweetData => {
+    const tweetText = tweetData.data.text;
 
-  // Call the fetchLatestTweet function when the page is loaded
-  document.addEventListener('DOMContentLoaded', fetchLatestTweet);
+    const tweetElement = document.createElement('div');
+    tweetElement.innerHTML = `<blockquote class="twitter-tweet"><p lang="en" dir="ltr">${tweetText}</p></blockquote>`;
+
+    const tweetSection = document.getElementById('tweet-section');
+    tweetSection.appendChild(tweetElement);
+
+    // Load the Twitter widget script (if not already loaded)
+    if (!document.getElementById('twitter-widget-js')) {
+      const script = document.createElement('script');
+      script.id = 'twitter-widget-js';
+      script.src = 'https://platform.twitter.com/widgets.js';
+      document.head.appendChild(script);
+    } else {
+      // If the script is already loaded, re-render the widget
+      twttr.widgets.load();
+    }
+  })
+  .catch(error => {
+    console.error('Error fetching or displaying tweet:', error);
+    const tweetSection = document.getElementById('tweet-section');
+    tweetSection.innerHTML = "<p>Error loading tweet.</p>"; // Display error message
+  });
+}
+
+document.addEventListener('DOMContentLoaded', fetchLatestTweet);
 </script>
 
 
