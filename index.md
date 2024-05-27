@@ -67,13 +67,16 @@ Yes, in my backyard! An empirical study of citizen efforts for environmental res
 
 ### Book 
 <script>
-
 fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
   .then(response => response.text())
   .then(html => {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
-    const accesses = doc.querySelector('p.c-article-metrics-bar__count').innerText.split(' ')[0];
+
+    // Extract the exact number using the correct CSS selector
+    const accessesElement = doc.querySelector('span.c-article-metrics-bar__value'); 
+    const accesses = accessesElement ? accessesElement.textContent.trim() : "N/A";
+
     document.getElementById('book-accesses').innerText = `Number of Accesses: ${accesses}`;
   })
   .catch(err => console.error('Failed to fetch page: ', err));
