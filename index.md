@@ -147,7 +147,9 @@ Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March
 
 Azim Premji University, Bangalore (August 20, 2024)
 
-Sciences Po, Paris (October 28, 2024)
+[Slovak Economic Association Meeting (SEAM 2024)](https://www.univie.ac.at/en/) (September 12 - 13, 2024)
+
+Sciences Po, Paris (Research visit, 10 October - 3 November, 2024)
 
 #### Links to recent collaborators
 
