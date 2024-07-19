@@ -9,17 +9,20 @@
 
 Anand Murugesan   
 *Associate Professor of Economics*
-
-[Department of Public Policy](https://people.ceu.edu/anand_murugesan)<br/>
+<!-- [Department of Public Policy](https://people.ceu.edu/anand_murugesan)<br/> -->
 [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 B-412, Quellenstraße 51, 1100 Wien <br/>
 Phone: +43.1.25230.2054
-Twitter: [@tapasiva](https://twitter.com/tapasiva)
 
+*Senior Researcher*
+Vienna Center for Experimental Economics, University of Vienna <br/>
+Office 5.312, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
+
+Twitter: [@tapasiva](https://twitter.com/tapasiva)
 
 email: <murugesana@ceu.edu>
 
-Affiliate Faculty: [Social Mind Center](https://socialmind.ceu.edu/) and [Democracy Institute](https://democracyinstitute.ceu.edu/research/de-and-re-democratization-drd)
+Affiliate Faculty: [Democracy Institute](https://democracyinstitute.ceu.edu/research/de-and-re-democratization-drd) and [Social Mind Center](https://socialmind.ceu.edu/)
 
 Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
 
@@ -82,7 +85,7 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
   .catch(err => console.error('Failed to fetch page: ', err));
 </script>
 
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >3000 since 1 October 2023]
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >4000 since 1 October 2023]
 
 ### Publications 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
