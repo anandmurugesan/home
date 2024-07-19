@@ -8,14 +8,13 @@
 </script>
 
 Anand Murugesan   
-*Associate Professor of Economics*
-<!-- [Department of Public Policy](https://people.ceu.edu/anand_murugesan)<br/> -->
+*Associate Professor of Economics* <br/> <!-- [Department of Public Policy](https://people.ceu.edu/anand_murugesan)<br/> -->
 [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 B-412, Quellenstraße 51, 1100 Wien <br/>
 Phone: +43.1.25230.2054
 
 *Senior Researcher* <br/>
-Vienna Center for Experimental Economics, University of Vienna <br/>
+[Vienna Center for Experimental Economics](https://vcee.univie.ac.at/home/details/news/anand-murugesan-joins-vcee/), University of Vienna <br/>
 Office 5.312, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
 
 Twitter: [@tapasiva](https://twitter.com/tapasiva)
