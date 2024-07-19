@@ -14,7 +14,7 @@ Anand Murugesan
 B-412, Quellenstraße 51, 1100 Wien <br/>
 Phone: +43.1.25230.2054
 
-*Senior Researcher*
+*Senior Researcher* <br/>
 Vienna Center for Experimental Economics, University of Vienna <br/>
 Office 5.312, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
 
