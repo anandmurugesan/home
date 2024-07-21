@@ -6,8 +6,7 @@
   gtag('js', new Date());
   gtag('config', 'UA-162382665-1');
 </script>
-
-Anand Murugesan   
+ 
 *Associate Professor of Economics* <br/> 
 [Department of Public Policy](https://people.ceu.edu/anand_murugesan), [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 B-412, Quellenstraße 51, 1100 Wien <br/>
