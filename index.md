@@ -36,6 +36,7 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/C
 ---
 
 ## Research 
+<img src="kite.jpeg" width="225" height="150" /> 
 
 **Fields of Interest**
 
