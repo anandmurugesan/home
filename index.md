@@ -14,7 +14,7 @@ Phone: +43.1.25230.2054
 
 *Senior Researcher* <br/>
 [Vienna Center for Experimental Economics](https://vcee.univie.ac.at/home/), [University of Vienna](https://www.univie.ac.at/en/) <br/>
-Office 5.312, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
+Office 5.332, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
 
 Twitter: [@tapasiva](https://twitter.com/tapasiva)
 
