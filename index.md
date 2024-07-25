@@ -284,7 +284,7 @@ My brother worked on [the effect of angular momentum or spin velocity in the for
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
-<p style="font-size: x-small;"> Excerpt from my 2015 Research Statement, which continues to hold today (I've mixed feelings about this consistency): `` ...The underlying theme of my research is throwing light on issues of society, where individual interest and a larger collective bargain are divergent ...and seeing how institutional arrangements, legal or economic, can improve individual incentives for better collective outcomes..."
+<p style="font-size: x-small;"> <!--  Excerpt from my 2015 Research Statement, which continues to hold today (I've mixed feelings about this consistency): `` ...The underlying theme of my research is throwing light on issues of society, where individual interest and a larger collective bargain are divergent ...and seeing how institutional arrangements, legal or economic, can improve individual incentives for better collective outcomes..."-->
   
 Photo credit: Me flying a kite (Sabya); Fieldwork in Palakkad (Sreenivasan ji, Libin or me)
 </p>
