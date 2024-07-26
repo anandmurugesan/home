@@ -149,7 +149,7 @@ Azim Premji University, Bangalore (August 20, 2024)
 
 [Slovak Economic Association Meeting (SEAM 2024)](https://www.univie.ac.at/en/) (September 12 - 13, 2024)
 
-Conference on Development Economics and Law, Cornell University (Oct 3 - 5, 2024)
+Cornell University (Oct 3 - 5, 2024)
 
 Sciences Po, Paris (Research visit, 10 October - 3 November, 2024)
 
