@@ -282,6 +282,10 @@ Here is a dated picture of traditional seed sowing on my parents' farm in Tamil 
 
 My brother worked on [the effect of angular momentum or spin velocity in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in the part of the world where, in theory, water flowing down the drain is expected to spin in the opposite direction compared to the drains in parts I am in... ;) <br/>
 
+Shoutout to the dosa and pizza places I look forward to:  
+SN Refreshments Bangalore <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.9909659763257!2d77.58453387542045!3d12.908301987401233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1512f038fa13%3A0xec0d1aaf01dac46a!2sShankara%20Narayana%20Refreshments%20(S.%20N.%20Refreshments)!5e0!3m2!1sen!2sat!4v1725203145197!5m2!1sen!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Doma Fano <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2877.2324423389973!2d13.013377876442478!3d43.85101067109338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132d1139dd4de175%3A0xb1ca0f556eb7a3ca!2sDoma%20Fano!5e0!3m2!1sen!2sat!4v1725203266314!5m2!1sen!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
