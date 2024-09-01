@@ -283,11 +283,12 @@ Here is a dated picture of traditional seed sowing on my parents' farm in Tamil 
 My brother worked on [the effect of angular momentum or spin velocity in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in the part of the world where, in theory, water flowing down the drain is expected to spin in the opposite direction compared to the drains in parts I am in... ;) <br/>
 
 Shoutout to places I love eating at:  
-- Dosa at SN Refreshments Bangalore
-- Filter coffee at A2B
-- Pizza at Doma Fano
-- Gelato at Carapina (two doors down from Doma -- an incredibly delightful corner)
-- Sacher torta at Hotel Sacher Wien
+- Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
+- Filter coffee at a neighborhood A2B
+- Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
+- Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma -- an incredibly delightful corner)
+- Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
+- Sacher torta at [Hotel Sacher](https://maps.app.goo.gl/Ca3dWBSgW5Q4E5Rf9)
   
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
