@@ -151,7 +151,7 @@ Azim Premji University, Bangalore (August 20, 2024)
 
 Cornell University (Oct 3 - 5, 2024)
 
-Sciences Po, Paris (Research visit, 10 October - 3 November, 2024)
+[Sciences Po](https://www.sciencespo.fr/axpo/people/visiting-fellows/), Paris (Research visit, 10 October - 3 November, 2024)
 
 #### Links to recent collaborators
 
