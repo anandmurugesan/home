@@ -147,7 +147,7 @@ Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March
 
 Azim Premji University, Bangalore (August 20, 2024)
 
-[Slovak Economic Association Meeting (SEAM 2024)](https://www.univie.ac.at/en/) (September 12 - 13, 2024)
+[Slovak Economic Association Meeting (SEAM 2024)](https://slovakecon.sk/seam2024/program.html) (September 12 - 13, 2024)
 
 Cornell University (Oct 3 - 5, 2024)
 
@@ -272,11 +272,12 @@ document.addEventListener('DOMContentLoaded', fetchLatestTweet);
 
 
 
-You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and my sketch (below) of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
+<!-- You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and --> 
+Here is my sketch (below) of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
-Here is a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (below, on the left) and me breaking traditions (on the right).
+And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (below, on the left) and me breaking traditions (on the right).
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
@@ -284,7 +285,7 @@ My brother worked on [the effect of angular momentum or spin velocity in the for
 
 Shoutout to places I love eating at:  
 - Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
-- Filter coffee at a neighborhood A2B
+- Filter coffee at a neighborhood A2B (Adyar Ananda Bhavan, a chain in south India). 
 - Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
 - Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma -- an incredibly delightful corner)
 - Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
