@@ -163,15 +163,13 @@ Cornell University (Oct 3 - 5, 2024)
 ### Central European University, Vienna 
 
 
-**Winter 2024** 
+**Winter 2025** 
 
-[Advanced Impact Evaluation](https://courses.ceu.edu/courses/2023-2024/advanced-impact-evaluation)
+[Impact Evaluation: Policy Applications with R](https://ceu.studyguide.timeedit.net/modules/DOPP5078?type=CORE)
 
-**Fall 2023** 
+[Advanced Impact Evaluation](https://ceu.studyguide.timeedit.net/modules/DOPP5383?type=CORE)
 
-[Microeconomics, Behavior, and Public Policy](https://courses.ceu.edu/courses/2023-2024/microeconomics-behavior-and-public-policy)
-
-[Impact Evaluation: Policy Applications with R](https://courses.ceu.edu/courses/2023-2024/impact-evaluation-policy-applications-r)
+[Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE)
 
 
 ## Bio
@@ -206,7 +204,7 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 <div id="tweet-section"></div>
 
 <!-- JavaScript to fetch and display the latest tweet -->
-
+<!--
 <script>
 function fetchLatestTweet() {
   const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry';  // **Replace with your actual token**
@@ -270,7 +268,7 @@ function fetchLatestTweet() {
 document.addEventListener('DOMContentLoaded', fetchLatestTweet);
 </script>
 
-
+-->
 
 <!-- You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and --> 
 Here is my sketch (below) of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
