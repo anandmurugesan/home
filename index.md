@@ -174,8 +174,8 @@ Cornell University (Oct 3 - 5, 2024)
 
 ## Bio
 
-PhD, University of Maryland, College Park<br/>
-[Economics of Society: Essays on Health, Marriage and Child Adoption]
+PhD, University of Maryland, College Park
+ [Economics of Society: Essays on Health, Marriage and Child Adoption]<br/>
 MA, Jawaharlal Nehru University, New Delhi<br/>
 BCom, Bangalore University (St. Joseph's College)<br/>
 
