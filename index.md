@@ -16,22 +16,22 @@ Phone: +43.1.25230.2054
 [Vienna Center for Experimental Economics](https://vcee.univie.ac.at/home/), [University of Vienna](https://www.univie.ac.at/en/) <br/>
 Office 5.332, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
 
-Twitter: [@tapasiva](https://twitter.com/tapasiva)
-
-email: <murugesana@ceu.edu>
-
 Affiliate Faculty: [Democracy Institute](https://democracyinstitute.ceu.edu/research/de-and-re-democratization-drd) and [Social Mind Center](https://socialmind.ceu.edu/)
 
 Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
 
 Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/CV_AMurugesan_latest.pdf?rlkey=jbqvsiqfpeo6meja5vgqxxlt9&dl=0)
 
+email: <murugesana@ceu.edu>
+
+Twitter: [@tapasiva](https://twitter.com/tapasiva)
+
 ---
 ## News
 
 [Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html).
 
-[*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [<span style="color:#006400; font-weight:bold;">(availabe on Amazon)</span>](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
+[*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [(availabe on Amazon)](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
 ---
 
@@ -102,7 +102,7 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes (under review)
 
-[The puzzling practice of paying cash for votes](https://www.cesifo.org/DocDL/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, Elgar Encyclopedia of Public Choice)
+[Paying cash for votes](https://www.cesifo.org/DocDL/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, Elgar Encyclopedia of Public Choice)
 
 <!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
 
@@ -149,7 +149,7 @@ Azim Premji University, Bangalore (August 20, 2024)
 
 [Slovak Economic Association Meeting (SEAM 2024)](https://slovakecon.sk/seam2024/program.html) (September 12 - 13, 2024)
 
-Cornell University (Oct 3 - 5, 2024)
+[CRADLE, Cornell University](https://cornell.app.box.com/s/upylx989go5rnnu60mtyu5n8ohz6c8mi) (Oct 3 - 5, 2024)
 
 [Sciences Po](https://www.sciencespo.fr/axpo/people/visiting-fellows/), Paris (Research visit, 10 October - 3 November, 2024)
 
