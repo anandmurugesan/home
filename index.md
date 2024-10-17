@@ -48,11 +48,11 @@ Political Behavior | Experimental Economics
 
 [From Enlightenment to Cameralism: Compliance and Tax Morale as Imperial Legacy](https://www.dropbox.com/scl/fi/9n0m0nvi432pwrvb32f86/Dorsch_Murugesan_Habsburgs_Jan2024.pdf?rlkey=cu3v34zs43clr6emdpnzzf4rc&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
-Cash-for-Votes, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
-  - Why votes are (not) for sale? Evidence from an Institutional Discontinuity in Southern India, with Jean-Robert Tyran
-  - Fighting Cash-for-Votes: Information Interventions, with Jean-Robert Tyran
-  - Voters' Dilemma, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and Jean-Robert Tyran
+  - Why votes are (not) for sale? Evidence from an Institutional Discontinuity in Southern India, with J-R Tyran
+  - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
+  - Voters' Dilemma, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and J-R Tyran
 
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
 
