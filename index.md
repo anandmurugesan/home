@@ -156,6 +156,10 @@ Azim Premji University, Bangalore (August 20, 2024)
 
 [Sciences Po](https://www.sciencespo.fr/axpo/people/visiting-fellows/), Paris (Research visit, 10 October - 3 November, 2024)
 
+BREW-ESA 2024 (15 - 17 December, 2024)
+
+[Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December, 2024)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
