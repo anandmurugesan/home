@@ -296,6 +296,10 @@ Shoutout to places I love eating at:
 - Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma -- an incredibly delightful corner)
 - Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
 - Sacher torta at [Hotel Sacher](https://maps.app.goo.gl/Ca3dWBSgW5Q4E5Rf9)
+
+and where I'd be happy to go back: 
+- [Kwon](https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/kwon) and [Kodawari Tsukiji](https://www.kodawari-ramen.com/kodawari-tsukiji-la-carte/), Paris
+- [Rasika}(https://www.rasikarestaurant.com/), DC and [Semma](https://www.semma.nyc/), NYC
   
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
