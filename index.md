@@ -159,9 +159,11 @@ Azim Premji University, Bangalore (August 20, 2024)
 
 Vienna Behavioral Circle, Wirtschaftsuniversität (WU) Vienna (15 November 2024)
 
-BREW-ESA 2024 (15 - 17 December, 2024)
+Winter School 2024 (DSE and Econometric Society) (12 - 14 December)
 
-[Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December, 2024)
+BREW-ESA 2024 (15 - 17 December)
+
+[Annual Conference on Economic Growth and Development 2024](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December)
 
 #### Links to recent collaborators
 
