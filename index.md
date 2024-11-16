@@ -157,7 +157,7 @@ Azim Premji University, Bangalore (August 20, 2024)
 
 [Sciences Po](https://www.sciencespo.fr/axpo/people/visiting-fellows/), Paris (Research visit, 10 October - 3 November, 2024)
 
-Vienna Behavioral Circle, Wirtschaftsuniversität (WU) Vienna (15 November 2024)
+Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 Winter School 2024 (DSE and Econometric Society) (12 - 14 December)
 
