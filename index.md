@@ -29,7 +29,7 @@ Twitter: [@tapasiva](https://twitter.com/tapasiva)
 ---
 ## News
 
-[Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html).
+[Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/).
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [(availabe on Amazon)](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
@@ -54,7 +54,7 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
   - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
   - Voters' Dilemma, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and J-R Tyran
 
-Emotions in Politics: Experimental validation of surveys, with Jean-Robert Tyran
+[Emotions in Politics: Experimental validation of surveys](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
 
 [Holy Cow! Conflicts, Markets, and Social Costs of Intolerance](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
