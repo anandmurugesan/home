@@ -168,7 +168,7 @@ BREW-ESA 2024 (15 - 17 December)
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
-[Robert Innes](https://robinnes.weebly.com/) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)  
+[Jitendra Singh](https://sites.google.com/view/jitendrasingh07) | [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)  
 
 ## Teaching
 
