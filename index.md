@@ -217,6 +217,19 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 
 <html>
 <head>
+    <title>Tweets by Tapasiva Anand </title>
+</head>
+<body>
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-47c64d34-7e71-4312-8875-c432c26785cf" data-elfsight-app-lazy></div>
+</script>
+</body>
+</html>
+
+
+<!-- JavaScript to fetch and display the latest tweet 
+<html>
+<head>
     <title>Tweets</title>
 </head>
 <body>
@@ -231,77 +244,8 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 </body>
 </html>
 
-<!-- It's a javascript file which will perform 
-all actions which we need to show tweets-->
-
 
 <a href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- JavaScript to fetch and display the latest tweet -->
-<!--
-<script>
-function fetchLatestTweet() {
-  const bearerToken = 'AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry';  // **Replace with your actual token**
-  const username = 'tapasiva';              // **Replace with the target username**
-
-  fetch(`https://api.twitter.com/2/users/by/username/${username}?user.fields=pinned_tweet_id`, {
-    headers: {
-      'Authorization': `Bearer ${AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry}`
-    }
-  })
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`Twitter API Error: ${response.status} ${response.statusText}`);
-    }
-    return response.json();
-  })
-  .then(data => {
-    const userId = data.data.id;
-    const pinnedTweetId = data.data.pinned_tweet_id;
-
-    // Fetch the tweet details (including text)
-    return fetch(`https://api.twitter.com/2/tweets/${pinnedTweetId}?tweet.fields=text`, {
-      headers: {
-        'Authorization': `Bearer ${AAAAAAAAAAAAAAAAAAAAALaOowEAAAAA%2F0Eeb1Wwh5ysrz2R9TeW2tf0EzU%3DHL4s0E5YeqUJAOjrfXFt9hZnXnZFB2tuTSbnmXchTHfWAHz4Ry}`
-      }
-    });
-  })
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`Twitter API Error: ${response.status} ${response.statusText}`);
-    }
-    return response.json();
-  })
-  .then(tweetData => {
-    const tweetText = tweetData.data.text;
-
-    const tweetElement = document.createElement('div');
-    tweetElement.innerHTML = `<blockquote class="twitter-tweet"><p lang="en" dir="ltr">${tweetText}</p></blockquote>`;
-
-    const tweetSection = document.getElementById('tweet-section');
-    tweetSection.appendChild(tweetElement);
-
-    // Load the Twitter widget script (if not already loaded)
-    if (!document.getElementById('twitter-widget-js')) {
-      const script = document.createElement('script');
-      script.id = 'twitter-widget-js';
-      script.src = 'https://platform.twitter.com/widgets.js';
-      document.head.appendChild(script);
-    } else {
-      // If the script is already loaded, re-render the widget
-      twttr.widgets.load();
-    }
-  })
-  .catch(error => {
-    console.error('Error fetching or displaying tweet:', error);
-    const tweetSection = document.getElementById('tweet-section');
-    tweetSection.innerHTML = "<p>Error loading tweet.</p>"; // Display error message
-  });
-}
-
-document.addEventListener('DOMContentLoaded', fetchLatestTweet);
-</script>
-
 -->
 
 <!-- You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and --> 
