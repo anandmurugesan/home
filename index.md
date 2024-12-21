@@ -29,7 +29,9 @@ Twitter: [@tapasiva](https://twitter.com/tapasiva)
 ---
 ## News
 
-[Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/).
+[CEU Assistant Professor opening](https://careers.ceu.edu/job/Vienna-Assistant-Professor-%28fmd%29-1100/1138728155/) for young scholars applying NLP methods to analyze public policy topics
+
+<!-- [Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/). -->
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [(availabe on Amazon)](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)
 
@@ -213,8 +215,22 @@ An impromptu discussion at a tea stall (with the stall owner, an insightful, whi
 
 An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door (we bought handmade fabric for made-to-fit shirts by a local tailor) and taking in the moment with a view of the Silent Valley. 
 
-<!-- Section to display the latest tweet -->
-<div id="tweet-section"></div>
+
+<a class="twitter-timeline" 
+    href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">
+    <!-- In your code value of href tag will be changed -->
+    Tweets by Tapasiva Anand
+</a>
+
+<script async src=
+"https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
+
+<!-- It's a javascript file which will perform 
+all actions which we need to show tweets-->
+
+
+<a href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- JavaScript to fetch and display the latest tweet -->
 <!--
