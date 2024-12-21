@@ -243,9 +243,6 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 </script>
 </body>
 </html>
-
-
-<a href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 -->
 
 <!-- You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and --> 
