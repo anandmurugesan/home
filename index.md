@@ -215,16 +215,21 @@ An impromptu discussion at a tea stall (with the stall owner, an insightful, whi
 
 An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door (we bought handmade fabric for made-to-fit shirts by a local tailor) and taking in the moment with a view of the Silent Valley. 
 
-
+<html>
+<head>
+    <title>Tweets</title>
+</head>
+<body>
 <a class="twitter-timeline" 
     href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">
-    <!-- In your code value of href tag will be changed -->
     Tweets by Tapasiva Anand
 </a>
 
 <script async src=
 "https://platform.twitter.com/widgets.js" charset="utf-8">
 </script>
+</body>
+</html>
 
 <!-- It's a javascript file which will perform 
 all actions which we need to show tweets-->
