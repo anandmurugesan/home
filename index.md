@@ -215,34 +215,7 @@ An impromptu discussion at a tea stall (with the stall owner, an insightful, whi
 
 An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door (we bought handmade fabric for made-to-fit shirts by a local tailor) and taking in the moment with a view of the Silent Valley. 
 
-<html>
-<head>
-    <title>Tweets by Tapasiva Anand </title>
-</head>
-<body>
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-47c64d34-7e71-4312-8875-c432c26785cf" data-elfsight-app-lazy></div>
-</body>
-</html>
 
-
-<!-- JavaScript to fetch and display the latest tweet 
-<html>
-<head>
-    <title>Tweets</title>
-</head>
-<body>
-<a class="twitter-timeline" 
-    href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">
-    Tweets by Tapasiva Anand
-</a>
-
-<script async src=
-"https://platform.twitter.com/widgets.js" charset="utf-8">
-</script>
-</body>
-</html>
--->
 
 <!-- You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and --> 
 
@@ -267,7 +240,29 @@ Shoutout to places I love eating at:
 And where I'd be happy to go back: 
 - [Kwon](https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/kwon) and [Kodawari Tsukiji](https://www.kodawari-ramen.com/kodawari-tsukiji-la-carte/), Paris
 - [Rasika](https://www.rasikarestaurant.com/), DC and [Semma](https://www.semma.nyc/), NYC
-  
+
+
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-47c64d34-7e71-4312-8875-c432c26785cf" data-elfsight-app-lazy></div>
+
+
+<!-- JavaScript to fetch and display the latest tweet 
+<html>
+<head>
+    <title>Tweets</title>
+</head>
+<body>
+<a class="twitter-timeline" 
+    href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">
+    Tweets by Tapasiva Anand
+</a>
+
+<script async src=
+"https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
+</body>
+</html>
+-->
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
 
