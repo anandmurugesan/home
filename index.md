@@ -222,7 +222,6 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 <body>
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-47c64d34-7e71-4312-8875-c432c26785cf" data-elfsight-app-lazy></div>
-</script>
 </body>
 </html>
 
@@ -246,6 +245,7 @@ An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatis
 -->
 
 <!-- You can find fieldwork pictures on our [Greening the Margin project here](https://tizianacentofanti.wixsite.com/personalwebsite/gallery) and --> 
+
 Here is my sketch (below) of a bestselling book my daughter recommended I read, and I recommend you do; [it's a short read](https://www.charliemackesy.com/). 
 
 <img src="theboythemule.png" width="150" height="200" /> 
