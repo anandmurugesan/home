@@ -241,16 +241,16 @@ And where I'd be happy to go back:
 - [Kwon](https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/kwon) and [Kodawari Tsukiji](https://www.kodawari-ramen.com/kodawari-tsukiji-la-carte/), Paris
 - [Rasika](https://www.rasikarestaurant.com/), DC and [Semma](https://www.semma.nyc/), NYC
 
-
-<a class="twitter-timeline" href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">Tweets by tapasiva</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 <!-- 
+<a class="twitter-timeline" href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">Tweets by tapasiva</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-->
+
+
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-47c64d34-7e71-4312-8875-c432c26785cf" data-elfsight-app-lazy></div>
 
 <a class="twitter-timeline" href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">Tweets by tapasiva anand</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
+
 
 <!-- JavaScript to fetch and display the latest tweet 
 <html>
