@@ -233,7 +233,7 @@ My brother worked on [the effect of angular momentum or spin velocity in the for
 
 Shoutout to places I love eating at:  
 - Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
-- South Indian filter coffee at A2B with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
+- South Indian filter coffee at [A2B](https://aabsweets.com/) with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
 - Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
 - Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma -- an incredibly delightful corner)
 - Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
