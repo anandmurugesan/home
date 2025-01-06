@@ -29,7 +29,7 @@ Twitter: [@tapasiva](https://twitter.com/tapasiva)
 ---
 ## News
 
-[CEU Assistant Professor opening](https://careers.ceu.edu/job/Vienna-Assistant-Professor-%28fmd%29-1100/1138728155/) for young scholars applying NLP methods to analyze public policy topics -- inviting applications!
+[CEU Assistant Professor opening](https://careers.ceu.edu/job/Vienna-Assistant-Professor-%28fmd%29-1100/1138728155/) for scholars applying NLP and related methods to analyze public policy topics -- inviting applications!
 
 <!-- [Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/). 
 
@@ -56,7 +56,7 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
   - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
   - Voters' Dilemma, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and J-R Tyran
 
-[Emotions in Politics: Experimental validation of surveys](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
+[Measuring democratic resilience: Experimental validation of surveys](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
 
 [Holy Cow! Conflicts, Markets, and Social Costs of Intolerance](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
@@ -167,6 +167,8 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 [Annual Conference on Economic Growth and Development 2024](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December)
 
+[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (31 March 2025)
+
 #### Links to recent collaborators
 
 [Vikram Dayal](https://iegindia.org/team/vikram-dayal/) | [Michael Dorsch](https://sites.google.com/view/dorsch/home) | 
@@ -231,7 +233,7 @@ My brother worked on [the effect of angular momentum or spin velocity in the for
 
 Shoutout to places I love eating at:  
 - Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
-- Filter coffee at A2B (a South Indian chain) with chicory in the mix
+- South Indian filter coffee at A2B with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
 - Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
 - Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma -- an incredibly delightful corner)
 - Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
