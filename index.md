@@ -24,7 +24,9 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/C
 
 email: <murugesana@ceu.edu>
 
-Twitter: [@tapasiva](https://twitter.com/tapasiva)
+Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.bsky.social)
+
+Twitter (retiring soon): [@tapasiva](https://twitter.com/tapasiva)
 
 ---
 ## News
