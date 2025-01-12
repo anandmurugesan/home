@@ -243,32 +243,12 @@ And where I'd be happy to go back:
 - [Kwon](https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/kwon) and [Kodawari Tsukiji](https://www.kodawari-ramen.com/kodawari-tsukiji-la-carte/), Paris
 - [Rasika](https://www.rasikarestaurant.com/), DC and [Semma](https://www.semma.nyc/), NYC
 
+<link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" /><div id="embedbsky-com-timeline-embed"></div><script>let containerWidth=200,containerHeight=200;const getHtml=async t=>{const e=await fetch(t);return 200!==e.status?'<p><strong>No feed data could be located</p></strong>':e.text()};document.addEventListener('DOMContentLoaded',(async()=>{const t=(new Date).toISOString(),e=document.getElementById('embedbsky-com-timeline-embed');e.style.width=`${containerWidth}px`,e.style.height=`${containerHeight}px`;const n=await getHtml(`https://embedbsky.com/feeds/5fba2aa9a3fe9f7fc7706e06e97c0e168ece11ea03482ff583f41f56732c2c30.html?v=${t}`);e.innerHTML=n}));</script>
+
 <!-- 
 <a class="twitter-timeline" href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">Tweets by tapasiva</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
-
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-47c64d34-7e71-4312-8875-c432c26785cf" data-elfsight-app-lazy></div>
-
-
-
-<!-- JavaScript to fetch and display the latest tweet 
-<html>
-<head>
-    <title>Tweets</title>
-</head>
-<body>
-<a class="twitter-timeline" 
-    href="https://twitter.com/tapasiva?ref_src=twsrc%5Etfw">
-    Tweets by Tapasiva Anand
-</a>
-
-<script async src=
-"https://platform.twitter.com/widgets.js" charset="utf-8">
-</script>
-</body>
-</html>
 -->
 ---
 *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
