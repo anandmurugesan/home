@@ -56,7 +56,7 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
   - Why votes are (not) for sale? Evidence from an Institutional Discontinuity in Southern India, with J-R Tyran
   - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
-  - Voters' Dilemma, with [Thiagu Ranganathan](https://cds.edu/faculty/thiagu-ranganathan/) and J-R Tyran
+  - Voters' Dilemma, with Thiagu Ranganathan and J-R Tyran
 
 [Measuring democratic resilience: Experimental validation of surveys](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
