@@ -31,9 +31,9 @@ Twitter (retiring soon): [@tapasiva](https://twitter.com/tapasiva)
 ---
 ## News
 
-[CEU Assistant Professor opening](https://careers.ceu.edu/job/Vienna-Assistant-Professor-%28fmd%29-1100/1138728155/) for scholars applying NLP and related methods to analyze public policy topics -- inviting applications!
+<!-- [CEU Assistant Professor opening](https://careers.ceu.edu/job/Vienna-Assistant-Professor-%28fmd%29-1100/1138728155/) for scholars applying NLP and related methods to analyze public policy topics -- inviting applications!
 
-<!-- [Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/). 
+ [Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/). 
 
 [*Demystifying causal inference*](https://link.springer.com/book/10.1007/978-981-99-3905-3) [(availabe on Amazon)](https://www.amazon.com/Demystifying-Causal-Inference-Public-applications/dp/9819939046/ref=monarch_sidesheet)-->
 
