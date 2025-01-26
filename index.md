@@ -71,7 +71,7 @@ Give or Take: Experimental examination of bribery vs. extortion, with [Robert In
 
 <!--   Comparing the response variance between the many-to-one and one-to-one norm elicitation method -->
 
-Yes, in my backyard! An empirical study of citizen efforts for environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
+Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 <!-- Impact of the US opioid crisis on Children, with Dana Andersen -->
 
