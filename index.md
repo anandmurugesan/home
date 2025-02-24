@@ -31,6 +31,8 @@ Twitter (retiring soon): [@tapasiva](https://twitter.com/tapasiva)
 ---
 ## News
 
+Teaching causal inference methods at the [MethodsNet Summer School with CEU](https://methodsnet.org/summer-school/summer-school-2025/) this July - registration open.
+
 <!-- [CEU Assistant Professor opening](https://careers.ceu.edu/job/Vienna-Assistant-Professor-%28fmd%29-1100/1138728155/) for scholars applying NLP and related methods to analyze public policy topics -- inviting applications!
 
  [Starting June 2024, I'll work part-time at the University of Vienna to research "Emotional Politics of Democracies" with Jean-Robert Tyran, funded by a Horizon Europe grant](http://encodemotions.eu/). 
