@@ -171,7 +171,7 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 [Annual Conference on Economic Growth and Development 2024](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December)
 
-[Democracy Institute Budapest](https://democracyinstitute.ceu.edu/news-events-events/rooftop-seminar-series) Rooftop seminar series (31 March 2025)
+[Democracy Institute Budapest](https://events.ceu.edu/2025-03-31/when-do-citizens-sell-their-votes-evidence-southern-india) Rooftop seminar series (31 March 2025)
 
 [European Public Choice Society 2025](https://epcs2025.sseriga.edu/) (April 3 - 5, 2025)
 
