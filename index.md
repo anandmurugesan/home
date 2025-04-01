@@ -195,6 +195,9 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 [Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE)
 
+**Note on Recommendation Letters for Students**
+
+I am happy to provide recommendation or support letters for students who have completed at least one of my elective courses. This requirement allows me to write substantive and informed letters. I need at least one week's notice when requesting a letter and note that I only write confidential letters, sent directly to the institution, to ensure my evaluations are candid and objective.
 
 ## Bio
 
