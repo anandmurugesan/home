@@ -68,14 +68,12 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
-[Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
- >  *The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
-
-<!--   Comparing the response variance between the many-to-one and one-to-one norm elicitation method -->
-
 Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
-<!-- Impact of the US opioid crisis on Children, with Dana Andersen -->
+<!-- [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
+The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
+Comparing the response variance between the many-to-one and one-to-one norm elicitation method 
+Impact of the US opioid crisis on Children, with Dana Andersen -->
 
 ### Book 
 <script>
