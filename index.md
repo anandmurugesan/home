@@ -68,8 +68,6 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
-Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
-
 <!-- [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
 The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
 Comparing the response variance between the many-to-one and one-to-one norm elicitation method 
@@ -111,6 +109,8 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes (r & r)
 
 [Paying cash for votes](https://www.cesifo.org/DocDL/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, Elgar Encyclopedia of Public Choice)
+
+Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
 <!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
 
