@@ -1,12 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162382665-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-162382665-1');
-</script>
- 
 *Associate Professor of Economics* <br/> 
 [Department of Public Policy](https://people.ceu.edu/anand_murugesan), [Central European University, Vienna](https://www.ceu.edu/vienna)<br/>
 B-412, Quellenstraße 51, 1100 Vienna <br/>
@@ -108,7 +99,7 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 
 ["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes (r & r)
 
-[Paying cash for votes](https://www.cesifo.org/DocDL/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, Elgar Encyclopedia of Public Choice)
+[Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [Elgar Encyclopedia of Public Choice](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
 
 Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
 
@@ -195,7 +186,7 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 **Note on Recommendation Letters for Students**
 
-I am happy to provide recommendation or support letters for students who **have completed at least one of my elective courses**. This and a weeks notice is a necessary condition. If you would like me to write substantive and informative letters, you'd be better served by performing well in the elective course(s) and engaging productively in the class. I only write confidential letters, sent directly to the institution, to ensure my evaluations are candid and objective.
+I am happy to provide recommendation or support letters for students who **have completed at least one of my elective courses**. This and a weeks notice is a necessary condition. If you would like me to write substantive and informative letters, you'd be better served by performing well in my courses and engaging productively in the class. I only write confidential letters, sent directly to the institution, to ensure my evaluations are candid and objective.
 
 ## Bio
 
@@ -267,7 +258,15 @@ And where I'd be happy to go back:
 Photo credit: Me flying a kite (Sabya); Fieldwork in Palakkad (Sreenivasan ji, Libin or me)
 </p>
 
-
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162382665-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-162382665-1');
+</script>
+ 
 
 
 
