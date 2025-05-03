@@ -23,7 +23,7 @@ Twitter (retiring soon): [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 
-[ENCODE project's Vienna Workshop held at Oskar-Morgenstern-Platz 1, University of Vienna, May 8-9 2025](https://vcee.univie.ac.at/seminars-events/conferences-and-workshops/encode/)
+[ENCODE project's Vienna Workshop held at Oskar-Morgenstern-Platz 1, University of Vienna, 8-9 May 2025](https://vcee.univie.ac.at/seminars-events/conferences-and-workshops/encode/)
 
 Teaching causal inference methods at the [MethodsNet Summer School with CEU](https://methodsnet.org/summer-school/summer-school-2025/) this July - registration open.
 
