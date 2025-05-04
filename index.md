@@ -121,7 +121,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 <div style="position: relative; width: 495px; /* Match image width */">
   <img src="kite.jpg" width="495" height="330" alt="Flying a kite" />
-  <p style="position: absolute; bottom: 5px; right: 5px; font-size: x-small; color: grey; background-color: rgba(255, 255, 255, 0.7); padding: 2px;">
+  <p style="position: absolute; bottom: 5px; right: 5px; font-size: 0.2em; color: grey; background-color: rgba(255, 255, 255, 0.7); padding: 2px;">
     Photo credit: Sabya 
   </p>
 </div>
