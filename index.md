@@ -40,7 +40,7 @@ Political Behavior | Experimental Economics
 ### Current projects
 <div style="position: relative; width: 495px; /* Match image width */">
   <img src="Democracy_Renew_Anand.png" width="495" height="330" alt="Democracy Renewed Project Image" />
-  <p style="position: absolute; bottom: 5px; left: 5px; font-size: 0.5em; color: grey; padding: 2px;">
+  <p style="position: absolute; bottom: 2px; left: 2px; font-size: 0.5em; color: grey; padding: 2px;">
     Photo credit: Tiziana Centofanti
   </p>
 </div>
@@ -121,7 +121,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 <div style="position: relative; width: 495px; /* Match image width */">
   <img src="kite.jpg" width="495" height="330" alt="Flying a kite" />
-  <p style="position: absolute; bottom: 5px; left: 5px; font-size: 0.5em; color: grey; padding: 2px;">
+  <p style="position: absolute; bottom: 2px; left: 2px; font-size: 0.5em; color: grey; padding: 2px;">
     Photo credit: Sabya 
   </p>
 </div>
