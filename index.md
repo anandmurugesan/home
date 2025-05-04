@@ -40,7 +40,7 @@ Political Behavior | Experimental Economics
 ### Current projects
 <div style="position: relative; width: 495px; /* Match image width */">
   <img src="Democracy_Renew_Anand.png" width="495" height="330" alt="Democracy Renewed Project Image" />
-  <p style="position: absolute; bottom: 5px; right: 5px; font-size: 0.5em; color: grey; background-color: rgba(255, 255, 255, 0.7); padding: 2px;">
+  <p style="position: absolute; bottom: 5px; right: 5px; font-size: 0.2em; color: grey; background-color: rgba(255, 255, 255, 0.7); padding: 2px;">
     Photo credit: Tiziana Centofanti
   </p>
 </div>
