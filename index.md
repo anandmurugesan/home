@@ -38,7 +38,12 @@ Development  | Public Economics
 Political Behavior | Experimental Economics 
 
 ### Current projects
-<img src="Democracy_Renew_Anand.png" width="495" height="330" /> 
+<div style="position: relative; width: 495px; /* Match image width */">
+  <img src="Democracy_Renew_Anand.png" width="495" height="330" alt="Democracy Renewed Project Image" />
+  <p style="position: absolute; bottom: 5px; right: 5px; font-size: x-small; color: grey; background-color: rgba(255, 255, 255, 0.7); padding: 2px;">
+    Photo credit: Tiziana Centofanti
+  </p>
+</div>
 
 [From Enlightenment to Cameralism: Tax Morale and Fiscal Capacity as Imperial Legacy](https://www.dropbox.com/scl/fi/7nvtk4zox76kv3fsie5rw/DorschMurugesan_Habsburgs_v2.pdf?rlkey=dnnflk2njihrkl2vjbtbyc3zg&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home)
 
@@ -114,7 +119,12 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 #### Recent and upcoming presentations/research visits
 
-<img src="kite.jpg" width="495" height="330" /> 
+<div style="position: relative; width: 495px; /* Match image width */">
+  <img src="kite.jpg" width="495" height="330" alt="Flying a kite" />
+  <p style="position: absolute; bottom: 5px; right: 5px; font-size: x-small; color: grey; background-color: rgba(255, 255, 255, 0.7); padding: 2px;">
+    Photo credit: Sabya 
+  </p>
+</div>
 
 <!-- [Wirtschafts Universität Wien](https://www.wu.ac.at/en/ims/news/seminar-series/) seminar series (October 11, 2022)
 
