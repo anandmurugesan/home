@@ -160,6 +160,7 @@ Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March
 
 [European Public Choice Society Meeting](https://www.wu.ac.at/epcs2024/) (April 2 - 5, 2024)
 -->
+---
 Azim Premji University, Bangalore (August 20, 2024)
 
 [Slovak Economic Association Meeting (SEAM 2024)](https://slovakecon.sk/seam2024/program.html) (September 12 - 13, 2024)
