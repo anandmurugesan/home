@@ -204,7 +204,7 @@ Economic Science Association, 2025 European Meeting, Brno (September 3 - 6, 2025
 
 **Note on Recommendation Letters for Students**
 
-I am happy to provide recommendation or support letters for students who **have completed at least one of my elective courses**. This and a weeks notice is a necessary condition. If you would like me to write substantive and informative letters, you'd be better served by performing well in my courses and engaging productively in the class. I only write confidential letters, sent directly to the institution, to ensure my evaluations are candid and objective.
+I am happy to provide recommendations or support letters for students who have completed at least one of my elective courses or whom I've advised in research. This and a week's notice are necessary conditions. If you would like me to write substantive and informative letters, you'd be better served by performing well in my courses and engaging productively in class. I only write confidential letters, sent directly to the institution, to ensure my evaluations are candid and objective.
 
 ## Bio
 
