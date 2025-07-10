@@ -179,6 +179,8 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 [European Public Choice Society 2025](https://epcs2025.sseriga.edu/) (April 3 - 5, 2025)
 
+Indian Institute of Technology Bombay (August 13, 2025)
+
 Economic Science Association, 2025 European Meeting, Brno (September 3 - 6, 2025)
 
 
