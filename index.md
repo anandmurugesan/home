@@ -23,7 +23,6 @@ Twitter (retiring soon): [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 
-Teaching causal inference methods at the [MethodsNet Summer School with CEU](https://methodsnet.org/summer-school/summer-school-2025/) this July - registration open.
 
 ---
 
