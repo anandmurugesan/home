@@ -103,7 +103,7 @@ fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
 
 ### Working papers
 
-["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://www.dropbox.com/s/c7nslrtg0tg4b77/Markets_for_Children_MurugesanInnes_June2022.pdf?dl=0) with Robert Innes (r & r)
+["*Markets For Children*: International Adoptions, IVF, and U.S. Foster Care,"](https://github.com/anandmurugesan/home/blob/master/MarketsForChildren_MurugesanInnes_REH_August2025.pdf) with Robert Innes (r & r)
 
 [Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [Elgar Encyclopedia of Public Choice](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
 
