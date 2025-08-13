@@ -180,6 +180,8 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 
 Indian Institute of Technology Bombay (August 13, 2025)
 
+[Workshop in Behavioral Public Economics and Political Economy, Vienna](https://bepe2025.univie.ac.at/) (September 1 - 2, 2025)
+
 Economic Science Association, 2025 European Meeting, Brno (September 3 - 6, 2025)
 
 
