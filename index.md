@@ -182,7 +182,7 @@ Indian Institute of Technology Bombay (August 13, 2025)
 
 [Workshop in Behavioral Public Economics and Political Economy, Vienna](https://bepe2025.univie.ac.at/) (September 1 - 2, 2025)
 
-Economic Science Association, 2025 European Meeting, Brno (September 3 - 6, 2025)
+[Economic Science Association, 2025 European Meeting, Brno](https://esa2025.econ.muni.cz/media/3896100/2025-esa-conference-program.pdf) (September 3 - 6, 2025)
 
 Vienna Applied Micro Economics Workshop, Vienna (October 24, 2025)
 
