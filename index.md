@@ -196,14 +196,16 @@ Vienna Applied Micro Economics Workshop, Vienna (October 24, 2025)
 
 ### Central European University, Vienna 
 
+**Fall 2025** 
 
-**Winter 2025** 
+[Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE)
+
+**Winter/Spring 2026** 
 
 [Impact Evaluation: Policy Applications with R](https://ceu.studyguide.timeedit.net/modules/DOPP5078?type=CORE)
 
 [Advanced Impact Evaluation](https://ceu.studyguide.timeedit.net/modules/DOPP5383?type=CORE)
 
-[Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE)
 
 **Note on Recommendation Letters for Students**
 
