@@ -9,7 +9,7 @@ Office 5.332, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
 
 Affiliate Faculty: [Democracy Institute](https://democracyinstitute.ceu.edu/research/de-and-re-democratization-drd) and [Social Mind Center](https://socialmind.ceu.edu/)
 
-Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/ru/behavioral-economics/)
+Senior Fellow, [Institute of Advanced Studies Vienna (Insights Austria)](https://www.ihs.ac.at/people/fellows/anand-murugesan/)
 
 Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/CV_AMurugesan_latest.pdf?rlkey=jbqvsiqfpeo6meja5vgqxxlt9&dl=0)
 
