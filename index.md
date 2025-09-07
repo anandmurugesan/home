@@ -68,24 +68,6 @@ Impact of the US opioid crisis on Children, with Dana Andersen -->
 
 ### Book 
 
-<script>
-fetch('https://link.springer.com/book/10.1007/978-981-99-3905-3')
-  .then(response => response.text())
-  .then(html => {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, 'text/html');
-
-
-    // Extract the exact number using the correct CSS selector
-    const accessesElement = doc.querySelector('span.c-article-metrics-bar__value'); 
-    const accesses = accessesElement ? accessesElement.textContent.trim() : "N/A";
-    
-    document.getElementById('book-accesses').innerText = `Number of Accesses: ${accesses}`;
-
-  })
-  .catch(err => console.error('Failed to fetch page: ', err));
-</script>
-
 [*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >10K since 1 October 2023]
 
 ### Publications 
