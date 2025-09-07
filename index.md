@@ -265,7 +265,7 @@ And where I'd be happy to go back:
 <p style="font-size: x-small;"> <!--  Excerpt from my 2015 Research Statement, which continues to hold today (I've mixed feelings about this consistency): `` ...The underlying theme of my research is throwing light on issues of society, where individual interest and a larger collective bargain are divergent ...and seeing how institutional arrangements, legal, social or economic, can improve individual incentives for better collective outcomes..."-->
 
 
-Photo credit: "Democracy must be renewed every day" (Tiziana); Flying a kite (Sabya); Fieldwork in Palakkad (Sreenivasan ji, Libin or me)
+Photo credits: "Democracy must be renewed every day" (Tiziana); Flying a kite (Sabya); Fieldwork in Palakkad (Sreenivasan ji, Libin or me)
 </p>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
