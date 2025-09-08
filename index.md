@@ -42,7 +42,7 @@ Political Behavior | Experimental Economics
 </div>
 
 ---
-Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
+Democracy For Sale, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-robert.tyran/index.html)
 
   - [Why votes are (not) for sale? Evidence from an Institutional Discontinuity in Southern India](https://events.ceu.edu/2025-02-26/brownbag-seminar-why-votes-are-not-sale-evidence-institutional-discontinuity-southern), with J-R Tyran
   - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
