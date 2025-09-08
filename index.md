@@ -20,12 +20,11 @@ Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.b
 Twitter (infrequent user): [@tapasiva](https://twitter.com/tapasiva)
 
 ---
-
+<!-- 
 ## News
 
-
 ---
-
+-->
 ## Research 
 
 **Fields of Interest**
@@ -49,19 +48,31 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
   - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
   - Voters' Dilemma, with Thiagu Ranganathan and J-R Tyran
 
-[Measuring democratic resilience](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
+[Voice and Vote: Measuring democratic resilience](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
 
 [Holy Cow! Conflicts, Markets, and Social Costs of Intolerance](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
-
+<!-- 
   - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
-
+-->
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
 <!-- [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
 The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
 Comparing the response variance between the many-to-one and one-to-one norm elicitation method 
 Impact of the US opioid crisis on Children, with Dana Andersen -->
+
+### Working papers
+
+[From Enlightenment to Cameralism: Tax Morale and Fiscal Capacity as Imperial Legacy](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuyte/DorschMurugesan_Habsburgs_v3.pdf?rlkey=lpih9qh1v94bn3sv3ip2i0coq&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home) 
+
+["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://github.com/anandmurugesan/home/blob/master/MarketsForChildren_MurugesanInnes_REH_August2025.pdf) with Robert Innes (r & r)
+
+[Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [Elgar Encyclopedia of Public Choice](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
+
+Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) 
+
+<!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
 
 ### Book 
 
@@ -79,18 +90,6 @@ Impact of the US opioid crisis on Children, with Dana Andersen -->
 ["Electoral clientelism and vote buying,"](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
 
 ["Use of Weather Information for Agricultural Decision Making,"](https://doi.org/10.1175/WCAS-D-12-00022.1) with George Frisvold, *Weather, Climate and Society*, 5, January Issue, 55-69, 2013.
-
-### Working papers
-
-[From Enlightenment to Cameralism: Tax Morale and Fiscal Capacity as Imperial Legacy](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuyte/DorschMurugesan_Habsburgs_v3.pdf?rlkey=lpih9qh1v94bn3sv3ip2i0coq&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home) 
-
-["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://github.com/anandmurugesan/home/blob/master/MarketsForChildren_MurugesanInnes_REH_August2025.pdf) with Robert Innes (r & r)
-
-[Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [Elgar Encyclopedia of Public Choice](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
-
-Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti)
-
-<!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
 
 ### Other
 
