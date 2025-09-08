@@ -52,14 +52,13 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
 
 [Holy Cow! Conflicts, Markets, and Social Costs of Intolerance](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
-<!-- 
-  - [Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
--->
+
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
 <!-- [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
 The sticky self and the icky other!* Using coordination games to elicit self-image signals with C. Heintz and M. Karabegovic
 Comparing the response variance between the many-to-one and one-to-one norm elicitation method 
+[Poster presented at the ASSA 2022 annual meeting](https://www.dropbox.com/s/n5nhjf3zn64f80t/Holy_Cow_AEA2022_Poster.pdf?dl=0)
 Impact of the US opioid crisis on Children, with Dana Andersen -->
 
 ### Working papers
