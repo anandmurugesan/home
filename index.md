@@ -67,8 +67,6 @@ Impact of the US opioid crisis on Children, with Dana Andersen -->
 From Enlightened Cameralism to Tax Compliance: Building fiscal
 capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuyte/DorschMurugesan_Habsburgs_v3.pdf?rlkey=lpih9qh1v94bn3sv3ip2i0coq&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home) 
 
-["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://github.com/anandmurugesan/home/blob/master/MarketsForChildren_MurugesanInnes_REH_August2025.pdf) with Robert Innes (r & r)
-
 [Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [Elgar Encyclopedia of Public Choice](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
 
 Greening the margins: Evidence of amplifying investments in local environmental restoration, with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) 
@@ -80,6 +78,8 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 [*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >10K since 1 October 2023]
 
 ### Publications 
+
+["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://github.com/anandmurugesan/home/blob/master/MarketsForChildren_MurugesanInnes_REH_August2025.pdf) with Robert Innes (forthcoming, *Review of Economics of the Household*)
 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
