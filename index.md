@@ -137,8 +137,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 Workshop on Experiments in Research and for Policymaking, EUBA Bratislava (March 21, 2024)
 
 [European Public Choice Society Meeting](https://www.wu.ac.at/epcs2024/) (April 2 - 5, 2024)
--->
----
+
 Azim Premji University, Bangalore (August 20, 2024)
 
 [Slovak Economic Association Meeting (SEAM 2024)](https://slovakecon.sk/seam2024/program.html) (September 12 - 13, 2024)
@@ -154,7 +153,8 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 [BREW-ESA 2024](https://www.dropbox.com/scl/fi/ekew0xskr4c3zi8zl6fim/BREW-ESA_conference_schedule2024.pdf?rlkey=004e5i4df5xyv9s99q4hpv72r&e=2&st=i8yyxw3v&dl=0) (15 - 17 December)
 
 [Annual Conference on Economic Growth and Development 2024](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December)
-
+-->
+---
 [Democracy Institute Budapest](https://events.ceu.edu/2025-03-31/when-do-citizens-sell-their-votes-evidence-southern-india) Rooftop seminar series (31 March 2025)
 
 [European Public Choice Society 2025](https://epcs2025.sseriga.edu/) (April 3 - 5, 2025)
