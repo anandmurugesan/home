@@ -209,19 +209,19 @@ Between December 2023 and February 2024, I was shuttling (actually, riding or pi
 
 <img src="Palakkad_Vengodi_Training.jpeg" width="225" height="150" /> <img src="Palakkad_Para_LunchPlace.jpeg" width="225" height="150" /> 
 
-Debriefing and training enumerators at the field office in Vengodi, Palakkad. Our go-to lunch place was Hotel Venkatesh Bhavan -- uses a wood-fired stove for cooking and redolent of [Malgudi Days](https://www.youtube.com/watch?v=mIYA5qANs_A).
+Debriefing and training enumerators at the field office in Vengodi, Palakkad (L). Our go-to lunch place was Hotel Venkatesh Bhavan (R) -- uses a wood-fired stove for cooking and redolent of [Malgudi Days](https://www.youtube.com/watch?v=mIYA5qANs_A).
 
 <img src="PoliticianInterview_Ramassery.jpeg" width="225" height="150" /> <img src="Idli_Ramassery.jpeg" width="225" height="150" /> 
 
-We interviewed scores of politicians: here is one with Libin and a stopover for the famed Ramasseri idli with Sreenivasan Ji. [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
+We interviewed scores of politicians: here is one with Libin (L) and a stopover for the famed Ramasseri idli with Sreenivasan Ji (R). [Is it an idli or a dosa?](https://www.thehindu.com/life-and-style/food/ramasseri-idli-a-fusion-of-an-idli-and-a-dosa/article34206074.ece)
 
 <img src="Palakkad_Thenari_TeaShopDiscussion.jpeg" width="225" height="150" /> <img src="Pollachi_Thimmanguthu.png" width="225" height="150" /> 
 
-An impromptu discussion at a tea stall (with the stall owner, an insightful, white-bearded, old friend of Sreenivasan Ji's father) and the trusted Honda that got us around. 
+An impromptu discussion at a tea stall (with the stall owner, an insightful, white-bearded, old friend of Sreenivasan Ji's father) (L) and the trusted Honda that got us around (R). 
 
 <img src="Palakkad_Vengodi_Handloom.jpeg" width="225" height="150" /> <img src="Palakkad_SilentValley_Trees.jpeg" width="225" height="150" /> 
 
-An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door (we bought handmade fabric for made-to-fit shirts by a local tailor) and taking in the moment with a view of the Silent Valley. 
+An inspiring visit to the [Khadi](https://www.mkgandhi.org/swadeshi_khadi/whatiskhadi.htm) cottage industry next door (we bought handmade fabric for custom-fitted shirts by a local tailor) (L) and taking in the moment with a view of the Silent Valley (R). 
 
 
 
@@ -231,7 +231,7 @@ Here is my sketch (below) of a bestselling book my daughter recommended I read, 
 
 <img src="theboythemule.png" width="150" height="200" /> 
 
-And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (below, on the left) and me breaking traditions (on the right).
+And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu, India (on the left) and me breaking traditions (on the right).
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
