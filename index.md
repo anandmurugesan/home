@@ -179,7 +179,7 @@ Vienna Applied Micro Economics Workshop, Vienna (October 24, 2025)
 
 **Fall 2025** 
 
-[Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE)
+[Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE) with Michael Dorsch
 
 **Winter/Spring 2026** 
 
