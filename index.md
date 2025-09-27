@@ -20,11 +20,13 @@ Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.b
 Twitter (infrequent user): [@tapasiva](https://twitter.com/tapasiva)
 
 ---
-<!-- 
+<!--   -->
+
 ## News
 
+["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://github.com/anandmurugesan/home/blob/master/MarketsForChildren_MurugesanInnes_REH_August2025.pdf) accepted at *Review of Economics of the Household*
+
 ---
--->
 ## Research 
 
 **Fields of Interest**
