@@ -15,7 +15,7 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/C
 
 email: <murugesana@ceu.edu>
 
-### Social media (infrequent user)
+#### Social media (infrequent user)
 Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.bsky.social)
 Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
