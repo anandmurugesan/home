@@ -192,7 +192,7 @@ Vienna Applied Micro Economics Workshop, Vienna (October 24, 2025)
 
 **Note on Recommendation Letters for Students**
 
-I am happy to provide recommendations or support letters for students who have completed at least one of my elective courses or whom I've advised in research. This and a week's notice are necessary conditions. If you would like me to write substantive and informative letters, you'd be better served by performing well in my courses and engaging productively in class. I only write confidential letters, sent directly to the institution, to ensure my evaluations are candid and objective.
+I am happy to provide recommendations or support letters for students who have completed at least one of my elective courses or whom I've advised in research. This, along with a week's notice, is a necessary condition. If you would like me to write substantive and informative letters, you'd be better served by performing well in my courses and engaging productively in class. I only write confidential letters, sent directly to the institution, to ensure my evaluations are credible, candid, and objective.
 
 ## Bio
 
@@ -235,7 +235,7 @@ And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu
 
 <img src="6979F656-02F0-472E-84A1-AB3B22C5BCAB.jpeg" width="225" height="150" /> <img src="till.jpeg" width="225" height="150" /> 
 
-My brother worked on [the effect of angular momentum or spin velocity in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in the part of the world where, in theory, water flowing down the drain is expected to spin in the opposite direction compared to the drains in parts I am in... ;) <br/>
+My brother worked on [the effect of angular momentum or spin velocity in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently, on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in the part of the world where, in theory, water flowing down the drain is expected to spin in the opposite direction compared to the drains in parts I am in... ;) <br/>
 
 Shoutout to places I love eating at:  
 
