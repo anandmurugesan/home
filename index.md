@@ -15,9 +15,9 @@ Here is a link to my [CV](https://www.dropbox.com/scl/fi/2mzcqfzp432sdk7qgl2fx/C
 
 email: <murugesana@ceu.edu>
 
+### Social media (infrequent user)
 Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.bsky.social)
-
-Twitter (infrequent user): [@tapasiva](https://twitter.com/tapasiva)
+Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ---
 <!--   -->
@@ -48,7 +48,7 @@ Democracy For Sale, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-
 
   - [Why votes are (not) for sale? Evidence from an Institutional Discontinuity in Southern India](https://events.ceu.edu/2025-02-26/brownbag-seminar-why-votes-are-not-sale-evidence-institutional-discontinuity-southern), with J-R Tyran
   - Fighting Cash-for-Votes: Information Interventions, with J-R Tyran
-  - Voters' Dilemma, with Thiagu Ranganathan and J-R Tyran
+  - Voters' Dilemma, with T. Ranganathan and J-R Tyran
 
 [Voice and Vote: Measuring democratic resilience](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
@@ -87,7 +87,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 ["*Drain on your health*: Sanitation externalities from dirty drains in India,"](https://onlinelibrary.wiley.com/doi/10.1111/rode.12924) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics,* November 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2c3kzy4v93/3)
 
-["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal and Uma Rajarathnam, *Environment and Development Economics*, June 2021
+["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal, and Uma Rajarathnam, *Environment and Development Economics*, June 2021
 [Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0)
 
 ["Electoral clientelism and vote buying,"](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
@@ -242,7 +242,7 @@ Shoutout to places I love eating at:
 - Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
 - South Indian filter coffee at [A2B](https://aabsweets.com/) with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
 - Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
-- Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma -- an incredibly delightful corner)
+- Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma, and four from Caffe Del Porto, the OG spot for [Moretta](https://en.wikipedia.org/wiki/Moretta_(coffee))--if you want a coffee-sugar high but counter it with equal parts of Brandy and Rum--it's a fisherman's bar.
 - Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
 - Sacher torta at [Hotel Sacher](https://maps.app.goo.gl/Ca3dWBSgW5Q4E5Rf9)
 
