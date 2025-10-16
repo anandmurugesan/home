@@ -24,7 +24,7 @@ Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 
-["*Markets for Children*,"](https://www.dropbox.com/scl/fi/4pa6jwct0ognoehjrgiyn/MarketsForChildren_MurugesanInnes_REH_September2025.pdf?rlkey=t4theof30uen0xmn5op0loo41&dl=0) accepted at *Review of Economics of the Household*
+["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3#Fun) forthcoming at *Review of Economics of the Household*
 
 ---
 ## Research 
@@ -79,7 +79,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 ### Publications 
 
-["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://www.dropbox.com/scl/fi/4pa6jwct0ognoehjrgiyn/MarketsForChildren_MurugesanInnes_REH_September2025.pdf?rlkey=t4theof30uen0xmn5op0loo41&dl=0) with Robert Innes (forthcoming, *Review of Economics of the Household*)
+["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3#Fun) with Robert Innes (forthcoming, *Review of Economics of the Household*)
 
 [Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [*Elgar Encyclopedia of Public Choice*](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
 
