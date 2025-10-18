@@ -79,7 +79,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 ### Publications 
 
-["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) with Robert Innes (forthcoming, *Review of Economics of the Household*)
+["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://rdcu.be/eLpFH) with Robert Innes (forthcoming, *Review of Economics of the Household*)
 
 [Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [*Elgar Encyclopedia of Public Choice*](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
 
