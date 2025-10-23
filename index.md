@@ -167,7 +167,7 @@ Indian Institute of Technology Bombay (August 13, 2025)
 
 [Economic Science Association, 2025 European Meeting, Brno](https://esa2025.econ.muni.cz/media/3896100/2025-esa-conference-program.pdf) (September 3 - 6, 2025)
 
-Vienna Applied Micro Economics Workshop, Vienna (October 24, 2025)
+[Vienna Applied Micro Economics Workshop](https://www.viennaappliedmicroeconomics.com/uploads/1/4/3/2/143264130/program_vam_workshop_oct_2025.pdf), Vienna (October 24, 2025)
 
 
 #### Links to recent collaborators
