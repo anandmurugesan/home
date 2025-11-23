@@ -75,7 +75,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 ### Book 
 
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >10K since 1 October 2023]
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >11K since 1 October 2023]
 
 ### Publications 
 
