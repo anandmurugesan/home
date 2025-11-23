@@ -51,7 +51,7 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
   - Voters' Dilemma, with T. Ranganathan and J-R Tyran
 
 [Voice and Vote: Measuring democratic resilience](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
-<!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), Ruta Kaskeleviciute and Jean-Robert Tyran -->
+<!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), and Jean-Robert Tyran -->
 
 [Holy Cow! Conflicts, Markets, and Social Costs of Intolerance](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
 
@@ -81,7 +81,7 @@ Greening the margins: Evidence of amplifying investments in local environmental 
 
 ["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://rdcu.be/eLpFH) with Robert Innes (forthcoming, *Review of Economics of the Household*)
 
-[Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran (forthcoming, [*Elgar Encyclopedia of Public Choice*](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html))
+[Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran, [*Elgar Encyclopedia of Public Choice*](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html), November 2025
 
 ["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
