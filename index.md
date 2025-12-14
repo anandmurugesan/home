@@ -155,12 +155,12 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 [BREW-ESA 2024](https://www.dropbox.com/scl/fi/ekew0xskr4c3zi8zl6fim/BREW-ESA_conference_schedule2024.pdf?rlkey=004e5i4df5xyv9s99q4hpv72r&e=2&st=i8yyxw3v&dl=0) (15 - 17 December)
 
 [Annual Conference on Economic Growth and Development 2024](https://www.isid.ac.in/~acegd/acegd2024/program.html), New Delhi (19 - 21 December)
--->
----
+
 [Democracy Institute Budapest](https://events.ceu.edu/2025-03-31/when-do-citizens-sell-their-votes-evidence-southern-india) Rooftop seminar series (31 March 2025)
 
 [European Public Choice Society 2025](https://epcs2025.sseriga.edu/) (April 3 - 5, 2025)
-
+-->
+---
 Indian Institute of Technology Bombay (August 13, 2025)
 
 [Workshop in Behavioral Public Economics and Political Economy, Vienna](https://bepe2025.univie.ac.at/) (September 1 - 2, 2025)
