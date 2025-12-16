@@ -169,6 +169,9 @@ Indian Institute of Technology Bombay (August 13, 2025)
 
 [Vienna Applied Micro Economics Workshop](https://www.viennaappliedmicroeconomics.com/uploads/1/4/3/2/143264130/program_vam_workshop_oct_2025.pdf), Vienna (October 24, 2025)
 
+Democracy Institute Budapest Rooftop seminar series (2 February 2025)
+
+Western Economic Association 2026 Asia Meeting (April 2025)
 
 #### Links to recent collaborators
 
