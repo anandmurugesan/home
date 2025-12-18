@@ -186,7 +186,7 @@ Western Economic Association 2026 Asia Meeting (April 2026)
 
 [Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE) with Michael Dorsch
 
-**Winter/Spring 2026** 
+**Winter 2026** 
 
 [Impact Evaluation: Policy Applications with R](https://ceu.studyguide.timeedit.net/modules/DOPP5078?type=CORE)
 
