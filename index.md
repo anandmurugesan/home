@@ -70,6 +70,7 @@ From Enlightened Cameralism to Tax Compliance: Building fiscal
 capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuyte/DorschMurugesan_Habsburgs_v3.pdf?rlkey=lpih9qh1v94bn3sv3ip2i0coq&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home) 
 
 *Seeding hope*: The Participatory Multiplier Effect in Eastern Europe with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) *(under review)*
+[Replication files for tables and graphs](https://www.dropbox.com/scl/fo/p12vlatn16yuiszmqn08j/ADg021n4HgJfTgj8DR_2dfk?rlkey=2y75ikwn6fncpthn8x0fds2kf&dl=0)
 
 <!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
 
