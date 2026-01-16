@@ -172,7 +172,9 @@ Indian Institute of Technology Bombay (August 13, 2025)
 
 Democracy Institute Budapest Rooftop seminar series (2 February 2026)
 
-Western Economic Association 2026 Asia Meeting (April 2026)
+[European Public Choice Society 2026](https://www.epcsmadrid2026.es/preliminary-program-1) (23 - 25 March, 2026)
+
+[Western Economic Association International Conference](https://weai.slayte.com/event/8bef2e5e-586d-48a2-83f6-a14e4aa07f5b#program) (1 - 4 April, 2026)
 
 #### Links to recent collaborators
 
