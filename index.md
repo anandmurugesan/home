@@ -7,7 +7,7 @@ Phone: +43.1.25230.2054
 [Vienna Center for Experimental Economics](https://vcee.univie.ac.at/?no_cache=1), [University of Vienna](https://www.univie.ac.at/en/) <br/>
 Office 5.332, Oskar-Morgenstern-Platz 1, 1090 Vienna <br/>
 
-Affiliate Faculty: [Democracy Institute](https://democracyinstitute.ceu.edu/research/de-and-re-democratization-drd) and [Social Mind Center](https://socialmind.ceu.edu/)
+Affiliate Faculty: [Democracy Institute](https://democracyinstitute.ceu.edu/) and [Social Mind Center](https://socialmind.ceu.edu/)
 
 Fellow, [Institute of Advanced Studies Vienna](https://www.ihs.ac.at/people/fellows/anand-murugesan/)
 
