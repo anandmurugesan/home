@@ -80,7 +80,7 @@ capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuy
 
 ### Publications 
 
-["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://rdcu.be/eLpFH) with Robert Innes (forthcoming, *Review of Economics of the Household*)
+["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://rdcu.be/eLpFH) with [Robert Innes](https://economics.ucmerced.edu/content/robert-innes) (forthcoming, *Review of Economics of the Household*)
 
 [Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran, [*Elgar Encyclopedia of Public Choice*](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html), November 2025
 
