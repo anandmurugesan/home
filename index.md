@@ -24,6 +24,8 @@ Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 
+Rooftop Seminar on "Voice and Vote at the [Democracy Institute Budapest](https://events.ceu.edu/2026-02-02/voice-and-vote-behavioral-measures-democratic-resilience) (2 February 2026)
+
 ["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) forthcoming at *Review of Economics of the Household*
 
 ---
@@ -170,7 +172,7 @@ Indian Institute of Technology Bombay (August 13, 2025)
 
 [Vienna Applied Micro Economics Workshop](https://www.viennaappliedmicroeconomics.com/uploads/1/4/3/2/143264130/program_vam_workshop_oct_2025.pdf), Vienna (October 24, 2025)
 
-Democracy Institute Budapest Rooftop seminar series (2 February 2026)
+[Democracy Institute Budapest Rooftop seminar series](https://events.ceu.edu/2026-02-02/voice-and-vote-behavioral-measures-democratic-resilience) (2 February 2026)
 
 [European Public Choice Society 2026](https://www.epcsmadrid2026.es/preliminary-program-1) (23 - 25 March, 2026)
 
