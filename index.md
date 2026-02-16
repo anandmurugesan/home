@@ -249,7 +249,7 @@ Shoutout to places I love eating at:
 - South Indian filter coffee at [A2B](https://aabsweets.com/) with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
 - Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
 - Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma, and four from Caffe Del Porto, the OG spot for [Moretta](https://en.wikipedia.org/wiki/Moretta_(coffee))--the drink, if you want a coffee-sugar high but countered with equal parts of Brandy and Rum--it's a fisherman's bar.)
-- Phad krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
+- Phad Phrik / krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
 - Sacher torta at [Hotel Sacher](https://maps.app.goo.gl/Ca3dWBSgW5Q4E5Rf9)
 
 And where I'd be happy to go back: 
