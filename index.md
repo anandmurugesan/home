@@ -268,12 +268,12 @@ And where I'd be happy to go back:
 -->
 ---
 
-*"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
+- *"The first principle is that you must not fool yourself -- and you are the easiest person to fool. So you have to be very careful about that. After you've not fooled yourself, it's easy not to fool other scientists. You just have to be honest in a conventional way after that." - Richard Feynman at Caltech, 1974*
+
+- Photo credits: "Democracy must be renewed every day" (Tiziana); Flying a kite (Sabya); Fieldwork in Palakkad (Sreenivasan ji, Libin or me)
 
 <p style="font-size: x-small;" id="fn1"> <sup>*</sup> From my 2015 Research Statement: `` ...The underlying theme of my research is throwing light on issues of society, where individual interest and a larger collective bargain are divergent ...and seeing how institutional arrangements, legal, social or economic, can improve individual incentives for better collective outcomes..." Even if I have mixed feelings about such consistency, on balance, I remain in pursuit. 
 
-
-Photo credits: "Democracy must be renewed every day" (Tiziana); Flying a kite (Sabya); Fieldwork in Palakkad (Sreenivasan ji, Libin or me)
 </p>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
