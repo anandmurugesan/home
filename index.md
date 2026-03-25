@@ -76,7 +76,7 @@ capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuy
 
 ### Book 
 
-[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >11K since 1 October 2023]
+[*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >12K since 1 October 2023]
 
 ### Publications 
 
