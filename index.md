@@ -24,9 +24,11 @@ Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 
-Back in the field! Interviewing Mr. A. Prabhakaran, sitting MLA in Palakkad, Kerala for my Valuing Democracy project. 
+Back in the field for Valuing Democracy! Interviewing A. Prabhakaran ji (left), sitting MLA, and at the CPI (M) office with P. Sreenjivasan ji (right) in Palakkad, Kerala.
 
-<img src="KL2026_Prabhakaran_Interview.jpg" width="450" height="300" /> 
+<img src="KL2026_Prabhakaran_Interview.jpg" width="450" height="300" /> <img src="KL2026_CPIM_Razaq.jpeg" width="450" height="300" /> 
+
+
 
 
 <!-- ["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) forthcoming at *Review of Economics of the Household* -->
