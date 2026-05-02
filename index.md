@@ -20,11 +20,16 @@ Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.b
 Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ---
-<!--   -->
+  
 
 ## News
 
-["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) forthcoming at *Review of Economics of the Household*
+Back in the field! Interviewing Mr. A. Prabhakaran, sitting MLA in Palakkad, Kerala for my Valuing Democracy project. 
+
+<img src="KL2026_Prabhakaran_Interview.jpeg" width="225" height="150" /> 
+
+
+<!-- ["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) forthcoming at *Review of Economics of the Household* -->
 
 ---
 ## Research 
