@@ -24,7 +24,7 @@ Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 
-Back in the field for Valuing Democracy! Interviewing A. Prabhakaran ji (left), sitting MLA, and at the CPI (M) office with P. Sreenjivasan ji (right) in Palakkad, Kerala.
+Back in the field for Valuing Democracy! Interviewing A. Prabhakaran ji, sitting MLA, and at the CPI (M) office with P. Sreenjivasan ji in Palakkad, Kerala.
 
 <img src="KL2026_Prabhakaran_Interview.jpg" width="450" height="300" /> <img src="KL2026_CPIM_Razaq.jpeg" width="450" height="300" /> 
 
