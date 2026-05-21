@@ -24,6 +24,7 @@ Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
 ## News
 May 2026: Speaking at a public event in Skopje
+
 <img src="Skopje_PublicEvent.png" width="450" height="300"/> 
 
 April 2026: Back in the field for Valuing Democracy! Interviewing A. Prabhakaran ji, sitting MLA, and at the CPI (M) office with P. Sreenjivasan ji in Palakkad, Kerala.
