@@ -23,7 +23,7 @@ Twitter : [@tapasiva](https://twitter.com/tapasiva)
   
 
 ## News
-May 2026: Speaking at a public event in Skopje
+May 2026: Speaking about "how voters value their political voice" at a public event in Skopje
 
 <img src="Skopje_PublicEvent.png" width="450" height="300"/> 
 
