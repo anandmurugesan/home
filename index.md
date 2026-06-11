@@ -19,22 +19,6 @@ email: <murugesana@ceu.edu>
 Bluesky: [@anandmurugesan.bsky.social](https://bsky.app/profile/anandmurugesan.bsky.social)
 Twitter : [@tapasiva](https://twitter.com/tapasiva)
 
----
-  
-
-## News
-May 2026: Speaking about "how voters value their political voice" at a public event in Skopje
-
-<img src="Skopje_PublicEvent.png" width="450" height="300"/> 
-
-April 2026: Back in the field for Valuing Democracy! Interviewing A. Prabhakaran ji, sitting MLA, and at the CPI (M) office with P. Sreenjivasan ji in Palakkad, Kerala.
-
-<img src="KL2026_Prabhakaran_Interview.jpg" width="450" height="300" /> <img src="KL2026_CPIM_Razaq.jpeg" width="450" height="300" /> 
-
-
-
-
-<!-- ["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) forthcoming at *Review of Economics of the Household* -->
 
 ---
 ## Research 
@@ -108,6 +92,23 @@ capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuy
 ### Other
 
 [Understanding our Political Nature: How to put knowledge and reason at the heart of political decision-making](https://knowledge4policy.ec.europa.eu/projects-activities/understanding-our-political-nature-how-put-knowledge-reason-heart-political_en), author of [the economics team report](https://www.dropbox.com/s/y3aowk1dxekfzsv/Economics_PoliticalBehavior_JRC_Nov2018.pdf?dl=00) with [Martina Barjaková](https://www.researchgate.net/profile/Martina-Barjakova-2) and [Michael Vlassopoulos](https://sites.google.com/view/michael-vlassopoulos/home), 2019 (the report was a foundation for the [European Democracy Action Plan](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2250))
+
+---
+  
+
+## News
+May 2026: Speaking about "how voters value their political voice" at a public event in Skopje
+
+<img src="Skopje_PublicEvent.png" width="450" height="300"/> 
+
+April 2026: Back in the field for Valuing Democracy! Interviewing A. Prabhakaran ji, sitting MLA, and at the CPI (M) office with P. Sreenjivasan ji in Palakkad, Kerala.
+
+<img src="KL2026_Prabhakaran_Interview.jpg" width="450" height="300" /> <img src="KL2026_CPIM_Razaq.jpeg" width="450" height="300" /> 
+
+
+
+
+<!-- ["*Markets for Children*,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) forthcoming at *Review of Economics of the Household* -->
 
 
 #### Recent and upcoming presentations/research visits
