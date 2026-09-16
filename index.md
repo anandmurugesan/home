@@ -47,8 +47,6 @@ Valuing Democracy, with [Jean-Robert Tyran](https://homepage.univie.ac.at/jean-r
 [Voice and Vote: Measuring democratic resilience](https://homepage.univie.ac.at/jean-robert.tyran/wwtf.html), with Jean-Robert Tyran
 <!--  Emotions in Politics, with [Jorg Matthes](https://advertisingresearch.univie.ac.at/team/joerg-matthes/), and Jean-Robert Tyran -->
 
-[Holy Cow! Conflicts, Markets, and Social Costs of Intolerance](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
-
 Give or Take: Experimental examination of bribery vs. extortion, with [Robert Innes](https://robinnes.weebly.com/)
 
 <!-- [Let them play games! Experimental methods to elicit social norms](https://www.dropbox.com/s/frysh7muu82q56q/LetThemPlayGames_ESABologna2022_Abstract.pdf?dl=0), with Mahendran Chokkalingam, Christophe Heintz and Mia Karabegovic
@@ -59,9 +57,11 @@ Impact of the US opioid crisis on Children, with Dana Andersen -->
 
 ### Working papers
 
-[
-From Enlightened Cameralism to Tax Compliance: Building fiscal
+[From Enlightened Cameralism to Tax Compliance: Building fiscal
 capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuyte/DorschMurugesan_Habsburgs_v3.pdf?rlkey=lpih9qh1v94bn3sv3ip2i0coq&dl=0), with [Michael Dorsch](https://sites.google.com/view/dorsch/home) 
+
+[No Country for Old Cows: Vigilante Enforcement and the Incidence of Intolerance in India](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
+
 
 *Seeding hope*: The Participatory Multiplier Effect in Eastern Europe with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) *(r&r)*
 [Replication files for tables and graphs](https://www.dropbox.com/scl/fo/p12vlatn16yuiszmqn08j/ADg021n4HgJfTgj8DR_2dfk?rlkey=2y75ikwn6fncpthn8x0fds2kf&dl=0)
