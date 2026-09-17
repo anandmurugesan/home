@@ -254,12 +254,12 @@ And a dated picture of traditional seed sowing on my parents' farm in Tamil Nadu
 
 My brother worked on [the effect of angular momentum or spin velocity in the formation of galaxies](https://academic.oup.com/mnras/article/483/2/2398/5222687); more recently, on examining [the interactive effect of angular momentum and gravitation](https://arxiv.org/pdf/2006.08103.pdf) in the formation of celestial bodies. My brother lives in the part of the world where, in theory, water flowing down the drain is expected to spin in the opposite direction compared to the drains in parts I am in... ;) <br/>
 
-Shoutout to places I love eating at:  
+Shoutout to places I love eating at:
 
 - Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
 - South Indian filter coffee at [A2B](https://aabsweets.com/) with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
-- Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79)
-- Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma, and four from Caffe Del Porto, the OG spot for [Moretta](https://en.wikipedia.org/wiki/Moretta_(coffee))--the drink, if you want a coffee-sugar high but countered with equal parts of Brandy and Rum--it's a fisherman's bar.)
+- ❌ Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79) — pizzaioli change → menu change → my fave Piccante (with nduja, pickled onion and heirloom tomatoes dropped)
+- ❌ Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma, and four from Caffe Del Porto, the OG spot for [Moretta](https://en.wikipedia.org/wiki/Moretta_(coffee))--the drink, if you want a coffee-sugar high but countered with equal parts of Brandy and Rum--it's a fisherman's bar.) Sadly, Carapina has also been taken over by a bigger Fano gelateria (Maki), so the corner has lost its edge!
 - Phad phrik khing / krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
 - Sacher torta at [Hotel Sacher](https://maps.app.goo.gl/Ca3dWBSgW5Q4E5Rf9)
 
