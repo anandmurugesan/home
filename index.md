@@ -258,8 +258,8 @@ Shoutout to places I love eating at:
 
 - Dosa at [SN Refreshments](https://maps.app.goo.gl/ziETrgusZctJkbQFA)
 - South Indian filter coffee at [A2B](https://aabsweets.com/) with [chicory](https://www.malgudidays.com.au/blogs/news/chicory-and-south-indian-filter-coffee) in the mix (as in the New Orleans-style [Cafe du Monde](https://shop.cafedumonde.com/coffee/))
-- ❌ Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79) — pizzaioli change → menu change → my fave Piccante (with nduja, pickled onion and heirloom tomatoes dropped)
-- ❌ Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) (two doors down from Doma, and four from Caffe Del Porto, the OG spot for [Moretta](https://en.wikipedia.org/wiki/Moretta_(coffee))--the drink, if you want a coffee-sugar high but countered with equal parts of Brandy and Rum--it's a fisherman's bar.) Sadly, Carapina has also been taken over by a bigger Fano gelateria (Maki), so the corner has lost its edge!
+- Pizza at [Doma](https://maps.app.goo.gl/Gnx1d4ax8pvLoVx79) — a ❌ (post Aug. 2026 visit) due to a pizzaioli change → menu change → my fave Piccante (with nduja, pickled onion and heirloom tomatoes disappearing from the menu)
+- Gelato at [Carapina](https://maps.app.goo.gl/T8giLPcs9ZqubqCJ7) - another sad ❌  (two doors down from Doma, and four from Caffe Del Porto, the OG spot for [Moretta](https://en.wikipedia.org/wiki/Moretta_(coffee))--the drink, if you want a coffee-sugar high but countered with equal parts of Brandy and Rum--it's a fisherman's bar.) Sadly, Carapina has also been taken over by a bigger gelateria (Maki), so the corner has lost its edge!
 - Phad phrik khing / krapow at [Kamala Thai Imbiss](https://maps.app.goo.gl/UCSbstNjs5gy8T7w9)
 - Sacher torta at [Hotel Sacher](https://maps.app.goo.gl/Ca3dWBSgW5Q4E5Rf9)
 
