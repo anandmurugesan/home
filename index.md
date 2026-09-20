@@ -268,6 +268,8 @@ And where I'd be happy to go back:
 - [Kwon](https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/kwon) and [Kodawari Tsukiji](https://www.kodawari-ramen.com/kodawari-tsukiji-la-carte/), Paris
 - [Rasika](https://www.rasikarestaurant.com/), DC and [Semma](https://www.semma.nyc/), NYC
 
+PS on the ❌: I stopped short of putting a third ❌ on my favorite dosa spot as well as my last two pit-stops in late August and early September 2026 fell short of the magical crisp golden-brown crepe outside, while keeping the promise of the soft well-cooked little mounds of white bubbles inside -- the potato palya held up, and chutney were spot-on... however the ebb and flow of time, invariably fells the greats, and one must resign that any hits on the list will fade away, with new promises on the horizon.
+
 <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" /><div id="embedbsky-com-timeline-embed"></div><script>let containerWidth=400,containerHeight=400;const getHtml=async t=>{const e=await fetch(t);return 200!==e.status?'<p><strong>No feed data could be located</p></strong>':e.text()};document.addEventListener('DOMContentLoaded',(async()=>{const t=(new Date).toISOString(),e=document.getElementById('embedbsky-com-timeline-embed');e.style.width=`${containerWidth}px`,e.style.height=`${containerHeight}px`;const n=await getHtml(`https://embedbsky.com/feeds/5fba2aa9a3fe9f7fc7706e06e97c0e168ece11ea03482ff583f41f56732c2c30.html?v=${t}`);e.innerHTML=n}));</script>
 
 <!-- 
