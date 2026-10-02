@@ -196,13 +196,14 @@ Indian Institute of Technology Bombay (August 13, 2025)
 
 ### Central European University, Vienna 
 
-**Fall 2025** 
+**Fall 2026** 
 
-[Economic Analysis for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?type=CORE) with Michael Dorsch
+[Microeconomics for Public Policy](https://ceu.studyguide.timeedit.net/modules/DOPP5664?year=2026&tab=info&type=CORE&mainTab=module) 
 
-**Winter 2026** 
+**Winter 2027** 
 
 [Impact Evaluation: Policy Applications with R](https://ceu.studyguide.timeedit.net/modules/DOPP5078?type=CORE)
+[Bonus module in 2026/2027! Hands-on RCT learning with field-in-the-lab engagement in [Prof. Centofanti's](https://people.ceu.edu/tiziana_centofanti) *Visualizing Causality* experiments]
 
 [Advanced Impact Evaluation](https://ceu.studyguide.timeedit.net/modules/DOPP5383?type=CORE)
 
