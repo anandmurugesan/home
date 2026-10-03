@@ -171,8 +171,7 @@ Vienna Behavioral Circle, Wirtschaftsuniversität (15 November 2024)
 [Democracy Institute Budapest](https://events.ceu.edu/2025-03-31/when-do-citizens-sell-their-votes-evidence-southern-india) Rooftop seminar series (31 March 2025)
 
 [European Public Choice Society 2025](https://epcs2025.sseriga.edu/) (April 3 - 5, 2025)
--->
----
+
 Indian Institute of Technology Bombay (August 13, 2025)
 
 [Workshop in Behavioral Public Economics and Political Economy, Vienna](https://bepe2025.univie.ac.at/) (September 1 - 2, 2025)
@@ -180,7 +179,8 @@ Indian Institute of Technology Bombay (August 13, 2025)
 [Economic Science Association, 2025 European Meeting, Brno](https://esa2025.econ.muni.cz/media/3896100/2025-esa-conference-program.pdf) (September 3 - 6, 2025)
 
 [Vienna Applied Micro Economics Workshop](https://www.viennaappliedmicroeconomics.com/uploads/1/4/3/2/143264130/program_vam_workshop_oct_2025.pdf), Vienna (October 24, 2025)
-
+-->
+---
 [Democracy Institute Budapest Rooftop seminar series](https://events.ceu.edu/2026-02-02/voice-and-vote-behavioral-measures-democratic-resilience) (2 February 2026)
 
 [European Public Choice Society 2026](https://www.epcsmadrid2026.es/preliminary-program-1) (23 - 25 March, 2026)
