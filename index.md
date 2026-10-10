@@ -63,7 +63,7 @@ capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuy
 [No Country for Old Cows: Vigilante Enforcement and the Incidence of Intolerance in India](https://www.dropbox.com/scl/fi/7gsm45u7gix0iy9f4ppc1/Holy_Cow_ECBS_BrownBag_April2024_v3.pdf?rlkey=ts3cko75rkoob75asyaylc3m8&dl=0), with [Jitendra Singh](https://sites.google.com/view/jitendrasingh07)
 
 
-*Seeding hope*: The Participatory Multiplier Effect in Eastern Europe with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) *(r&r)*
+[*Seeding hope*: Empirical Evidence on the Participatory Multiplier Effect in Central and Eastern Europe](https://www.dropbox.com/scl/fi/410ommp9raqeyg51w6u04/SeedingHope_CentofantiMurugesan_9Oct2026_RR2.pdf?rlkey=hz2it5oezn1kmnrq9o4w39ymd&dl=0) with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) *(r&r)*
 [Replication files for tables and graphs](https://www.dropbox.com/scl/fo/p12vlatn16yuiszmqn08j/ADg021n4HgJfTgj8DR_2dfk?rlkey=2y75ikwn6fncpthn8x0fds2kf&dl=0)
 
 <!-- ["Demystifying causal inference: ingredients of a recipe,"](https://www.dropbox.com/s/13fxlc6asavwdaf/demystifycausalinference_ieg_wp393.pdf?dl=0) with Vikram Dayal, *IEG working paper* -->
