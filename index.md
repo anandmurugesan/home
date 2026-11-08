@@ -74,20 +74,20 @@ capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuy
 [Replication files for tables and graphs](https://www.dropbox.com/scl/fo/p12vlatn16yuiszmqn08j/ADg021n4HgJfTgj8DR_2dfk?rlkey=2y75ikwn6fncpthn8x0fds2kf&dl=0)
 
 
-["*Markets for Children*: International Adoption, ART, and U.S. Foster Care,"](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) with [Robert Innes](https://economics.ucmerced.edu/content/robert-innes) *Review of Economics of the Household*, October 2025
+[*Markets for Children*: International Adoption, ART, and U.S. Foster Care,](https://link.springer.com/article/10.1007/s11150-025-09811-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20251016&utm_content=10.1007/s11150-025-09811-3) with [Robert Innes](https://economics.ucmerced.edu/content/robert-innes) *Review of Economics of the Household*, October 2025
 
 [Paying cash for votes](https://www.econstor.eu/bitstream/10419/279254/1/cesifo1_wp10504.pdf) with Jean-Robert Tyran, [*Elgar Encyclopedia of Public Choice*](https://www.e-elgar.com/shop/gbp/elgar-encyclopedia-of-public-choice-9781802207743.html), November 2025
 
-["Leader and citizens participation for the environment: Experimental evidence from Eastern Europe,"](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
+[*Leader and citizens participation for the environment*: Experimental evidence from Eastern Europe,](https://www.sciencedirect.com/science/article/abs/pii/S221480432200088X) with Tiziana Centofanti, *Journal of Behavioral and Experimental Economics,* October 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2ssxp4cj23/1)
 
-["*Drain on your health*: Sanitation externalities from dirty drains in India,"](https://onlinelibrary.wiley.com/doi/10.1111/rode.12924) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics,* November 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2c3kzy4v93/3)
+[*Drain on your health*: Sanitation externalities from dirty drains in India,](https://onlinelibrary.wiley.com/doi/10.1111/rode.12924) with Vikram Dayal and Tauhidur Rahman, *Review of Development Economics,* November 2022 [Replication files on Mendeley Data](https://data.mendeley.com/datasets/2c3kzy4v93/3)
 
-["Air Pollution Trade-Offs in Developing Countries: An Empirical Model of Health Effects in Goa, India,"](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal, and Uma Rajarathnam, *Environment and Development Economics*, June 2021
+[*Air Pollution Trade-Offs in Developing Countries*: An Empirical Model of Health Effects in Goa, India,](https://www.doi.org/10.1017/S1355770X21000152) with Sanghamitra Das, Vikram Dayal, and Uma Rajarathnam, *Environment and Development Economics*, June 2021
 [Replication files](https://www.dropbox.com/sh/nbfek922paco3vl/AACi31LUrwKxoVm4ugDoyTR5a?dl=0)
 
-["Electoral clientelism and vote buying,"](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
+[Electoral clientelism and vote buying,](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1334) *Oxford Research Encyclopedia of Politics*, 2020
 
-["Use of Weather Information for Agricultural Decision Making,"](https://doi.org/10.1175/WCAS-D-12-00022.1) with George Frisvold, *Weather, Climate and Society*, 5, January Issue, 55-69, 2013.
+[Use of Weather Information for Agricultural Decision Making,](https://doi.org/10.1175/WCAS-D-12-00022.1) with George Frisvold, *Weather, Climate and Society*, 5, January Issue, 55-69, 2013.
 
 ### Other
 
