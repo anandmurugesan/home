@@ -70,7 +70,7 @@ capacity through reciprocity](https://www.dropbox.com/scl/fi/tvlghs2d19q10cnvkuy
 [*Demystifying causal inference*: Public Policy Applications with R](https://link.springer.com/book/10.1007/978-981-99-3905-3) (2023), with Vikram Dayal, Springer [Number of Accesses: >13K since 1 October 2023]
 
 ### Publications 
-[*Seeding hope*: Empirical Evidence on the Participatory Multiplier Effect in Central and Eastern Europe](https://www.dropbox.com/scl/fi/410ommp9raqeyg51w6u04/SeedingHope_CentofantiMurugesan_9Oct2026_RR2.pdf?rlkey=hz2it5oezn1kmnrq9o4w39ymd&dl=0) with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) *Accepted at Environmental Development*
+[*Seeding hope*: Empirical Evidence on the Participatory Multiplier Effect in Central and Eastern Europe](https://www.dropbox.com/scl/fi/410ommp9raqeyg51w6u04/SeedingHope_CentofantiMurugesan_9Oct2026_RR2.pdf?rlkey=hz2it5oezn1kmnrq9o4w39ymd&dl=0) with [T. Centofanti](https://people.ceu.edu/tiziana_centofanti) *Accepted at Environmental Development*, November 2026
 [Replication files for tables and graphs](https://www.dropbox.com/scl/fo/p12vlatn16yuiszmqn08j/ADg021n4HgJfTgj8DR_2dfk?rlkey=2y75ikwn6fncpthn8x0fds2kf&dl=0)
 
 
